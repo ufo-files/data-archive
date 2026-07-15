@@ -1,0 +1,19 @@
+{
+  "by_source": {},
+  "by_type": {
+    "audio": 0,
+    "documents": 0,
+    "images": 0,
+    "videos": 0
+  },
+  "count": 0,
+  "excluded": {
+    "non_archive_files": 3,
+    "zip_files": 0
+  },
+  "generated_utc": "2026-07-15T04:42:37.060055Z",
+  "repository": "ufo-files/data-archive",
+  "revision": "95e14f2d08d48574455608f75e07226f14b13d8c",
+  "schema_version": 1,
+  "total_files": 0
+}
