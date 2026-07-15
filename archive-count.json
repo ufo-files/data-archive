@@ -2,22 +2,22 @@
   "by_source": {
     "AARO-UAP-Records": 21,
     "American-Alchemy": 2,
-    "Black-Vault-UFO": 2
+    "Black-Vault-UFO": 3
   },
   "by_type": {
-    "audio": 2,
+    "audio": 3,
     "documents": 23,
     "images": 0,
     "videos": 0
   },
-  "count": 25,
+  "count": 26,
   "excluded": {
     "non_archive_files": 169,
     "zip_files": 0
   },
-  "generated_utc": "2026-07-15T04:52:15.028072Z",
+  "generated_utc": "2026-07-15T04:53:03.083011Z",
   "repository": "ufo-files/data-archive",
-  "revision": "9e6be129dbf10a56290c95faa85c0eec1160cc78",
+  "revision": "f83e00a6f439b8eee9568545175d5c956c80cf4a",
   "schema_version": 1,
-  "total_files": 25
+  "total_files": 26
 }
