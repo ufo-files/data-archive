@@ -1,0 +1,51 @@
+{
+  "documents": [
+    {
+      "archive_filename": "deputy-secretary-of-defense-memorandum-on-unidentified-aerial-phenomena-assessments.pdf",
+      "archive_relative_path": "pdfs/https-media-defense-gov-2021-jun-25-2002749916-1-1-1-deputy-secretary-of-defense-memorandum-on-unidentified-aerial-phenomena-assessments-pdf.pdf",
+      "bytes": 110086,
+      "key": "https://media.defense.gov/2021/Jun/25/2002749916/-1/-1/1/DEPUTY-SECRETARY-OF-DEFENSE-MEMORANDUM-ON-UNIDENTIFIED-AERIAL-PHENOMENA-ASSESSMENTS.PDF",
+      "kind": "pdfs",
+      "page_url": "https://www.energy.gov/nnsa/uapufo-resources-and-documents",
+      "relative_path": "pdfs/https-media-defense-gov-2021-jun-25-2002749916-1-1-1-deputy-secretary-of-defense-memorandum-on-unidentified-aerial-phenomena-assessments-pdf.pdf",
+      "sha256": "99711c4f3aac06659c0de54bf6f69c735dd79a509fd6b85183748a1fbf884389",
+      "source_filename": "DEPUTY-SECRETARY-OF-DEFENSE-MEMORANDUM-ON-UNIDENTIFIED-AERIAL-PHENOMENA-ASSESSMENTS.PDF",
+      "status": "existing",
+      "title": "DEPUTY-SECRETARY-OF-DEFENSE-MEMORANDUM-ON-UNIDENTIFIED-AERIAL-PHENOMENA-ASSESSMENTS",
+      "url": "https://media.defense.gov/2021/Jun/25/2002749916/-1/-1/1/DEPUTY-SECRETARY-OF-DEFENSE-MEMORANDUM-ON-UNIDENTIFIED-AERIAL-PHENOMENA-ASSESSMENTS.PDF"
+    },
+    {
+      "archive_filename": "prelimary-assessment-uap-20210625.pdf",
+      "archive_relative_path": "pdfs/https-www-dni-gov-files-odni-documents-assessments-prelimary-assessment-uap-20210625-pdf.pdf",
+      "bytes": 385812,
+      "key": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+      "kind": "pdfs",
+      "page_url": "https://www.energy.gov/nnsa/uapufo-resources-and-documents",
+      "relative_path": "pdfs/https-www-dni-gov-files-odni-documents-assessments-prelimary-assessment-uap-20210625-pdf.pdf",
+      "sha256": "3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9",
+      "source_filename": "Prelimary-Assessment-UAP-20210625.pdf",
+      "status": "existing",
+      "title": "Prelimary-Assessment-UAP-20210625",
+      "url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+    }
+  ],
+  "last_checked_at": "2026-07-10T03:57:03Z",
+  "last_result": {
+    "deferred": 0,
+    "discovered": 2,
+    "downloaded": 0,
+    "extracted_zips": 0,
+    "failed": 0,
+    "initial_failure_attempts": 3,
+    "max_downloads": null,
+    "monthly_retry_days": 30,
+    "pending": 0,
+    "quarterly_retry_days": 90,
+    "skipped": 2,
+    "stopped": 0
+  },
+  "previous_last_checked_at": "2026-07-10T02:57:39Z",
+  "run_status": "complete",
+  "schema": "energy-nnsa-uap-ufo-archive/v1",
+  "source_url": "https://www.energy.gov/nnsa/uapufo-resources-and-documents"
+}
