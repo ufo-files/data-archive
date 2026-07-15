@@ -1,0 +1,10 @@
++ /home/ufo-agent/.local/bin/yt-dlp --flat-playlist --dump-single-json --no-warnings https://www.youtube.com/@JesseMichels/videos
+Found 130 video(s), downloaded 0, skipped 130, failed 0.
++ /home/ufo-agent/.local/bin/yt-dlp --flat-playlist --dump-single-json --no-warnings https://www.youtube.com/@JesseMichels/videos
+Found 130 video(s), downloaded 0, skipped 130, failed 0.
++ /home/ufo-agent/.local/bin/yt-dlp --flat-playlist --dump-single-json --no-warnings https://www.youtube.com/@JesseMichels/videos
+Found 130 video(s), downloaded 0, skipped 130, failed 0.
++ /home/ufo-agent/.local/bin/yt-dlp --flat-playlist --dump-single-json --no-warnings https://www.youtube.com/@JesseMichels/videos
+Found 130 video(s), downloaded 0, skipped 130, failed 0.
+American Alchemy video monitor is already running.
+Terminated

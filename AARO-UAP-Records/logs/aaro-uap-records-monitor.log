@@ -1,0 +1,479 @@
+2026-07-08T20:56:25Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-08T20:56:25Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-08T20:56:25Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-08T20:56:28Z [1/11] would download https://www.aaro.mil/Portals/136/PDFs/Information Papers/AARO_Declassification_Info_Paper_2025.pdf
+2026-07-08T20:56:28Z [2/11] would download https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf
+2026-07-08T20:56:28Z [3/11] would download https://www.aaro.mil/Portals/136/PDFs/Information Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf
+2026-07-08T20:56:28Z [4/11] would download https://www.aaro.mil/Portals/136/PDFs/Information Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf
+2026-07-08T20:56:28Z [5/11] would download https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf
+2026-07-08T20:56:28Z [6/11] would download https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf
+2026-07-08T20:56:28Z [7/11] would download https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf
+2026-07-08T20:56:28Z [8/11] would download https://www.aaro.mil/Portals/136/PDFs/Information Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf
+2026-07-08T20:56:28Z [9/11] would download https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf
+2026-07-08T20:56:28Z [10/11] would download https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf
+2026-07-08T20:56:28Z [11/11] would download https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf
+2026-07-08T20:56:28Z Discovered 11 document(s); downloaded 0, skipped 0, failed 0, pending 0.
+2026-07-08T20:56:55Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-08T20:56:55Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-08T20:56:55Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-08T20:57:00Z [1/11] downloading https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf
+2026-07-08T20:57:03Z [2/11] pending due to --max-downloads pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T20:57:03Z [3/11] pending due to --max-downloads pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-08T20:57:03Z [4/11] pending due to --max-downloads pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-08T20:57:03Z [5/11] pending due to --max-downloads pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-08T20:57:03Z [6/11] pending due to --max-downloads pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-08T20:57:03Z [7/11] pending due to --max-downloads pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-08T20:57:03Z [8/11] pending due to --max-downloads pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-08T20:57:03Z [9/11] pending due to --max-downloads pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T20:57:03Z [10/11] pending due to --max-downloads pdfs/privacy-impact-assessment-pia.pdf
+2026-07-08T20:57:03Z [11/11] pending due to --max-downloads pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-08T20:57:03Z Discovered 11 document(s); downloaded 1, skipped 0, failed 0, pending 10.
+2026-07-08T20:57:29Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-08T20:57:29Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-08T20:57:30Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-08T20:57:43Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-08T20:57:44Z [2/11] downloading https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf
+2026-07-08T20:57:48Z [3/11] downloading https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf
+2026-07-08T20:57:49Z [4/11] downloading https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf
+2026-07-08T20:57:50Z [5/11] downloading https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf
+2026-07-08T20:58:25Z Download failed for pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#ufo-files-download-target")
+    - locator resolved to <a rel="noopener" target="_blank" class="aarolink" id="ufo-files-download-target" href="/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" title="Department of Homeland Security (DHS) KONA BLUE Information Release" aria-label="Department of Homeland Security (DHS) KONA BLUE Information Release (PDF, opens in a new tab)">Department of Homeland Security (DHS) KONA BLUE I…</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2026-07-08T20:58:26Z [6/11] downloading https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf
+2026-07-08T20:58:28Z [7/11] downloading https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf
+2026-07-08T20:58:58Z Download failed for pdfs/history-and-origin-of-kona-blue.pdf: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#ufo-files-download-target")
+    - locator resolved to <a rel="noopener" target="_blank" class="aarolink" id="ufo-files-download-target" title="History and Origin of Kona Blue" aria-label="History and Origin of Kona Blue (PDF, opens in a new tab)" href="/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf">History and Origin of Kona Blue</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2026-07-08T20:58:58Z [8/11] downloading https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf
+2026-07-08T20:59:00Z [9/11] downloading https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf
+2026-07-08T20:59:01Z [10/11] downloading https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf
+2026-07-08T20:59:02Z [11/11] downloading https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf
+2026-07-08T20:59:03Z Discovered 11 document(s); downloaded 8, skipped 1, failed 2, pending 0.
+2026-07-08T20:59:22Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-08T20:59:22Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-08T20:59:22Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-08T20:59:26Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-08T20:59:27Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T20:59:28Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-08T20:59:28Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-08T20:59:28Z [5/11] downloading https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf
+2026-07-08T21:04:40Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-08T21:04:40Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-08T21:04:40Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-08T21:04:56Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-08T21:04:57Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T21:04:58Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-08T21:04:58Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-08T21:04:58Z [5/11] downloading https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf
+2026-07-08T21:05:01Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-08T21:05:01Z [7/11] downloading https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf
+2026-07-08T21:05:02Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-08T21:05:02Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T21:05:02Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-08T21:05:02Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-08T21:05:02Z Discovered 11 document(s); downloaded 2, skipped 9, failed 0, pending 0.
+2026-07-08T22:02:07Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-08T22:02:07Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-08T22:02:07Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-08T22:02:07Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-08T22:02:08Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-08T22:02:08Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-08T22:02:11Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-08T22:02:11Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-08T22:02:12Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T22:02:12Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T22:02:12Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-08T22:02:12Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-08T22:02:12Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-08T22:02:12Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-08T22:02:12Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-08T22:02:12Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-08T22:02:12Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-08T22:02:12Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-08T22:02:12Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-08T22:02:12Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-08T22:02:13Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-08T22:02:13Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-08T22:02:13Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T22:02:13Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T22:02:13Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-08T22:02:13Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-08T22:02:13Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-08T22:02:13Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-08T22:02:13Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-08T22:02:13Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-08T23:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-08T23:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-08T23:02:02Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-08T23:02:02Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-08T23:02:02Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-08T23:02:02Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-08T23:02:07Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-08T23:02:07Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-08T23:02:07Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T23:02:07Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T23:02:07Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-08T23:02:07Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-08T23:02:07Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-08T23:02:07Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-08T23:02:08Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-08T23:02:08Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-08T23:02:08Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-08T23:02:08Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-08T23:02:08Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-08T23:02:08Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-08T23:02:08Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-08T23:02:08Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-08T23:02:08Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T23:02:08Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-08T23:02:08Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-08T23:02:08Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-08T23:02:08Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-08T23:02:08Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-08T23:02:08Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-08T23:02:08Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T00:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T00:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T00:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T00:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T00:02:01Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T00:02:01Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T00:02:15Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T00:02:15Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T00:02:16Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T00:02:16Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T00:02:17Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T00:02:17Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T00:02:17Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T00:02:17Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T00:02:17Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T00:02:17Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T00:02:17Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T00:02:17Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T00:02:17Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T00:02:17Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T00:02:17Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T00:02:17Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T00:02:17Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T00:02:17Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T00:02:17Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T00:02:17Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T00:02:18Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T00:02:18Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T00:02:18Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T00:02:18Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T00:49:17Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T00:49:17Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T00:49:18Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T00:49:18Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T00:49:19Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T00:49:19Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T00:49:22Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T00:49:22Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T00:49:22Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T00:49:22Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T00:49:22Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T00:49:22Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T00:49:22Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T00:49:22Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T00:49:22Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T00:49:22Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T00:49:22Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T00:49:22Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T00:49:22Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T00:49:22Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T00:49:22Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T00:49:22Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T00:49:22Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T00:49:22Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T00:49:22Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T00:49:22Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T00:49:22Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T00:49:22Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T00:49:22Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T00:49:22Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T01:02:03Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T01:02:03Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T01:02:03Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T01:02:03Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T01:02:04Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T07:20:17Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T07:20:17Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T07:20:17Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T07:20:20Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T07:20:20Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T07:20:20Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T07:20:21Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T07:20:21Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T07:20:21Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T07:20:21Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T07:20:21Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T07:20:21Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T07:20:21Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T07:20:21Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T07:20:21Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T08:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T08:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T08:02:01Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T08:02:04Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T08:02:24Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T08:02:25Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T08:02:26Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T08:02:27Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T08:02:27Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T08:02:27Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T08:02:27Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T08:02:28Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T08:02:28Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T08:02:28Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T08:02:28Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T09:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T09:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T09:02:02Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T09:02:04Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T09:02:04Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T09:02:04Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T09:02:04Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T09:02:04Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T09:02:04Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T09:02:04Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T09:02:04Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T09:02:04Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T09:02:04Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T09:02:05Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T09:02:05Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T10:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T10:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T10:02:13Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: <urlopen error [Errno 101] Network is unreachable>; trying Chromium.
+2026-07-09T11:02:03Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T11:02:04Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T11:02:04Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T11:02:08Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T11:02:08Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T11:02:08Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T11:02:09Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T11:02:09Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T11:02:09Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T11:02:09Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T11:02:09Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T11:02:09Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T11:02:09Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T11:02:09Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T11:02:09Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T12:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T12:02:02Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T12:02:02Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T12:02:41Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T12:02:42Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T12:02:43Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T12:02:43Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T12:02:43Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T12:02:43Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T12:02:43Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T12:02:43Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T12:02:43Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T12:02:44Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T12:02:45Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T12:02:46Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T13:02:05Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T13:02:07Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T13:02:09Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T13:02:13Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T13:02:13Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T13:02:13Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T13:02:13Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T13:02:13Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T13:02:13Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T13:02:13Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T13:02:13Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T13:02:14Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T13:02:14Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T13:02:14Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T13:02:14Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T14:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T14:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T14:02:01Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T14:02:04Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T14:02:04Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T14:02:04Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T14:02:04Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T14:02:04Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T14:02:04Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T14:02:04Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T14:02:04Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T14:02:04Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T14:02:04Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T14:02:04Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T14:02:04Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T15:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T15:02:02Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T15:02:02Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T15:02:06Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T15:02:07Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T15:02:07Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T15:02:08Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T15:02:08Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T15:02:09Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T15:02:09Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T15:02:09Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T15:02:09Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T15:02:10Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T15:02:10Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T15:02:10Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T16:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T16:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T16:02:01Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T16:02:03Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T16:02:03Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T16:02:04Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T16:02:04Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T16:02:04Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T16:02:04Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T16:02:04Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T16:02:04Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T16:02:04Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T16:02:04Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T16:02:04Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T16:02:04Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T17:02:04Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T17:02:06Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T17:02:08Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T17:02:11Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T17:02:11Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T17:02:11Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T17:02:11Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T17:02:12Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T17:02:12Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T17:02:12Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T17:02:12Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T17:02:12Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T17:02:12Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T17:02:12Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T17:02:12Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T18:02:05Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T18:02:08Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T18:02:09Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T18:02:21Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T18:02:29Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T18:02:37Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T18:02:46Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T18:02:54Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T18:03:03Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T18:03:11Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T18:03:20Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T18:03:28Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T18:03:37Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T18:03:46Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T18:03:58Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T19:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T19:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T19:02:01Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T19:02:04Z [1/11] existing pdfs/aaro-declassification-information-paper-2025.pdf
+2026-07-09T19:02:04Z [2/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T19:02:04Z [3/11] existing pdfs/aaro-s-supplement-to-ornl-s-analysis-of-a-metallic-specimen.pdf
+2026-07-09T19:02:04Z [4/11] existing pdfs/correlations-of-starlink-satellite-flaring-with-uap-observations.pdf
+2026-07-09T19:02:04Z [5/11] existing pdfs/department-of-homeland-security-dhs-kona-blue-information-release.pdf
+2026-07-09T19:02:04Z [6/11] existing pdfs/effect-of-forced-perspective-and-parallax-view-on-uap-observations.pdf
+2026-07-09T19:02:04Z [7/11] existing pdfs/history-and-origin-of-kona-blue.pdf
+2026-07-09T19:02:04Z [8/11] existing pdfs/ornl-synopsis-analysis-of-a-metallic-specimen.pdf
+2026-07-09T19:02:04Z [9/11] existing pdfs/ornl-synopsis-analysis-of-an-aluminum-specimen.pdf
+2026-07-09T19:02:05Z [10/11] existing pdfs/privacy-impact-assessment-pia.pdf
+2026-07-09T19:02:05Z [11/11] existing pdfs/white-paper-2025-uap-workshop-narrative-data-infrastructures-and-analysis.pdf
+2026-07-09T19:02:05Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T20:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T20:02:02Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T20:02:02Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T20:02:05Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T21:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T21:02:03Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T21:02:03Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T21:02:14Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T22:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T22:02:03Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T22:02:03Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T22:02:15Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-09T23:02:03Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-09T23:02:07Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-09T23:02:10Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-09T23:03:32Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-10T00:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-10T00:02:03Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-10T00:02:03Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-10T00:02:13Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-10T01:02:03Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-10T01:02:04Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-10T01:02:04Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-10T01:02:12Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, pending 0, extracted_zips 0.
+2026-07-10T02:02:07Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-10T02:02:09Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-10T02:02:11Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-10T02:04:47Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, deferred 0, stopped 0, pending 0, extracted_zips 0.
+2026-07-10T03:02:05Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-10T03:02:06Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-10T03:02:06Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-10T03:05:24Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, deferred 0, stopped 0, pending 0, extracted_zips 0.
+2026-07-10T04:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-10T04:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-10T04:02:01Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-10T04:02:12Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, deferred 0, stopped 0, pending 0, extracted_zips 0.
+2026-07-10T07:02:05Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-10T07:02:05Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-10T07:02:05Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-10T07:02:14Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, deferred 0, stopped 0, pending 0, extracted_zips 0.
+2026-07-11T07:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-11T07:02:02Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-11T07:02:03Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-11T07:02:09Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, deferred 0, stopped 0, pending 0, extracted_zips 0.
+2026-07-12T07:02:02Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-12T07:02:02Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-12T07:02:02Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-12T07:02:05Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, deferred 0, stopped 0, pending 0, extracted_zips 0.
+2026-07-12T07:41:34Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-12T07:41:34Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-12T07:41:35Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-12T07:43:22Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-12T07:43:22Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-12T07:43:22Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-12T07:43:29Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, deferred 0, stopped 0, pending 0, extracted_zips 0.
+2026-07-13T07:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-13T07:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-13T07:02:02Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-13T07:02:06Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, deferred 0, stopped 0, pending 0, extracted_zips 0.
+2026-07-14T07:02:01Z Starting document page monitor for https://www.aaro.mil/UAP-Records/.
+2026-07-14T07:02:01Z Discovering links from https://www.aaro.mil/UAP-Records/
+2026-07-14T07:02:02Z HTTP fetch failed for https://www.aaro.mil/UAP-Records/: Unable to fetch https://www.aaro.mil/UAP-Records/: HTTP Error 403: Forbidden; trying Chromium.
+2026-07-14T07:02:05Z Discovered 11 document(s); downloaded 0, skipped 11, failed 0, deferred 0, stopped 0, pending 0, extracted_zips 0.
