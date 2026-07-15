@@ -1,0 +1,70 @@
+name: Publish live archive count
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-archive-count
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    name: Publish archive-count.json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout archive
+        uses: actions/checkout@v5
+
+      - name: Build live count
+        run: python3 .github/scripts/build_archive_count.py --output archive-count.json
+
+      - name: Validate JSON
+        run: python3 -m json.tool archive-count.json > /dev/null
+
+      - name: Publish stable release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh release view archive-count > /dev/null 2>&1; then
+            gh release create archive-count \
+              --target "$GITHUB_SHA" \
+              --title "Live archive count" \
+              --notes "Machine-readable count of source files currently tracked in data-archive."
+          fi
+          gh release upload archive-count archive-count.json --clobber
+
+      - name: Publish browser-readable JSON
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh api "repos/$GITHUB_REPOSITORY/git/ref/heads/archive-count" > /dev/null 2>&1; then
+            gh api --method POST "repos/$GITHUB_REPOSITORY/git/refs" \
+              -f ref='refs/heads/archive-count' \
+              -f sha="$GITHUB_SHA" > /dev/null
+          fi
+
+          existing_sha=$(gh api "repos/$GITHUB_REPOSITORY/contents/archive-count.json?ref=archive-count" \
+            --jq '.sha' 2> /dev/null || true)
+          content=$(base64 -w 0 archive-count.json)
+          args=(
+            --method PUT
+            "repos/$GITHUB_REPOSITORY/contents/archive-count.json"
+            -f message='Update live archive count'
+            -f branch='archive-count'
+            -f content="$content"
+          )
+          if [[ -n "$existing_sha" ]]; then
+            args+=(-f sha="$existing_sha")
+          fi
+          gh api "${args[@]}" > /dev/null
+
+      - name: Report count
+        run: |
+          count=$(python3 -c 'import json; print(json.load(open("archive-count.json"))["count"])')
+          echo "Published archive-count.json with ${count} source files." >> "$GITHUB_STEP_SUMMARY"
