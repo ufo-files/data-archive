@@ -1,0 +1,77 @@
+{
+  "count": 3,
+  "documents": [
+    {
+      "Date_of_Document": "",
+      "DocumentID": "122174",
+      "Document_Size_MB_Unredacted": 2.2,
+      "Document_Title_Confidential": "UFOs and Mysterious Small Sphere Jean Bastide",
+      "Document_Type_Unredacted": "PDF",
+      "PrimaryKey": "3E8CC280-D2DC-4EB7-AED7-E85D9329C1FD",
+      "dpiarchive_locations": [
+        {
+          "category": "UFOs in Media-Corruption and More",
+          "category_id": "10020",
+          "subcategory": "Media Corruption and Collusion",
+          "subcategory_id": "10073"
+        }
+      ],
+      "error": "Downloaded file is not a valid PDF.",
+      "file": "122174-ufos-and-mysterious-small-sphere-jean-bastide.pdf",
+      "next_retry_after": "2026-08-10T07:18:38Z",
+      "relative_path": "documents/122174-ufos-and-mysterious-small-sphere-jean-bastide.pdf",
+      "retry_stage": "monthly",
+      "status": "deferred",
+      "url": "https://dpiarchive.s3.us-west-1.amazonaws.com/3E8CC280-D2DC-4EB7-AED7-E85D9329C1FD/122174?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASRR4G6UXH25CL2BB/20260715/us-west-1/s3/aws4_request&X-Amz-Date=20260715T211516Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=0fd0e6ac1fbb7424a05cb948447d3bf9b792bfa2f26c7046dfed5197cfc213f6"
+    },
+    {
+      "Date_of_Document": "6/1/2002",
+      "DocumentID": "126259",
+      "Document_Size_MB_Unredacted": 0,
+      "Document_Title_Confidential": "letter to Michael Schratt from Jack Pickett (details of discs) 6-1-02",
+      "Document_Type_Unredacted": "PDF",
+      "PrimaryKey": "15A7D789-7863-4810-B14F-13FD5DB74E69",
+      "dpiarchive_locations": [
+        {
+          "category": "Major Historical UFO Case Files",
+          "category_id": "10024",
+          "subcategory": "Military/Government Contractor Cases ",
+          "subcategory_id": "10090"
+        }
+      ],
+      "error": "HTTP 404",
+      "file": "126259-letter-to-michael-schratt-from-jack-pickett-details-of-discs-6-1-02.pdf",
+      "next_retry_after": "2026-08-10T07:18:38Z",
+      "relative_path": "documents/126259-letter-to-michael-schratt-from-jack-pickett-details-of-discs-6-1-02.pdf",
+      "retry_stage": "monthly",
+      "status": "deferred",
+      "url": "https://dpiarchive.s3.us-west-1.amazonaws.com/15A7D789-7863-4810-B14F-13FD5DB74E69/126259~~r?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASRR4G6UXH25CL2BB/20260715/us-west-1/s3/aws4_request&X-Amz-Date=20260715T211520Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ba9601bf59b0a0048aeb4f81ac972cf96b3d8319cc169ce2e9fd8fb5da75f955"
+    },
+    {
+      "Date_of_Document": "2/17/2003",
+      "DocumentID": "126293",
+      "Document_Size_MB_Unredacted": 0.5,
+      "Document_Title_Confidential": "letter to Michael Schratt from Jack Pickett (comments on speed and altitude specifications of discs) 2-17-03",
+      "Document_Type_Unredacted": "PDF",
+      "PrimaryKey": "7EADB913-D8CB-473C-BC48-E002F18057CC",
+      "dpiarchive_locations": [
+        {
+          "category": "Major Historical UFO Case Files",
+          "category_id": "10024",
+          "subcategory": "Military/Government Contractor Cases ",
+          "subcategory_id": "10090"
+        }
+      ],
+      "error": "HTTP 404",
+      "file": "126293-letter-to-michael-schratt-from-jack-pickett-comments-on-speed-and-altitude-specifications-of-discs-2-17-03.pdf",
+      "next_retry_after": "2026-08-10T07:18:38Z",
+      "relative_path": "documents/126293-letter-to-michael-schratt-from-jack-pickett-comments-on-speed-and-altitude-specifications-of-discs-2-17-03.pdf",
+      "retry_stage": "monthly",
+      "status": "deferred",
+      "url": "https://dpiarchive.s3.us-west-1.amazonaws.com/7EADB913-D8CB-473C-BC48-E002F18057CC/126293~~r?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASRR4G6UXH25CL2BB/20260715/us-west-1/s3/aws4_request&X-Amz-Date=20260715T211520Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=20a830424b6c22759f7f46a3f32f3c863f7fe1dbfe9659176f21ef3e78e1899f"
+    }
+  ],
+  "last_checked_at": "2026-07-15T21:31:13Z",
+  "schema": "dpiarchive-archive/v1/failed-downloads-monthly",
+  "source_url": "https://www.dpiarchive.com/"
+}
