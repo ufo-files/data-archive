@@ -4,22 +4,22 @@
     "American-Alchemy": 2,
     "Black-Vault-UFO": 4344,
     "DOE-NNSA-UAP-UFO": 12,
-    "DPIArchive": 4625
+    "DPIArchive": 4725
   },
   "by_type": {
     "audio": 4,
-    "documents": 8102,
+    "documents": 8202,
     "images": 858,
     "videos": 40
   },
-  "count": 9004,
+  "count": 9104,
   "excluded": {
     "non_archive_files": 208,
     "zip_files": 6
   },
-  "generated_utc": "2026-07-16T19:23:12.772936Z",
+  "generated_utc": "2026-07-16T19:58:56.011791Z",
   "repository": "ufo-files/data-archive",
-  "revision": "1b5b1091e8e1fd39a074444c5c8c129281d6f62c",
+  "revision": "3f9e430e73d471d96b64370d7c0dbd510ea34a54",
   "schema_version": 1,
-  "total_files": 9004
+  "total_files": 9104
 }
