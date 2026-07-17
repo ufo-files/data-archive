@@ -1,0 +1,181 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "shotList": "Summary: Coverage of the Avrocar, a saucer-shaped vehicle with new transition control, flight demonstrations displaying its ability to operate from ground cushion to in-flight over unprepared terrain and ditches.  (Shot list to follow.)  1) Shows modification of the Avrocar control system at the Avro facility. 2) Series of shots of Avrocar being installed in static test rig and testing new control system.  3) MLS of aircraft in tethered flight over ramp. 4) Series of shots of Avrocar being fueled; vertical takeoff; hovering; free flight over concrete, gravel and grass surfaces; ditches and landing.  5) Shows Avro test pilot operating aircraft over various types of terrain and natural obstacles before a contractual group, and USAF pilot flying the aircraft. Good (Basic: Ektachrome mas)",
+    "subjects": [
+      {
+        "heading": "Malton (Ont.)",
+        "authorityType": "geographicPlaceName",
+        "naId": 10037041
+      },
+      {
+        "heading": "Ontario",
+        "authorityType": "geographicPlaceName",
+        "naId": 10045556
+      },
+      {
+        "heading": "Department of Defense. Department of the Air Force. 9/26/1947-",
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 9,
+          "year": 1947,
+          "day": 26,
+          "logicalDate": "1947-09-26"
+        },
+        "naId": 10461759
+      },
+      {
+        "heading": "Motion pictures",
+        "authorityType": "specificRecordsType",
+        "naId": 10631732
+      },
+      {
+        "heading": "Air pilots",
+        "authorityType": "topicalSubject",
+        "naId": 10637125
+      },
+      {
+        "heading": "Runways (Aeronautics)",
+        "authorityType": "topicalSubject",
+        "naId": 10663036
+      },
+      {
+        "heading": "Avrocar (VTOL airplane)",
+        "authorityType": "topicalSubject",
+        "naId": 10666260
+      }
+    ],
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "editStatus": "Edited",
+    "audiovisual": "True",
+    "title": "Avrocar Continuation Test Program and Terrain Test Program",
+    "coverageEndDate": {
+      "month": 6,
+      "year": 1961,
+      "day": 14,
+      "logicalDate": "1961-06-14"
+    },
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Color",
+            "footage": 750,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: RCK",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "coverageStartDate": {
+      "month": 6,
+      "year": 1960,
+      "day": 1,
+      "logicalDate": "1960-06-01"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "generalNotes": [
+      "Contributor: Producer, Avro"
+    ],
+    "localIdentifier": "342-USAF-31135",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(m)-342-USAF-31135",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "342-usaf-31135.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/342/342-usaf/342-usaf-31135.mp4",
+        "objectFileSize": 330520952,
+        "objectId": "301670529",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1947,
+          "logicalDate": "1947-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. 9/26/1947-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 9,
+              "year": 1947,
+              "day": 26,
+              "logicalDate": "1947-09-26"
+            },
+            "naId": 10461759
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1984,
+          "logicalDate": "1984-12-31"
+        },
+        "title": "Moving Images Relating to Military Aviation Activities",
+        "naId": 64437
+      }
+    ],
+    "naId": 68405,
+    "soundType": "Sound"
+  }
+]

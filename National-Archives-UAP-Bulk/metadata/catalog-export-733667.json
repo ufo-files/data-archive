@@ -1,0 +1,152 @@
+[
+  {
+    "inclusiveStartDate": {
+      "year": 1986,
+      "logicalDate": "1986-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Transportation. Federal Aviation Administration. Alaskan Region. 4/1/1967-",
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 4,
+          "year": 1967,
+          "day": 1,
+          "logicalDate": "1967-04-01"
+        },
+        "naId": 10490560
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1986,
+      "logicalDate": "1986-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Correspondence",
+        "authorityType": "specificRecordsType",
+        "naId": 10636066
+      },
+      {
+        "heading": "Reports",
+        "authorityType": "specificRecordsType",
+        "naId": 10630297
+      },
+      {
+        "heading": "Clippings (Books, newspapers, etc.)",
+        "authorityType": "specificRecordsType",
+        "naId": 10631730
+      },
+      {
+        "heading": "Interviews",
+        "authorityType": "specificRecordsType",
+        "naId": 10631738
+      },
+      {
+        "heading": "Transcripts",
+        "authorityType": "specificRecordsType",
+        "naId": 10632698
+      },
+      {
+        "heading": "Air traffic controllers",
+        "authorityType": "topicalSubject",
+        "naId": 10637689
+      },
+      {
+        "heading": "Airlines",
+        "authorityType": "topicalSubject",
+        "naId": 10639075
+      },
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "note": "Most government records are in the public domain, however, this series includes commercial materials, such as newspaper clippings, that may be subject to copyright restrictions. Researchers should contact the copyright holder for information.",
+      "status": "Restricted - Possibly"
+    },
+    "fileUnitCount": 41,
+    "title": "Information Releases Relating to Unidentified Flying Object",
+    "physicalOccurrences": [
+      {
+        "extent": "1 linear foot, 4 linear inches",
+        "referenceUnits": [
+          {
+            "city": "Seattle",
+            "phone": "206-336-5115",
+            "address1": "6125 Sand Point Way NE",
+            "postalCode": "98115-7999",
+            "name": "National Archives at Seattle",
+            "state": "WA",
+            "fax": "206-336-5112",
+            "email": "seattle.archives@nara.gov",
+            "mailCode": "RW-SE"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Paper"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 3,
+            "type": "Letter Archives Box, Standard"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "arrangement": "Unarranged.",
+    "dataControlGroup": {
+      "groupId": "ou=NRIAS,ou=groups",
+      "groupCd": "RWSE"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "localIdentifier": "1203",
+    "variantControlNumbers": [
+      {
+        "note": "Former Alaska Region",
+        "number": "Former Alaska Region",
+        "type": "Search Identifier"
+      },
+      {
+        "number": "Former Alaska Region",
+        "type": "Search Identifier"
+      },
+      {
+        "number": "Former Alaska Region",
+        "type": "Search Identifier"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1922,
+          "logicalDate": "1922-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 237,
+        "inclusiveEndDate": {
+          "year": 2008,
+          "logicalDate": "2008-12-31"
+        },
+        "title": "Records of the Federal Aviation Administration",
+        "naId": 564
+      }
+    ],
+    "scopeAndContentNote": "This series documents the sighting of an unidentified flying object (UFO) by the crew of Japan Airlines flight 1628 while in Alaskan air space. There are transcripts of the pilot's communication with air traffic control personnel; a text of an interview with the captain, Federal Aviation Administration personnel, and an interpreter as well as with the flight engineer and co-pilot. There are also diagrams drawn by the captain detailing the position of the UFO relative to his airplane during the sighting, and a copy of his personal statement on the event.\n\nThere are inspection and surveillance reports; photographs of recreated radar screens simulating the actual sighting; copies of newspaper clippings; and letters from citizens requesting copies of documents related to the sighting.",
+    "naId": 733667
+  }
+]

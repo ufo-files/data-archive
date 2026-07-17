@@ -1,0 +1,238 @@
+[
+  {
+    "accessionNumbers": [
+      "III-NAV-15"
+    ],
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "Buenos Aires (Argentina)",
+        "authorityType": "geographicPlaceName",
+        "naId": 10045330
+      },
+      {
+        "heading": "Springfield (Ill.)",
+        "authorityType": "geographicPlaceName",
+        "naId": 10045844
+      },
+      {
+        "heading": "Olympic Games (15th : 1952 : Helsinki, Finland)",
+        "authorityType": "organization",
+        "naId": 10446422
+      },
+      {
+        "heading": "Stevenson, Adlai E. (Adlai Ewing), 1900-1965",
+        "deathDate": {
+          "year": 1965,
+          "logicalDate": "1965-12-31"
+        },
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "naId": 10582274
+      },
+      {
+        "heading": "Motion pictures",
+        "authorityType": "specificRecordsType",
+        "naId": 10631732
+      },
+      {
+        "heading": "Airplanes, Military",
+        "authorityType": "topicalSubject",
+        "naId": 10639609
+      },
+      {
+        "heading": "Funeral rites and ceremonies",
+        "authorityType": "topicalSubject",
+        "naId": 10640296
+      },
+      {
+        "heading": "Presidential elections",
+        "authorityType": "topicalSubject",
+        "naId": 10644031
+      },
+      {
+        "heading": "Track and field",
+        "authorityType": "topicalSubject",
+        "naId": 10647146
+      }
+    ],
+    "useRestriction": {
+      "note": "May not be reproduced without written permission.",
+      "specificUseRestrictions": [
+        "Donor Restrictions"
+      ],
+      "status": "Restricted - Fully"
+    },
+    "audiovisual": "True",
+    "title": "PARAMOUNT NEWS [JULY 30]",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 621,
+            "format": "Film: MPPC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 35 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 621,
+            "format": "Film: DNC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 35 mm"
+          }
+        ],
+        "copyStatus": "Reproduction"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 621,
+            "format": "Film: PPC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 35 mm"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "copyrightDates": [
+      {
+        "year": 1952,
+        "logicalDate": "1952-01-01"
+      }
+    ],
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "PARA-PN-11.100",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(m)-200-PN-11.100",
+        "type": "NAIL Control Number"
+      },
+      {
+        "number": "NWDNM(m)-PARA-PN-11.100",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "contributors": [
+      {
+        "heading": "Paramount Pictures",
+        "contributorType": "Producer",
+        "authorityType": "organization",
+        "naId": 10445271
+      }
+    ],
+    "otherTitles": [
+      "Paramount News, Vol. 11, No. 100"
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "PARA",
+        "inclusiveStartDate": {
+          "year": 1951,
+          "logicalDate": "1951-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "year": 1951,
+          "logicalDate": "1951-12-31"
+        },
+        "title": "Paramount Pictures, Inc., Collection",
+        "naId": 950
+      },
+      {
+        "inclusiveStartDate": {
+          "month": 10,
+          "year": 1941,
+          "logicalDate": "1941-10-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Paramount News",
+            "authorityType": "organization",
+            "naId": 10468789
+          }
+        ],
+        "inclusiveEndDate": {
+          "month": 3,
+          "year": 1957,
+          "logicalDate": "1957-03-31"
+        },
+        "title": "Motion Picture Newsreel Films",
+        "naId": 98600
+      }
+    ],
+    "scopeAndContentNote": "Part 1, Air Force planes take off to investigate \"flying saucer\" rumors. Shows blips on a, radar screen at Wash., D.C., airport. Shows a sector of N.Y. City's skyline where a \"saucer\" was reported. Gen. Samford tells newsmen there is no cause for worry. Part 2, Argentine street crowds mourn for Eva Peron; crowds pass her bier in Buenos Aires. Part 3 shows an exhibit of dolls, including automatons, in Paris. Part 4, Stevenson talks to Bloomington, Ill., voters; rides in a motorcade through Springfield, Ill.; and poses on the porch of the Governor's mansion. Part 5 shows distance races and decathlon events at the Olympic Games, Helsinki. Ashenfelter, Zatopek, and Mathias win events.",
+    "naId": 99731,
+    "soundType": "Sound"
+  }
+]

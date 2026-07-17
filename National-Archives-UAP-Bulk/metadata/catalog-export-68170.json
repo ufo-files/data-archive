@@ -1,0 +1,226 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "shotList": "Summary: 1) AV & MLS of Avro Facility at Malton, Ontario. 2) Series of shots of full scale Avrocar mockup being constructed of wood. 3) Shows < scale model of Avrocar being built and tested in Avro wind tunnel. 4) Scenes of 1/5 scale model of Avrocar being tested in wind tunnel at WADC. 5) Series of shots of full scale 20-foot segment of the peripheral nozzle and outer portion of wing being constructed and tested for propulsion and control - includes control room scenes and automatic recording equipment. 6) MS of man operating a skeleton hovering Avrocar model in room. 7) MLS of analog computer and oscillograph. 8) Several shots of men working at drawing boards. 9) Series of shots showing manufacture and assembly of first Avrocar and installation of associated equipment. 10) Series of shots of aircraft systems test. 11) Shows first Avrocar being weighed and moved from manufacturing area to test area. Good (Basic: Koda Print)",
+    "subjects": [
+      {
+        "heading": "Ontario",
+        "authorityType": "geographicPlaceName",
+        "naId": 10045556
+      },
+      {
+        "heading": "Department of Defense. Department of the Air Force. Wright-Patterson Air Force Base. 9/18/1947-",
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 9,
+          "year": 1947,
+          "day": 18,
+          "logicalDate": "1947-09-18"
+        },
+        "naId": 10470801
+      },
+      {
+        "heading": "Motion pictures",
+        "authorityType": "specificRecordsType",
+        "naId": 10631732
+      },
+      {
+        "heading": "Aircraft",
+        "authorityType": "topicalSubject",
+        "naId": 10637967
+      },
+      {
+        "heading": "Computers",
+        "authorityType": "topicalSubject",
+        "naId": 10636641
+      },
+      {
+        "heading": "Equipment and supplies",
+        "authorityType": "topicalSubject",
+        "naId": 10637519
+      },
+      {
+        "heading": "Weights and measures",
+        "authorityType": "topicalSubject",
+        "naId": 10643113
+      },
+      {
+        "heading": "Avrocar (VTOL airplane)",
+        "authorityType": "topicalSubject",
+        "naId": 10666260
+      },
+      {
+        "heading": "Wind tunnels",
+        "authorityType": "topicalSubject",
+        "naId": 10664825
+      },
+      {
+        "heading": "Aeronautical research",
+        "authorityType": "topicalSubject",
+        "naId": 10676421
+      }
+    ],
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "editStatus": "Edited",
+    "audiovisual": "True",
+    "title": "DFD Avrocar I Progress Report",
+    "coverageEndDate": {
+      "month": 5,
+      "year": 1959,
+      "logicalDate": "1959-05-31"
+    },
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Color",
+            "footage": 700,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: MPSK",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Color",
+            "footage": 700,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: PPSK",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "coverageStartDate": {
+      "month": 2,
+      "year": 1958,
+      "day": 1,
+      "logicalDate": "1958-02-01"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "generalNotes": [
+      "Contributor: Producer, Avro Aircraft Limited"
+    ],
+    "localIdentifier": "342-USAF-29668",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(m)-342-USAF-29668",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "342-usaf-29668.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/342/342-usaf/342-usaf-29668.mp4",
+        "objectFileSize": 322994503,
+        "objectId": "301670527",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1947,
+          "logicalDate": "1947-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. 9/26/1947-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 9,
+              "year": 1947,
+              "day": 26,
+              "logicalDate": "1947-09-26"
+            },
+            "naId": 10461759
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1984,
+          "logicalDate": "1984-12-31"
+        },
+        "title": "Moving Images Relating to Military Aviation Activities",
+        "naId": 64437
+      }
+    ],
+    "naId": 68170,
+    "soundType": "Sound"
+  }
+]

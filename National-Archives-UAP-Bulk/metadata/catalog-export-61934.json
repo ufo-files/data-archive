@@ -1,0 +1,228 @@
+[
+  {
+    "inclusiveStartDate": {
+      "year": 1950,
+      "logicalDate": "1950-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Chief of Staff. Office of the Assistant Chief of Staff, Intelligence. Aerospace Technical Intelligence Center. (9/21/1959 - 7/1/1961)",
+        "abolishDate": {
+          "month": 7,
+          "year": 1961,
+          "day": 1,
+          "logicalDate": "1961-07-01"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 9,
+          "year": 1959,
+          "day": 21,
+          "logicalDate": "1959-09-21"
+        },
+        "naId": 10468957
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1966,
+      "logicalDate": "1966-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Motion pictures",
+        "authorityType": "specificRecordsType",
+        "naId": 10631732
+      }
+    ],
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "false",
+    "title": "Project Blue Book Motion Picture Films",
+    "physicalOccurrences": [
+      {
+        "extent": "36 film reels",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "specificMediaType": "Film Reel"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 3,
+            "type": "16mm x 1,000' capacity (round)"
+          },
+          {
+            "count": 33,
+            "type": "16mm x 400' capacity (round)"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "extent": "4 film reels, 2 open reel videos, and 2 video cassettes",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Video Cassette"
+          },
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Video Open Reel"
+          },
+          {
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "specificMediaType": "Film Reel"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 2,
+            "type": "1 inch Types A, B, and C"
+          },
+          {
+            "count": 2,
+            "type": "16mm x 1,000' capacity (round)"
+          },
+          {
+            "count": 1,
+            "type": "16mm x 1600' capacity (round)"
+          },
+          {
+            "count": 1,
+            "type": "16mm x 1200' capacity (round)"
+          },
+          {
+            "count": 1,
+            "type": "1/2 inch Betacam (small cassette)"
+          },
+          {
+            "count": 1,
+            "type": "1/2 inch HDCAM SR (small cassette)"
+          }
+        ],
+        "copyStatus": "Reproduction"
+      },
+      {
+        "extent": "11 film reels",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "specificMediaType": "Film Reel"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 1,
+            "type": "35mm x 2,000' capacity (round)"
+          },
+          {
+            "count": 1,
+            "type": "16mm x 800' capacity (round)"
+          },
+          {
+            "count": 9,
+            "type": "16mm x 400' capacity (round)"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "itemCount": 20,
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "341-PBB",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(m)-341-PBB",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "naId": 61934
+  }
+]

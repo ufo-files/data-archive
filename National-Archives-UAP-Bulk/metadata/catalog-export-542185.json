@@ -1,0 +1,224 @@
+[
+  {
+    "custodialHistoryNote": "Pursuant to an agreement between the Air Force and the Smithsonian Institution, the portion of this series covering the pre-1954 period was placed on loan with the National Air and Space Museum (NASM) in 1981. The purpose of this loan was, in part, to enable NASM staff to produce a videodisc (see Record Group 342, Series VID -  National Air and Space Museum Archival Videodiscs: U.S. Air Force Pre-1954 Still Photograph Collection\") of the Air Force's photographic collection. By 1997, this project, though slowed by heavy use of the collection by the public and by various preservation issues, was largely complete. In late 1997 an agreement was reached between NARA, Air Force Records Management, and the NASM to transfer physical and legal custody of the records to NARA.  The move of the records was completed in early January of 1998.",
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. 9/26/1947-",
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 9,
+          "year": 1947,
+          "day": 26,
+          "logicalDate": "1947-09-26"
+        },
+        "naId": 10461759
+      }
+    ],
+    "title": "Black and White Photographs of U.S. Air Force and Predecessors' Activities, Facilities, and Personnel, Domestic and Foreign",
+    "coverageEndDate": {
+      "year": 1975,
+      "logicalDate": "1975-12-31"
+    },
+    "physicalOccurrences": [
+      {
+        "extent": "439 linear feet, 4 linear inches",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-0561",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Still Pictures",
+            "state": "MD",
+            "fax": "301-837-3621",
+            "email": "stillpix@nara.gov",
+            "mailCode": "RDSS"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Negative"
+          },
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Slide"
+          },
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Transparency"
+          },
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Photographic Print"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 879,
+            "type": "Letter Archives Box, Standard"
+          },
+          {
+            "count": 23,
+            "type": "Photograph, 6 x 9 Grey White"
+          },
+          {
+            "count": 13,
+            "type": "Roller Drawer, Negatives, F"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "arrangement": "Negatives are arranged in two groups by enclosure size (large: 8 1/2\"x11\" or 9\"x11\"; and small: 4 1/2\"x5 1/2\"), and thereunder each group is arranged chronologically by the date on which the image was entered into the Air Force central picture depository file, and numerically by the Air Force-assigned item numbers.",
+    "coverageStartDate": {
+      "year": 1863,
+      "logicalDate": "1863-01-01"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-S,ou=groups",
+      "groupCd": "RDSS"
+    },
+    "dateNote": "The photographs in this series were created, accumulated and maintained between 1930 and 1975. They were taken between 1863 and 1975.",
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      }
+    ],
+    "scopeAndContentNote": "The approximately 180,000 black and white negatives in this series correspond to prints in Record Group 342, Series FH (\"Black and White and Color Photographs of U.S. Air Force and Predecessor Agencies Activities, Facilities and Personnel - World War II and Korean War\") and Series B (\"Black and White and Color Photographs of U.S. Air Force Activities, Facilities and Personnel, Domestic and Foreign\").\n\nNegatives in this series appear in two groups- some 154,000 housed in large (8 1/2\"x11\" or 9\"x11\") jackets, and some 26,000 housed in small (4 1/2\"x5 1/2\") jackets. The jacket size does not necessarily indicate negative size, since a majority of the negatives in the large jackets are in fact 4\"x5\" or smaller. A single numerical sequence spans both groups (large-jacket negatives are numbered 1 through 183007 with numerous gaps, and small-jacket negatives are numbered 155001 through 183087 with numerous gaps), with some cross-referencing for the \"overlap\" numbers. For those negatives numbered between 155001 and 183081 that appear in the large-jacket group, an empty jacket appears in the small-jacket group with the notation, \"Original Filed in Oversize File.\" There are no similar cross-reference markers, however, in the large jacket group. Most of the first 5,000 items in the large-jacket group bear the agency designation \"AC\" (for \"Air Corps,\" used principally on 1930's-1940's negatives but continued, for unknown reasons, into the era of the modern U.S. Air Force). Interspersed in the file are items taken earlier and bearing the \"AS\" (Air Service) suffix. The rest of the large jacket entries and the entirety of the small-jacket entries bear the updated \"USAF\" designation. \n\nEntries in both groups are, on the whole, negatives -- the original negative submitted by an Air Force photographer, an Air Force, generated copy negative, or, in some cases, both -- although there are also widely-scattered black and white transparencies and 35mm slides. Accompanying a minority of the negatives are small contact prints (placed within or attached to the respective jackets). Most of the jackets, large and small, bear information about the place, date that the image was taken, date that the image arrived at the central depository, photographic process and format, organizational source, content description, and, increasingly after the mid-1960's, photographer.\n\nThe items in this series document the activities of the U.S. Air Force and its predecessors from the earliest days of military aviation through the Vietnam War. Included are combat images relating to World War I, World War II, the Korean War, post- World War II occupations of Germany and Japan, military incidents and the Cold War. Also included are photographs of aircraft, weapons, fields and installations, tests, organizations, units, and personnel. Photographs related to the history of aviation are also included.",
+    "naId": 542185,
+    "accessionNumbers": [
+      "NN3-342-090-002",
+      "NN3-342-097-001"
+    ],
+    "inclusiveStartDate": {
+      "year": 1930,
+      "logicalDate": "1930-01-01"
+    },
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1975,
+      "logicalDate": "1975-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Aeronautics",
+        "authorityType": "topicalSubject",
+        "naId": 10640157
+      },
+      {
+        "heading": "Aeronautics, Military",
+        "authorityType": "topicalSubject",
+        "naId": 10640705
+      },
+      {
+        "heading": "Armaments",
+        "authorityType": "topicalSubject",
+        "naId": 10640175
+      },
+      {
+        "heading": "Korean War, 1950-1953",
+        "authorityType": "topicalSubject",
+        "naId": 10637595
+      },
+      {
+        "heading": "Low-intensity conflicts (Military science)",
+        "authorityType": "topicalSubject",
+        "naId": 10640356
+      },
+      {
+        "heading": "Military aircraft",
+        "authorityType": "topicalSubject",
+        "naId": 10641952
+      },
+      {
+        "heading": "Military airlifts",
+        "authorityType": "topicalSubject",
+        "naId": 10641953
+      },
+      {
+        "heading": "Military bases",
+        "authorityType": "topicalSubject",
+        "naId": 10642469
+      },
+      {
+        "heading": "Military supplies",
+        "authorityType": "topicalSubject",
+        "naId": 10644752
+      },
+      {
+        "heading": "Soldiers",
+        "authorityType": "topicalSubject",
+        "naId": 10642821
+      },
+      {
+        "heading": "Vietnam War, 1961-1975",
+        "authorityType": "topicalSubject",
+        "naId": 10643608
+      },
+      {
+        "heading": "World War, 1939-1945",
+        "authorityType": "topicalSubject",
+        "naId": 10644634
+      },
+      {
+        "heading": "World War, 1914-1918",
+        "authorityType": "topicalSubject",
+        "naId": 10646525
+      }
+    ],
+    "useRestriction": {
+      "note": "The vast bulk of Record Group 342, Series AF images -- from the Air Force or other government sources -- are in the public domain. There is a very light scattering of materials from commercial sources (newspapers, wire services, studios), indicated on the jacket captions. These items may still be under copyright, and reproduction permission information must be obtained from the respective commercial source.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "false",
+    "accessRestriction": {
+      "note": "Declassified NND 983062. NOTE: All reproductions of items bearing security classification codes must be stamped with the aforementioned declassification authority.",
+      "status": "Unrestricted"
+    },
+    "itemCount": 145,
+    "generalRecordsTypes": [
+      "Photographs and other Graphic Materials"
+    ],
+    "generalNotes": [
+      "NARA created container lists for Record Group 342, Series FH and B and the finding aid \"National Air and Space Museum Archival Videodiscs 3 & 4: U.S. Air Force Collection\" should be used to facilitate use of the indexes."
+    ],
+    "dispositionAuthorityNumbers": [
+      "N1-AFU-88-47"
+    ],
+    "localIdentifier": "342-AF",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNS-342-AF",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "numberingNote": "Record Group, Series, Air Force-assigned Item Number. Item numbers include \"AS\", \"AC\" or \"USAF\" suffixes. EXAMPLE: 342-AF-4982AC or 342-AF-110127USAF."
+  }
+]

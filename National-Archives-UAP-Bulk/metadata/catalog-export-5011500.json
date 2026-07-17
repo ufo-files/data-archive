@@ -1,0 +1,2491 @@
+[
+  {
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "audiovisual": "false",
+    "title": "Gemini VII Air-to-Ground Transcript Volume I",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "city": "Fort Worth",
+            "phone": "817-551-2051",
+            "address1": "1400 John Burgess Drive",
+            "postalCode": "76140",
+            "name": "National Archives at Fort Worth",
+            "state": "TX",
+            "fax": "817-551-2034",
+            "email": "ftworth.archives@nara.gov",
+            "mailCode": "RM-FW"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NRFA,ou=groups",
+      "groupCd": "RMFW"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "localIdentifier": "E. 75",
+    "digitalObjects": [
+      {
+        "objectFilename": "5011500_VolumeI_Page_001.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_001.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700832",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_002.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_002.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700833",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_003.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_003.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700834",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_004.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_004.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700835",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_005.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_005.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700836",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_006.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_006.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700837",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_007.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_007.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700838",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_008.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_008.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700839",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_009.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_009.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700840",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_010.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_010.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700841",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_011.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_011.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700842",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_012.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_012.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700843",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_013.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_013.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700844",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_014.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_014.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700845",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_015.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_015.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700846",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_016.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_016.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700847",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_017.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_017.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700848",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_018.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_018.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700849",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_019.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_019.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700850",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_020.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_020.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700851",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_021.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_021.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700852",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_022.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_022.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700853",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_023.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_023.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700854",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_024.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_024.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700855",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_025.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_025.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700856",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_026.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_026.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700857",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_027.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_027.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700858",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_028.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_028.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700859",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_029.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_029.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700860",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_030.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_030.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700861",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_031.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_031.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700862",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_032.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_032.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700863",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_033.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_033.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700864",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_034.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_034.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700865",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_035.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_035.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700866",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_036.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_036.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700867",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_037.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_037.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700868",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_038.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_038.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700869",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_039.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_039.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700870",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_040.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_040.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700871",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_041.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_041.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700872",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_042.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_042.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700873",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_043.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_043.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700874",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_044.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_044.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700875",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_045.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_045.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700876",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_046.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_046.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700877",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_047.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_047.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700878",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_048.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_048.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700879",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_049.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_049.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700880",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_050.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_050.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700881",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_051.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_051.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700882",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_052.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_052.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700883",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_053.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_053.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700884",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_054.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_054.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700885",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_055.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_055.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700886",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_056.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_056.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700887",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_057.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_057.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700888",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_058.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_058.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700889",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_059.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_059.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700890",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_060.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_060.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700891",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_061.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_061.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700892",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_062.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_062.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700893",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_063.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_063.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700894",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_064.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_064.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700895",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_065.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_065.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700896",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_066.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_066.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700897",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_067.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_067.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700898",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_068.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_068.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700899",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_069.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_069.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700900",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_070.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_070.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700901",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_071.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_071.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700902",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_072.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_072.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700903",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_073.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_073.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700904",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_074.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_074.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700905",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_075.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_075.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700906",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_076.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_076.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700907",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_077.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_077.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700908",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_078.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_078.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700909",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_079.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_079.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700910",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_080.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_080.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700911",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_081.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_081.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700912",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_082.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_082.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700913",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_083.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_083.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700914",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_084.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_084.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700915",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_085.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_085.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700916",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_086.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_086.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700917",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_087.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_087.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700918",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_088.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_088.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700919",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_089.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_089.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700920",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_090.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_090.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700921",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_091.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_091.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700922",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_092.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_092.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700923",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_093.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_093.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700924",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_094.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_094.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700925",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_095.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_095.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700926",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_096.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_096.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700927",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_097.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_097.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700928",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_098.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_098.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700929",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_099.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_099.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700930",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_100.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_100.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700931",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_101.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_101.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700932",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_102.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_102.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700933",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_103.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_103.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700934",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_104.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_104.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700935",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_105.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_105.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700936",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_106.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_106.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700937",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_107.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_107.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700938",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_108.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_108.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700939",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_109.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_109.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700940",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_110.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_110.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700941",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_111.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_111.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700942",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_112.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_112.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700943",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_113.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_113.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700944",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_114.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_114.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700945",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_115.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_115.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700946",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_116.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_116.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700947",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_117.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_117.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700948",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_118.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_118.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700949",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_119.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_119.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700950",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_120.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_120.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700951",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_121.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_121.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700952",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_122.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_122.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700953",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_123.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_123.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700954",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_124.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_124.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700955",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_125.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_125.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700956",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_126.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_126.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700957",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_127.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_127.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700958",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_128.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_128.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700959",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_129.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_129.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700960",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_130.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_130.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700961",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_131.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_131.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700962",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_132.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_132.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700963",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_133.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_133.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700964",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_134.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_134.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700965",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_135.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_135.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700966",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_136.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_136.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700967",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_137.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_137.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700968",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_138.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_138.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700969",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_139.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_139.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700970",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_140.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_140.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700971",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_141.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_141.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700972",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_142.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_142.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700973",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_143.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_143.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700974",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_144.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_144.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700975",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_145.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_145.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700976",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_146.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_146.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700977",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_147.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_147.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700978",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_148.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_148.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700979",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_149.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_149.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700980",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_150.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_150.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700981",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_151.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_151.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700982",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_152.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_152.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700983",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_153.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_153.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700984",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_154.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_154.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700985",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_155.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_155.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700986",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_156.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_156.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700987",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_157.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_157.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700988",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_158.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_158.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700989",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_159.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_159.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700990",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_160.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_160.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700991",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_161.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_161.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700992",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_162.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_162.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700993",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_163.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_163.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700994",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_164.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_164.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700995",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_165.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_165.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700996",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_166.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_166.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700997",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_167.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_167.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700998",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_168.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_168.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700999",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_169.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_169.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701000",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_170.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_170.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701001",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_171.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_171.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701002",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_172.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_172.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701003",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_173.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_173.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701004",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_174.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_174.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701005",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_175.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_175.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701006",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_176.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_176.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701007",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_177.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_177.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701008",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_178.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_178.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701009",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_179.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_179.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701010",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_180.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_180.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701011",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_181.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_181.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701012",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_182.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_182.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701013",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_183.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_183.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701014",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_184.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_184.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701015",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_185.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_185.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701016",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_186.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_186.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701017",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_187.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_187.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701018",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_188.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_188.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701019",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_189.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_189.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701020",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_190.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_190.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701021",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_191.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_191.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701022",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_192.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_192.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701023",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_193.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_193.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701024",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_194.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_194.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701025",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_195.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_195.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701026",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_196.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_196.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701027",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_197.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_197.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701028",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_198.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_198.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701029",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_199.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_199.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701030",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_200.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_200.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701031",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_201.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_201.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701032",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_202.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_202.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701033",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_203.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_203.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701034",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_204.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_204.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701035",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_205.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_205.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701036",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_206.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_206.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701037",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_207.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_207.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701038",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_208.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_208.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701039",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_209.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_209.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701040",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_210.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_210.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701041",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_211.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_211.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701042",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_212.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_212.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701043",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_213.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_213.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701044",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_214.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_214.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701045",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_215.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_215.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701046",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_216.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_216.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701047",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_217.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_217.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701048",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_218.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_218.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701049",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_219.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_219.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701050",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_220.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_220.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701051",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_221.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_221.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701052",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_222.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_222.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701053",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_223.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_223.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701054",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_224.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_224.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701055",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_225.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_225.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701056",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_226.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_226.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701057",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_227.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_227.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701058",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_228.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_228.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701059",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_229.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_229.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701060",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_230.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_230.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701061",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_231.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_231.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701062",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_232.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_232.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701063",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_233.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_233.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701064",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_234.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_234.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701065",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_235.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_235.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701066",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_236.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_236.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701067",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_237.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_237.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701068",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_238.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_238.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701069",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_239.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_239.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701070",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_240.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_240.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701071",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_241.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_241.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701072",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_242.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_242.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701073",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_243.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_243.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701074",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_244.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_244.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701075",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_245.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_245.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701076",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_246.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_246.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701077",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_247.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_247.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701078",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_248.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_248.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701079",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_249.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_249.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701080",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_250.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_250.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701081",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_251.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_251.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701082",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_252.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_252.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701083",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_253.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_253.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701084",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_254.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_254.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701085",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_255.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_255.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701086",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_256.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_256.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701087",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_257.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_257.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701088",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_258.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_258.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701089",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_259.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_259.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701090",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_260.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_260.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701091",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_261.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_261.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701092",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_262.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_262.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701093",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_263.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_263.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701094",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_264.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_264.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701095",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_265.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_265.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701096",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_266.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_266.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701097",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_267.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_267.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701098",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_268.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_268.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701099",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_269.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_269.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701100",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_270.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_270.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701101",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_271.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_271.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701102",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_272.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_272.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701103",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_273.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_273.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701104",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_274.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_274.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701105",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_275.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_275.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701106",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_276.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_276.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701107",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_277.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_277.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701108",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_278.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_278.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701109",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_279.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_279.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701110",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_280.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_280.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701111",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_281.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_281.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701112",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_282.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_282.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701113",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_283.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_283.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701114",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_284.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_284.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701115",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_285.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_285.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701116",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_286.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_286.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701117",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_287.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_287.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701118",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_288.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_288.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701119",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_289.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_289.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701120",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_290.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_290.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701121",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_291.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_291.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701122",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_292.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_292.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701123",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_293.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_293.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701124",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_294.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_294.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701125",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_295.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_295.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701126",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_296.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_296.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701127",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_297.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_297.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701128",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_298.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_298.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701129",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_299.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_299.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701130",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_300.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_300.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701131",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_301.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_301.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701132",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_302.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_302.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701133",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_303.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_303.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701134",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_304.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_304.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701135",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_305.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_305.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701136",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_306.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_306.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701137",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_307.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_307.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701138",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_308.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_308.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701139",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_309.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_309.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701140",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_310.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_310.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701141",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_311.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_311.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701142",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_312.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_312.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701143",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_313.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_313.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701144",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_314.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_314.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701145",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_315.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_315.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701146",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_316.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_316.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701147",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_317.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_317.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701148",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_318.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_318.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701149",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_319.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_319.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701150",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_320.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_320.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701151",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_321.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_321.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701152",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_322.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_322.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701153",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_323.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_323.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701154",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_324.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_324.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701155",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_325.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_325.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701156",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_326.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_326.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701157",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_327.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_327.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701158",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_328.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_328.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701159",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_329.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_329.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701160",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_330.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_330.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701161",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_331.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_331.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701162",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_332.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_332.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701163",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_333.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_333.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701164",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_334.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_334.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701165",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_335.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_335.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701166",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_336.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_336.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701167",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_337.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_337.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701168",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_338.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_338.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701169",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_339.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_339.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701170",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_340.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_340.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701171",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI_Page_341.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI_Page_341.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291701172",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "5011500_VolumeI.pdf",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/fort-worth/rg-255/559951/5011500/5011500_VolumeI.pdf",
+        "objectFileSize": 1234,
+        "objectId": "291700831",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1903,
+          "logicalDate": "1903-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 255,
+        "inclusiveEndDate": {
+          "year": 2006,
+          "logicalDate": "2006-12-31"
+        },
+        "title": "Records of the National Aeronautics and Space Administration",
+        "naId": 582
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1961,
+          "logicalDate": "1961-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. History Office. 2/17/1973-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 2,
+              "year": 1973,
+              "day": 17,
+              "logicalDate": "1973-02-17"
+            },
+            "naId": 10466536
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1974,
+          "logicalDate": "1974-12-31"
+        },
+        "title": "Source Files on Project Gemini",
+        "naId": 559951
+      }
+    ],
+    "scopeAndContentNote": "This file is from the Air-to-Ground transcripts from Gemini VII.",
+    "naId": 5011500
+  }
+]

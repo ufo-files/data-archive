@@ -1,0 +1,150 @@
+[
+  {
+    "accessionNumbers": [
+      "NN-375-209"
+    ],
+    "inclusiveStartDate": {
+      "year": 1954,
+      "logicalDate": "1954-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Chief of Staff. Office of the Assistant Chief of Staff, Intelligence. Aerospace Technical Intelligence Center. (9/21/1959 - 7/1/1961)",
+        "abolishDate": {
+          "month": 7,
+          "year": 1961,
+          "day": 1,
+          "logicalDate": "1961-07-01"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 9,
+          "year": 1959,
+          "day": 21,
+          "logicalDate": "1959-09-21"
+        },
+        "naId": 10468957
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1966,
+      "logicalDate": "1966-12-31"
+    },
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "findingAids": [
+      {
+        "note": "There are two lists of all the audiovisual records, one arranged by case number and the other by agency file number. Each includes the date of the alleged sightings, the locations and a description of the type of audiovisual material.  The names of individual observers have been deleted.",
+        "findingAidType": "Other"
+      }
+    ],
+    "fileUnitCount": 21,
+    "title": "Project \"BLUE BOOK\"",
+    "physicalOccurrences": [
+      {
+        "extent": "1 linear feet,3 linear inches",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-0561",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Still Pictures",
+            "state": "MD",
+            "fax": "301-837-3621",
+            "email": "stillpix@nara.gov",
+            "mailCode": "RDSS"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Photographic Print"
+          },
+          {
+            "specificMediaType": "Negative"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 3,
+            "type": "Letter Archives Box, Standard"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction"
+      },
+      {
+        "extent": "2 linear inches",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-0561",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Still Pictures",
+            "state": "MD",
+            "fax": "301-837-3621",
+            "email": "stillpix@nara.gov",
+            "mailCode": "RDSS"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Microfilm"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 1,
+            "type": "Microfilm Box, 35 mm"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "itemCount": 9,
+    "arrangement": "Numerically by case number. The case number always begins with 1003.",
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-S,ou=groups",
+      "groupCd": "RDSS"
+    },
+    "generalRecordsTypes": [
+      "Photographs and other Graphic Materials"
+    ],
+    "localIdentifier": "341-PBB",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNS-341-PBB",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "scopeAndContentNote": "In December 1947, after the alleged sightings of flying saucers near Mt. Rainer, Washington, the Air Force, whose responsibilities include the air defense of the country, established Project Sign.  Documentation for the project was created and acquired by the Aerial Phenomena Branch, Foreign Technology Division (FTD), Air Force Command (AFSC) until December 1969 when the UFO function was canceled by the Secretary of the Air Force.  From 1951 through 1961, FTD was designated the Aerospace Technical Intelligence Center under Assistant Chief of Staff Intelligence (ASC/l), HQ USAF. Prior to that it was the Intelligence Department of Air Material Command.  The purpose of Project Sign was to determine whether UFO's were a threat to the national security.  In 1948 the project name was changed to Project Grudge and in 1952 the code name was again changed to Project Blue Book and the formal title to Aerial Phenomenon Group.  The sightings were recorded by individuals (whose names were not released), by groups, and by the military. Film records of the alleged sightings were made in- Tulsa, Oklahoma; Australia; Fairchild AFB, Washington; Binghamton, NY; Naha, Okinawa; Snohomish, Washington; Almogordo, New Mexico; Montville, Ohio; Sandusky, Ohio; Olmsted AFB, PA; Keesler AFB, MS; Coburn, VA; and Edwards AFB, CA.  There are 9 rolls of film of timed radar responses in the following locations- Wichita, Kansas; Macao, China; Edwards AFB, CA; Bermuda; Duluth, Minnesota; Queen Charlotte Islands, CANADA. There is a reference set of these records, consisting of contact sheets or positive rolled film.",
+    "naId": 542184,
+    "numberingNote": "Record Group, Series, Last 3 Digits of case Number, Frame Number. Unless otherwise noted on contact print. The case number in all cases begins with \"1003\". EXAMPLE- 341-PBB-464-4."
+  }
+]

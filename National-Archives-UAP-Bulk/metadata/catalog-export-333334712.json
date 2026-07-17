@@ -1,0 +1,132 @@
+[
+  {
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Published material found in this series may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "digitalObjects": [
+      {
+        "objectFilename": "23129262-0425-003-0001.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-003/23129262-0425-003-0001.tif",
+        "objectFileSize": 16553428,
+        "objectId": "333334713",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-003-0002.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-003/23129262-0425-003-0002.tif",
+        "objectFileSize": 17687234,
+        "objectId": "333334714",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-003-0003.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-003/23129262-0425-003-0003.tif",
+        "objectFileSize": 15048488,
+        "objectId": "333334715",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-003.pdf",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-003/23129262-0425-003.pdf",
+        "objectFileSize": 42138628,
+        "objectId": "333334716",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1948,
+          "logicalDate": "1948-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. Continental Air Command. Office of the Air Adjutant General. Office of the Director of Administration. (12/1/1948 - 1952)",
+            "abolishDate": {
+              "year": 1952,
+              "logicalDate": "1952-12-31"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 12,
+              "year": 1948,
+              "day": 1,
+              "logicalDate": "1948-12-01"
+            },
+            "naId": 23811199
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1952,
+          "logicalDate": "1952-12-31"
+        },
+        "title": "Decimal Files",
+        "naId": 23129262
+      }
+    ],
+    "title": "471.6 Guided Missiles, 1 January 1952",
+    "naId": 333334712,
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "425"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    }
+  }
+]

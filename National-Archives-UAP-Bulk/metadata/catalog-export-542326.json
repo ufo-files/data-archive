@@ -1,0 +1,123 @@
+[
+  {
+    "accessionNumbers": [
+      "NN3-342-90-002"
+    ],
+    "inclusiveStartDate": {
+      "year": 1954,
+      "logicalDate": "1954-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. 9/26/1947-",
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 9,
+          "year": 1947,
+          "day": 26,
+          "logicalDate": "1947-09-26"
+        },
+        "naId": 10461759
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1980,
+      "logicalDate": "1980-12-31"
+    },
+    "useRestriction": {
+      "note": "The vast bulk of the Record Group 342, Series B prints are in the public domain. There is a scattering of images from commercial sources which may still be under copyright. Special restrictions apply to the Air Force Art Collection, and a few of the official insignia images. While there are no reproduction fees for the vast majority of the Art Collection items, the Air Force has issued guidelines governing credits, captions, and cropping. These guidelines appear on the first page of each Art Collection notebook. The approximately 100 painting and insignia images from 1954-1980 whose rights are not controlled by the Air Force (along with approximately 200 images from 1981-1985) have been culled out of the main sequence and placed in two separate notebooks, appearing at the very end of Record Group 342, Series B. These images are under copyright, and reproduction permission must be obtained from the respective studios or artists.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "findingAids": [
+      {
+        "note": "No direct, comprehensive, item-level indexing exists for the notebook prints. The Air Force-prepared card indexes for the negatives/slides/transparencies -- Record Group 342, Series X (Subjects) and Z (Personalities) -- provide a partial indexing dimension for the prints, since most of the alphabetical card entries include, along with the negative/slide/transparency numbers, cross-references to print filing categories. Cross-references come in t Thailand -- Crews -- Gunner) or subject-numeric codes (e.g., 040500, indicating the 04 Events/Activities category, notebook number 50). The cross-referencing system, however, is not completely effective. There are numerous instances in which the terms appearing on the cards have not been updated to conform to Norton-system notebook headings; and there are many cases in which the subject-numeric coding fails to take into account a non-Norton, geographic (\"ND\" group) notebook location. Hence, such references become indirect clues, at best, rather than",
+        "findingAidType": "Other"
+      }
+    ],
+    "audiovisual": "false",
+    "title": "Black and White and Color Photographs of U.S. Air Force Activities, Facilities, and Personnel, Domestic and Foreign",
+    "physicalOccurrences": [
+      {
+        "extent": "423 linear feet, 6 linear inches",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-0561",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Still Pictures",
+            "state": "MD",
+            "fax": "301-837-3621",
+            "email": "stillpix@nara.gov",
+            "mailCode": "RDSS"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Photographic Print"
+          },
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Negative"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 1936,
+            "type": "Letter Archives Box, Narrow 2.5 inch"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "itemCount": 144,
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-S,ou=groups",
+      "groupCd": "RDSS"
+    },
+    "generalRecordsTypes": [
+      "Photographs and other Graphic Materials"
+    ],
+    "localIdentifier": "342-B",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNS-342-B",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      }
+    ],
+    "naId": 542326,
+    "numberingNote": "Record Group, Series, Air Force-assigned notebook identifier, negative/slide/transparency number with color (K, KE, KE) or black and white (AC, USAF) designator. The notebook identifier, which appears on the spine, consists of the Norton subject-category number followed by the notebook sequence number within that category (e.g., 01-050), or, alternatively, the ND, VN, TH, or SEA code followed by the notebook sequence number within the code grouping (e.g., VN-86). Notebook numbers are repeated in the respective color and black and white sections for each Norton category or geographical code grouping. EXAMPLES- 342-B-01-050-180660 USAF . . . 342-B-01-050-KE 58339 . . . 342-B-ND-53-K 8679 . . . 342-B-ND-53-113661 USAF. For those black and white personality prints that do not bear standard negative numbers, but, instead, \"Official,\" \"A,\" B,\" or \"C\" identifiers . . . locate the corresponding negative in Record Group 342, Series P, and use that box-folder numbering. For the \"A\" portrait of Gen. Theodore"
+  }
+]

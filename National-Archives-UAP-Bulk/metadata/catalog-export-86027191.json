@@ -1,0 +1,104 @@
+[
+  {
+    "accessionNumbers": [
+      "NN3-255-01-012"
+    ],
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "True",
+    "title": "Walter Kronkite and Gordon Cooper on UFOs",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "pieceCount": 1,
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Audio Tape/Reel",
+            "dimension": "Sound: 1/4 inch on 5 inch reel"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Sound Recordings"
+    ],
+    "localIdentifier": "255-PAOa-807-AAE",
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1903,
+          "logicalDate": "1903-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 255,
+        "inclusiveEndDate": {
+          "year": 2006,
+          "logicalDate": "2006-12-31"
+        },
+        "title": "Records of the National Aeronautics and Space Administration",
+        "naId": 582
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1961,
+          "logicalDate": "1961-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Public Affairs Office. 2/17/1973-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 2,
+              "year": 1973,
+              "day": 17,
+              "logicalDate": "1973-02-17"
+            },
+            "naId": 10511485
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1993,
+          "logicalDate": "1993-12-31"
+        },
+        "title": "Sound Recordings Relating to Mission Activities",
+        "naId": 75815065
+      }
+    ],
+    "naId": 86027191
+  }
+]

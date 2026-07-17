@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-07-10T13:18:10Z",
+  "items": [
+    {
+      "deferred_reason": "remote metadata JSON is malformed; archived copy preserved and rechecked by remote size/hash",
+      "error": "remote metadata JSON is malformed; archived copy preserved and rechecked by remote size/hash",
+      "failed_at": "2026-07-10T13:18:10Z",
+      "failure_count": 1,
+      "kind": "metadata",
+      "next_retry_after": "",
+      "relative_path": "metadata/catalog-export-597821.json",
+      "retry_stage": "monthly",
+      "status": "deferred",
+      "url": "https://s3.amazonaws.com/NARAprodstorage/lz/bulk-downloads/uaps/JSON/catalog-export-597821.json"
+    }
+  ],
+  "schema": "ufo-files-failed-downloads/v1",
+  "source_schema": "nara-uap-bulk-archive/v1"
+}

@@ -1,0 +1,144 @@
+[
+  {
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "digitalObjects": [
+      {
+        "objectFilename": "37294296-009-030-0001.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/26421022/37294296-009-030/37294296-009-030-0001.tif",
+        "objectFileSize": 26225048,
+        "objectId": "333337684",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "37294296-009-030-0002.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/26421022/37294296-009-030/37294296-009-030-0002.tif",
+        "objectFileSize": 26184632,
+        "objectId": "333337685",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "37294296-009-030-0003.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/26421022/37294296-009-030/37294296-009-030-0003.tif",
+        "objectFileSize": 27253922,
+        "objectId": "333337686",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "37294296-009-030-0004.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/26421022/37294296-009-030/37294296-009-030-0004.tif",
+        "objectFileSize": 26417504,
+        "objectId": "333337687",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "37294296-009-030-0005.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/26421022/37294296-009-030/37294296-009-030-0005.tif",
+        "objectFileSize": 26417504,
+        "objectId": "333337688",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "37294296-009-030-0006.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/26421022/37294296-009-030/37294296-009-030-0006.tif",
+        "objectFileSize": 26565680,
+        "objectId": "333337689",
+        "objectType": "Image (TIFF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1975,
+          "logicalDate": "1975-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. Air Force Logistics Command. Oklahoma City Air Logistics Center. (4/1/1974 - 7/1/1992)",
+            "abolishDate": {
+              "month": 7,
+              "year": 1992,
+              "day": 1,
+              "logicalDate": "1992-07-01"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 4,
+              "year": 1974,
+              "day": 1,
+              "logicalDate": "1974-04-01"
+            },
+            "naId": 26861275
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1975,
+          "logicalDate": "1975-12-31"
+        },
+        "title": "Publications Record Set",
+        "naId": 26421022
+      }
+    ],
+    "title": "AFR 80-17/OCAMA-TAFB Sup Unidentified Flying Objects (UFO)",
+    "naId": 37294296,
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "9"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    }
+  }
+]

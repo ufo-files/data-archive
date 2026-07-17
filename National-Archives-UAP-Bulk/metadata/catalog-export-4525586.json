@@ -1,0 +1,130 @@
+[
+  {
+    "accessionNumbers": [
+      "1970-NLF-001"
+    ],
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "note": "Some of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+      "status": "Restricted - Possibly"
+    },
+    "title": "Ford Press Releases - UFO, 1966",
+    "coverageEndDate": {
+      "month": 10,
+      "year": 1966,
+      "logicalDate": "1966-10-31"
+    },
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "city": "Ann Arbor",
+            "phone": "734-205-0555",
+            "address1": "1000 Beal Avenue",
+            "postalCode": "48109-2114",
+            "name": "Gerald R. Ford Library",
+            "state": "MI",
+            "fax": "734-205-0571",
+            "email": "ford.library@nara.gov",
+            "mailCode": "LP-GRF"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Paper",
+            "containerId": "D9",
+            "reproductionCount": 14
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "note": "Some material may have been removed due to donor or other restrictions.",
+      "status": "Restricted - Possibly"
+    },
+    "coverageStartDate": {
+      "month": 3,
+      "year": 1966,
+      "logicalDate": "1966-03-01"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NLGRF,ou=groups",
+      "groupCd": "LPGRF"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "005400797",
+        "type": "PRESNET Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "4525586.pdf",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0054/642076/4525586.pdf",
+        "objectFileSize": 1234,
+        "objectId": "172082067",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "GRF-0054",
+        "inclusiveStartDate": {
+          "year": 1948,
+          "logicalDate": "1948-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "year": 1973,
+          "logicalDate": "1973-12-31"
+        },
+        "title": "Gerald R. Ford Congressional Papers",
+        "naId": 642038
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1965,
+          "logicalDate": "1965-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Ford, Gerald R., 1913-2006",
+            "deathDate": {
+              "year": 2006,
+              "logicalDate": "2006-12-31"
+            },
+            "authorityType": "person",
+            "birthDate": {
+              "year": 1913,
+              "logicalDate": "1913-01-01"
+            },
+            "naId": 10678025
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1973,
+          "logicalDate": "1973-12-31"
+        },
+        "title": "Press Releases Subject Files",
+        "naId": 642076
+      }
+    ],
+    "naId": 4525586
+  }
+]

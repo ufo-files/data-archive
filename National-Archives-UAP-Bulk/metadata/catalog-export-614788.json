@@ -1,0 +1,217 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "editStatus": "Unedited",
+    "audiovisual": "True",
+    "title": "Unidentified Flying Object (UFO) Sighting",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "pieceCount": 1,
+            "color": "Black-and-White",
+            "footage": 446,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: MPPS",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "pieceCount": 1,
+            "color": "Black-and-White",
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "format": "Video: BetacamSP",
+            "specificMediaType": "Video Cassette",
+            "dimension": "1/2 inch"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "pieceCount": 1,
+            "color": "Black-and-White",
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "format": "Video: BetacamSP",
+            "specificMediaType": "Video Cassette",
+            "dimension": "1/2 inch"
+          }
+        ],
+        "copyStatus": "Reproduction"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "pieceCount": 1,
+            "color": "Black-and-White",
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "format": "Video: VHS",
+            "specificMediaType": "Video Cassette",
+            "dimension": "1/2 inch"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "330-DVIC-653",
+    "productionDates": [
+      {
+        "year": 1962,
+        "logicalDate": "1962-01-01"
+      }
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "DFBCF840295",
+        "type": "Agency-Assigned Identifier"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "330-dvic-653.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/330/DVIC/330-dvic-653.mp4",
+        "objectFileSize": 122626553,
+        "objectId": "301670526",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1921,
+          "logicalDate": "1921-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 330,
+        "inclusiveEndDate": {
+          "year": 2008,
+          "logicalDate": "2008-12-31"
+        },
+        "title": "Records of the Office of the Secretary of Defense",
+        "naId": 643
+      },
+      {
+        "inclusiveStartDate": {
+          "dateQualifier": "ca.",
+          "year": 1950,
+          "logicalDate": "1950-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Office of the Secretary of Defense. 9/18/1947-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 9,
+              "year": 1947,
+              "day": 18,
+              "logicalDate": "1947-09-18"
+            },
+            "naId": 10447643
+          }
+        ],
+        "inclusiveEndDate": {
+          "dateQualifier": "ca.",
+          "year": 2000,
+          "logicalDate": "2000-12-31"
+        },
+        "title": "Motion Picture Films and Video Recordings on Five Decades of U.S. Military Activities Around the World",
+        "naId": 561934
+      }
+    ],
+    "scopeAndContentNote": "This film contains aerial coverage of a flight of Atlas F (Test 103) at the Atlantic Missile Range. It shows the missile in flight, then breaking up, with the camera holding on the nose cone, with a smaller object in flight above and behind the nose cone on a parallel path. (Note: one experiment aboard Test 103 was decoy nose cone.)",
+    "naId": 614788,
+    "soundType": "Silent"
+  }
+]

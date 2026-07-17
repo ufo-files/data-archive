@@ -1,0 +1,292 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "shotList": "Covers review of the Flying Saucer controversy with interviews of eyewitnesses to suspected UFO's, and opinions of military and scientific authorities concerning UFO's (narrated by Walter Cronkite).  (Shot list to follow.)  1) Developments in aviation showing flight/hover of Bell Rocket Belt, Avrocar (Canada) US astronaut EVA, Hawker P.1127 (Great Britain), Dassault Mirage III-V (France), EWR-Sud VJ-10lC (West Germany), XV-5A (USA), M-2 lifting body (USA), Lunar Landing Research Vehicle (USA), and XB-70A (USA). 2) Shows Walter Cronkite speaking. 3) Interviews with eyewitnesses to suspected UFO sightings in Michigan, and with UFO enthusiasts at convention who claim to be in contact with the UFO's and/or their crews.  4) Military and scientific authorities giving their opinions concerning UFO's, including Dr. J.A. Hynek, Maj Donald Keough (USMC Ret), AF Secretary Harold Brown, Lt Col Lawrence J. Tacker, Dr. Lyle G. Boyd, Dr. Donald H. Menzel, and officers on duty in NORAD COC and space tracking center.  5)  Scientist creating illusion of UFO in laboratory experiment.  6) Series of still and motion pictures of alleged UFO's.",
+    "subjects": [
+      {
+        "heading": "Cronkite, Walter, 1916-2009",
+        "deathDate": {
+          "year": 2009,
+          "logicalDate": "2009-12-31"
+        },
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1916,
+          "logicalDate": "1916-01-01"
+        },
+        "naId": 10581917
+      },
+      {
+        "heading": "Brown, Harold, 1927-",
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1927,
+          "logicalDate": "1927-01-01"
+        },
+        "naId": 10567921
+      },
+      {
+        "heading": "Motion pictures",
+        "authorityType": "specificRecordsType",
+        "naId": 10631732
+      },
+      {
+        "heading": "Astronautics",
+        "authorityType": "topicalSubject",
+        "naId": 10637144
+      },
+      {
+        "heading": "Interviews",
+        "authorityType": "topicalSubject",
+        "naId": 10637869
+      },
+      {
+        "heading": "Military aircraft",
+        "authorityType": "topicalSubject",
+        "naId": 10641952
+      },
+      {
+        "heading": "Military research",
+        "authorityType": "topicalSubject",
+        "naId": 10644495
+      },
+      {
+        "heading": "Occupations",
+        "authorityType": "topicalSubject",
+        "naId": 10641203
+      },
+      {
+        "heading": "Space vehicles",
+        "authorityType": "topicalSubject",
+        "naId": 10644587
+      },
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      },
+      {
+        "heading": "Vertically rising aircraft",
+        "authorityType": "topicalSubject",
+        "naId": 10664915
+      },
+      {
+        "heading": "Mirage (Fighter planes)",
+        "authorityType": "topicalSubject",
+        "naId": 10663678
+      },
+      {
+        "heading": "B-70 bomber",
+        "authorityType": "topicalSubject",
+        "naId": 10664016
+      },
+      {
+        "heading": "Avrocar (VTOL airplane)",
+        "authorityType": "topicalSubject",
+        "naId": 10666260
+      },
+      {
+        "heading": "M2-F2 (Experimental aircraft)",
+        "authorityType": "topicalSubject",
+        "naId": 10666564
+      },
+      {
+        "heading": "Guided missile systems",
+        "authorityType": "topicalSubject",
+        "naId": 10664602
+      },
+      {
+        "heading": "Control rooms",
+        "authorityType": "topicalSubject",
+        "naId": 10666128
+      }
+    ],
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "editStatus": "Edited",
+    "audiovisual": "True",
+    "title": "FRIEND, FOE, OR FANTASY",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 1900,
+            "format": "Film: DNC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "format": "Video: Digital Betacam",
+            "specificMediaType": "Video Cassette",
+            "dimension": "1/2 inch"
+          }
+        ],
+        "copyStatus": "Reproduction"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Color",
+            "footage": 1900,
+            "format": "Film: PPSK",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Reference"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "format": "Video: U-matic",
+            "specificMediaType": "Video Cassette",
+            "dimension": "3/4 inch"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "342-USAF-41040",
+    "productionDates": [
+      {
+        "year": 1966,
+        "logicalDate": "1966-01-01"
+      }
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(m)-342-USAF-41040",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1947,
+          "logicalDate": "1947-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. 9/26/1947-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 9,
+              "year": 1947,
+              "day": 26,
+              "logicalDate": "1947-09-26"
+            },
+            "naId": 10461759
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1984,
+          "logicalDate": "1984-12-31"
+        },
+        "title": "Moving Images Relating to Military Aviation Activities",
+        "naId": 64437
+      }
+    ],
+    "naId": 69861,
+    "soundType": "Sound"
+  }
+]

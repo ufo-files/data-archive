@@ -1,0 +1,116 @@
+[
+  {
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "digitalObjects": [
+      {
+        "objectFilename": "24899425-003-0001.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/24899425/24899425-001-003/24899425-003-0001.tif",
+        "objectFileSize": 29121684,
+        "objectId": "311003082",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "24899425-003-0002.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/24899425/24899425-001-003/24899425-003-0002.tif",
+        "objectFileSize": 29615760,
+        "objectId": "311003083",
+        "objectType": "Image (TIFF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1951,
+          "logicalDate": "1951-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. Air Defense Command. 1/1/1951-1/15/1968",
+            "abolishDate": {
+              "month": 1,
+              "year": 1968,
+              "day": 15,
+              "logicalDate": "1968-01-15"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 1,
+              "year": 1951,
+              "day": 1,
+              "logicalDate": "1951-01-01"
+            },
+            "naId": 10457200
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1965,
+          "logicalDate": "1965-12-31"
+        },
+        "title": "General Records",
+        "naId": 24899425
+      }
+    ],
+    "title": "REL 2-4-1, UFOs, (1965)",
+    "naId": 311003081,
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "10"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    }
+  }
+]

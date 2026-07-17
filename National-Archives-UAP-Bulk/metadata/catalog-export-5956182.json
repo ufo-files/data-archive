@@ -1,0 +1,172 @@
+[
+  {
+    "accessionNumbers": [
+      "NN3-255-98-016",
+      "NN3-255-01-005",
+      "NN3-255-07-002"
+    ],
+    "inclusiveStartDate": {
+      "year": 1960,
+      "logicalDate": "1960-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Goddard Space Flight Center. Graphic and Publication Services Branch",
+        "authorityType": "organization",
+        "naId": 10443416
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1991,
+      "logicalDate": "1991-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Photographs",
+        "authorityType": "specificRecordsType",
+        "naId": 10657329
+      }
+    ],
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "findingAids": [
+      {
+        "note": "A container list is housed with the records and in the research room.",
+        "source": "NARA",
+        "findingAidType": "Container List"
+      },
+      {
+        "note": "A log for photographs taken between 1977 and 1991 is located in the series “Shelf List and Log to Photographs Relating to Agency Activities, Facilities and Personnel, 1960-1991” (ARC Identifier 5956190).",
+        "source": "National Aeronautics and Space Administration",
+        "findingAidType": "Log"
+      },
+      {
+        "note": "A shelf list for photographs taken between 1960 and 1976, which consists of still photography service request forms and electrostatic copies of original captions is located in the series “Shelf List and Log to Photographs Relating to Agency Activities, Facilities and Personnel, 1960-1991” (ARC Identifier 5956190).",
+        "source": "National Aeronautics and Space Administration",
+        "findingAidType": "Shelf List"
+      }
+    ],
+    "audiovisual": "false",
+    "title": "Photographs Relating to Agency Activities, Facilities and Personnel",
+    "physicalOccurrences": [
+      {
+        "extent": "228 linear feet, 12 linear inches",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-0561",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Still Pictures",
+            "state": "MD",
+            "fax": "301-837-3621",
+            "email": "stillpix@nara.gov",
+            "mailCode": "RDSS"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "mediaOccurrenceNote": "The negatives vary in size from 35mm to 8” x 10”. They were produced by the Photographic: Gelatin Silver and Photographic: Subtractive Color-Chromogenic processes. The piece count and reproduction counts are approximations. Approximately two percent of the negatives have corresponding prints.",
+            "pieceCount": 110000,
+            "process": "Varied",
+            "color": "Black-and-White and Color",
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "physicalRestrictionNote": "These negatives are located in cold vault storage; it will take at least 2 ½ hours to acclimate the material and deliver it to the research room.",
+            "specificMediaType": "Negative",
+            "reproductionCount": 150000,
+            "dimension": "Varied"
+          },
+          {
+            "mediaOccurrenceNote": "The transparencies range in size from 4” x 5” and 8” x 10”. The piece count is an approximation.",
+            "pieceCount": 1500,
+            "process": "Photographic: Subtractive Color-Chromogenic",
+            "color": "Color",
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "physicalRestrictionNote": "These transparencies are located in cold vault storage; it will take at least 2 ½ hours to acclimate the material and deliver it to the research room.",
+            "specificMediaType": "Transparency"
+          },
+          {
+            "mediaOccurrenceNote": "The prints vary in size from 120mm to 8” x 10”. They were produced by the Photographic: Gelatin Silver-Developing Out and Photographic: Subtractive Color-Chromogenic processes. The piece count is an approximation.",
+            "pieceCount": 6000,
+            "process": "Varied",
+            "color": "Black-and-White and Color",
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "physicalRestrictionNote": "Prints for images taken between 1977 and 1991 are located in cold vault storage; it will take at least 2 ½ hours to acclimate the material and deliver it to the research room.",
+            "specificMediaType": "Photographic Print",
+            "dimension": "Varied"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 120,
+            "type": "Letter Archives Box, Narrow 3.5 inch"
+          },
+          {
+            "count": 384,
+            "type": "Letter Archives Box, Standard"
+          },
+          {
+            "count": 1,
+            "type": "Legal Archives Box, Standard"
+          },
+          {
+            "count": 1,
+            "type": "Legal Archives Box, Narrow"
+          },
+          {
+            "count": 60,
+            "type": "Photograph, Regional 12 inch"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "itemCount": 8,
+    "arrangement": "Arranged in rough chronological order by date the image was taken.",
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-S,ou=groups",
+      "groupCd": "RDSS"
+    },
+    "generalRecordsTypes": [
+      "Photographs and other Graphic Materials"
+    ],
+    "dispositionAuthorityNumbers": [
+      "N1-255-94-1"
+    ],
+    "localIdentifier": "255-GS",
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1903,
+          "logicalDate": "1903-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 255,
+        "inclusiveEndDate": {
+          "year": 2006,
+          "logicalDate": "2006-12-31"
+        },
+        "title": "Records of the National Aeronautics and Space Administration",
+        "naId": 582
+      }
+    ],
+    "scopeAndContentNote": "This series consists of photographs taken or acquired by the National Aeronautics and Space Administration's (NASA) Goddard Space Flight Center (GSFC).  Subjects in this series include buildings and facilities, satellite development, space telescopes, unmanned scientific spacecraft development and missions, rocket launches, manned flight missions, VIP visits, NASA personnel, and construction of the center's main campus in Greenbelt, Maryland. Photographs in this series include an image of the GSFC site plan (255-GS-1428); a view of the NASA organizational chart from August 1961 (255-GS-1230); a picture of a 1962 map of Cape Canaveral, Florida (255-GS-62-3245); and construction views of the Rosman Satellite Tracking Station in Rosman, North Carolina (255-GS-63-3208 through 255-GS-63-3231).\n\nImages of or taken by manned space missions include a launch view of Mercury-Atlas 6 (MA-6) with astronaut John Glenn on February 2, 1962 (255-GS-62-3092); in-flight photographs taken during the Gemini II  (255-GS-67-2807 through 255-GS-67-2813) and Gemini VIII missions ( 255-GS-66-7086 through 255-GS-66-7094);  various views from Gemini XII, including the launch, spacewalk, splashdown, and a picture of Astronauts James A. Lovell, Jr. and Buzz Aldrin posing with the spacecraft (255-GS-67-4324 through 255-GS-67-4331); and pictures relating to various Space Shuttle missions throughout the 1980s.  Images relating to unmanned space missions include launch views of Mercury-Atlas 4 (MA-4) on September 13, 1961 (255-GS-62-669); pre-launch images of the Pioneer 7 space probe on August 11, 1966 (255-GS-67-4230 through 255-GS-67-4238); launch views and images of the moon taken by the Lunar Orbiter IV in May 1967 (255-GS-67-9268 through 255-GS-67-9274); and pictures taken by the Surveyor III Lander that explored the moon in April 1967 (255-GS-67-9736 through 255-GS-67-9752). \n\nOther photographs in this series include photographs relating to satellites and space telescopes, including an image of Echo I (255-GS-63-536); a launch view of the Orbiting Solar Observatory (OSO) in 1962 (255-GS-62-3096); a picture of an artist drawing of a Syncom satellite (255-GS-62-661); a view of the Intelsat II F-2 satellite being launched on January 11, 1967 (255-GS-67-4903); various mosaic images of Earth taken by Landstat satellites; and observations of Halley's Comet taken in 1985 by the International Ultraviolet Explorer (255-GS-85-5606, 255-GS-85-5607, 255-GS-85-5641 and 255-GS-85-5642).\n\nPersonalities in this series include portraits of President John F. Kennedy (255-GS-1690); NASA Space Physicist Don Lind (255-GS-66-7076 to 255-GS-66-7085); Assistant Director of GSFC, E. W. Wasielewski (255-GS-328 to 255-GS-333); NASA Administrator James E. Webb (255-GS-62-391); Director of the Goddard Institute of Space Studies, Robert Jastrow (255-GS-63-1661); Chief of the GSFC Manned Space Flight Support Division, Niles R. Heller (255-GS-67-2852); Aerospace engineer and NASA project manager, Marjorie Townsend (255-GS-67-3528); National Space Science Data Center (NSSDC) Director James Vette (255-GS-67-4742); Marshall Space Flight Center Director Wernher von Braun (255-GS-67-8545); and a reproduction of a group portrait of the Mercury Seven astronauts (255-GS-2026).  Also included are views of Apollo Mission Director William Schneider visiting GSFC in September 1967 (255-GS-68-637 and 255-GS-68-638); astronauts Gus Grissom and Deke Slayton visiting GSFC in March 1961; astronaut John Glenn and broadcast journalist Walter Cronkite visiting GSFC in March 1965 (255-GS-65-7068); Manned Flight Support Director Ozro M. Covington at his desk in November 1966 (255-GS-67-3501); and astronaut John Glenn visiting Pope Paul VI in October 1965 during the first NASA goodwill tour of Europe (255-GS-66-4472).  In addition, this series includes pictures of VIP visits to the center's main campus including Robert H. Goddard on September 27. 1961 (255-GS-62-482 through 255-GS-62-491); President John F. Kennedy on July 8, 1962 (255-GS-63-124); Vice President Hubert H. Humphrey on March 14, 1966 (255-GS-66-5436); and President Richard M. Nixon visiting during the Apollo 13 mission (255-GS-70-7539 to 255-GS-70-7566).",
+    "naId": 5956182,
+    "functionAndUse": "The Graphic and Publication Services Branch created, accumulated and maintained these photographs as a visual record of activities, facilities and personnel of the National Aeronautic and Space Administration."
+  }
+]

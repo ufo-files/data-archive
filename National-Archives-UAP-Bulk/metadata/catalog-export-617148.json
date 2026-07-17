@@ -1,0 +1,114 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "editStatus": "Edited",
+    "audiovisual": "True",
+    "title": "Unidentified Flying Objects",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "color": "Color",
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: MPPCK",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "generalNotes": [
+      "This footage also exists as 263.95 (NAID: 5954651)"
+    ],
+    "localIdentifier": "263.95",
+    "productionDates": [
+      {
+        "year": 1956,
+        "logicalDate": "1956-01-01"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1894,
+          "logicalDate": "1894-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 263,
+        "inclusiveEndDate": {
+          "year": 2002,
+          "logicalDate": "2002-12-31"
+        },
+        "title": "Records of the Central Intelligence Agency",
+        "naId": 590
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1947,
+          "logicalDate": "1947-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Central Intelligence Agency. 12/4/1981-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 12,
+              "year": 1981,
+              "day": 4,
+              "logicalDate": "1981-12-04"
+            },
+            "naId": 10452476
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1984,
+          "logicalDate": "1984-12-31"
+        },
+        "title": "Moving Images Relating to Intelligence and International Relations",
+        "naId": 592764
+      }
+    ],
+    "scopeAndContentNote": "This item is an edited production featuring footage of unidentified flying objects from both Montana and Utah. Captions included at the beginning and the end of the film maintain that the footage was authentic and that the footage was studied by the Photo Reconnaissance Laboratory at Wright-Patterson Air Force Base and the US Navy Photo Interpretation Center in Washington DC, adding that staff were unable to identify the objects.",
+    "naId": 617148,
+    "soundType": "Sound"
+  }
+]

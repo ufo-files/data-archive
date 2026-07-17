@@ -1,0 +1,123 @@
+[
+  {
+    "accessionNumbers": [
+      "NN3-517-11-002"
+    ],
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "productionSeriesNumber": "1030",
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "True",
+    "title": "Science World 1030",
+    "productionSeriesTitle": "Science World",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "pieceCount": 1,
+            "reelTapeDiscNumber": 1,
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "format": "Video: Betacam SX",
+            "specificMediaType": "Video Cassette",
+            "dimension": "1/2 inch"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "517-BBG-50046",
+    "productionDates": [
+      {
+        "year": 2002,
+        "logicalDate": "2002-01-01"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "517-bbg-50046.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/517/BBG/517-bbg-50046.mp4",
+        "objectFileSize": 465141176,
+        "objectId": "301670535",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1973,
+          "logicalDate": "1973-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 517,
+        "inclusiveEndDate": {
+          "year": 9999,
+          "logicalDate": "9999-12-31"
+        },
+        "title": "Records of the U.S. Agency for Global Media",
+        "naId": 3074318
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1999,
+          "logicalDate": "1999-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Broadcasting Board of Governors. International Broadcasting Bureau. 10/1999-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 10,
+              "year": 1999,
+              "logicalDate": "1999-10-01"
+            },
+            "naId": 10506048
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 2009,
+          "logicalDate": "2009-12-31"
+        },
+        "title": "Video Tape Programs and Worldnet Broadcasts",
+        "naId": 74221734
+      }
+    ],
+    "scopeAndContentNote": "The agency provided description reads as follows: \n\nThis episode contains the following stories: the search for extraterrestrial life, Mars life, Roswell profile: Milton Hourcade/UFO investigator The producer of this video is Paul Sisco.",
+    "naId": 77179268
+  }
+]

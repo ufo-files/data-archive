@@ -1,0 +1,2 @@
+status	retry_stage	kind	relative_path	url	error	failure_count	failed_at	next_retry_after	deferred_reason
+deferred	monthly	metadata	metadata/catalog-export-597821.json	https://s3.amazonaws.com/NARAprodstorage/lz/bulk-downloads/uaps/JSON/catalog-export-597821.json	remote metadata JSON is malformed; archived copy preserved and rechecked by remote size/hash	1	2026-07-10T13:18:10Z		remote metadata JSON is malformed; archived copy preserved and rechecked by remote size/hash

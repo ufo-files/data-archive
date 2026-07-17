@@ -1,0 +1,236 @@
+[
+  {
+    "accessionNumbers": [
+      "NN3-341-01-001"
+    ],
+    "inclusiveStartDate": {
+      "year": 1946,
+      "logicalDate": "1946-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Secretary. Office of the Administrative Assistant. Office of the Deputy for Security and Special Investigative Programs. Research Declassification Team. 1987-",
+        "authorityType": "organization",
+        "establishDate": {
+          "year": 1987,
+          "logicalDate": "1987-01-01"
+        },
+        "naId": 10529324
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1996,
+      "logicalDate": "1996-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Roswell (N.M.)",
+        "authorityType": "geographicPlaceName",
+        "naId": 10045843
+      },
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions.",
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "false",
+    "title": "Moving Images Relating to \"The Roswell Reports\" Source Data Research Files",
+    "physicalOccurrences": [
+      {
+        "extent": "5 film reels, 44 video cassettes",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "color": "Color",
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          },
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Video Cassette",
+            "dimension": "3/4 inch"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 4,
+            "type": "16mm x 400' capacity (round)"
+          },
+          {
+            "count": 10,
+            "type": "1/2 inch VHS"
+          },
+          {
+            "count": 12,
+            "type": "1/2 inch Betacam (small cassette)"
+          },
+          {
+            "count": 17,
+            "type": "1/2 inch Betacam (large cassette)"
+          },
+          {
+            "count": 5,
+            "type": "3/4 inch U-matic (regular)"
+          },
+          {
+            "count": 1,
+            "type": "35mm x 1,000' capacity (round)"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "extent": "1 film reel, 30 video cassettes",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "specificMediaType": "Film Reel"
+          },
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Video Cassette"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 1,
+            "type": "16mm x 400' capacity (round)"
+          },
+          {
+            "count": 1,
+            "type": "1/2 inch VHS"
+          },
+          {
+            "count": 14,
+            "type": "1/2 inch Betacam (small cassette)"
+          },
+          {
+            "count": 15,
+            "type": "1/2 inch Betacam (large cassette)"
+          }
+        ],
+        "copyStatus": "Reproduction"
+      },
+      {
+        "extent": "49 video cassettes, 16 DVDs",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Video Cassette"
+          },
+          {
+            "generalMediaTypes": [
+              "Optical Disks"
+            ],
+            "specificMediaType": "Optical Disk: Digital Versatile Disk"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 16,
+            "type": "DVD Storage Case"
+          },
+          {
+            "count": 49,
+            "type": "1/2 inch VHS"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "itemCount": 45,
+    "arrangement": "Arranged numerically by NARA-assigned number.",
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "341-ROSWELL",
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "scopeAndContentNote": "This series consists of moving picture films and video recordings of high altitude balloon tests and flights (including those made with anthropomorphic dummies and by U.S. Air Force personnel); footage of various high-altitude projects such as Project Mogul, Excelsior III, Manhigh, and Stargazer; and interviews with alleged witnesses to the Unidentified Flying Object (UFO) crash site at Roswell, New Mexico. Included also, is the final edited version of the U.S. Air Force video report that was compiled to accompany \"The Roswell Report\" publication issued in 1997.",
+    "naId": 566658,
+    "functionAndUse": "These records were created or acquired in the process of investigating and gathering research materials to prepare the U.S. Air Force official publications \"The Roswell Reports\" in 1994 and 1997. The reports examined alleged incidents of an Unidentified Flying Object (UFO) crash at Roswell, New Mexico in July 1947.",
+    "numberingNote": "Items are numbered from 1 to 44."
+  }
+]

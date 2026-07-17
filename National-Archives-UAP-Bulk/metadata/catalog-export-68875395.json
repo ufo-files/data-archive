@@ -1,0 +1,134 @@
+[
+  {
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "digitalObjects": [
+      {
+        "objectFilename": "41049902-002-058-0001.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/41049902/41049902-002-058/41049902-002-058-0001.tif",
+        "objectFileSize": 6676631,
+        "objectId": "333339361",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "41049902-002-058-0002.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/41049902/41049902-002-058/41049902-002-058-0002.tif",
+        "objectFileSize": 2591799,
+        "objectId": "333339362",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "41049902-002-058-0003.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/41049902/41049902-002-058/41049902-002-058-0003.tif",
+        "objectFileSize": 7402373,
+        "objectId": "333339363",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "41049902-002-058-0004.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/41049902/41049902-002-058/41049902-002-058-0004.tif",
+        "objectFileSize": 6250369,
+        "objectId": "333339364",
+        "objectType": "Image (TIFF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "month": 1,
+          "year": 1968,
+          "day": 12,
+          "logicalDate": "1968-01-12"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. Aerospace Defense Command. 4600th Air Base Wing. (1/15/1968 - 3/15/1975)",
+            "abolishDate": {
+              "month": 3,
+              "year": 1975,
+              "day": 15,
+              "logicalDate": "1975-03-15"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 1,
+              "year": 1968,
+              "day": 15,
+              "logicalDate": "1968-01-15"
+            },
+            "naId": 27489174
+          }
+        ],
+        "inclusiveEndDate": {
+          "month": 12,
+          "year": 1971,
+          "day": 30,
+          "logicalDate": "1971-12-30"
+        },
+        "title": "Headquarters Publications Record Set",
+        "naId": 41049902
+      }
+    ],
+    "title": "Obsolete During 1969: 4600 Air Base Wing Supplement 1 to Air Force Regulation 80-17, Unidentified Flying Objects (UFO), 10 January 1967; Superseded, 15 April 1969",
+    "naId": 68875395,
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "2"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    }
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "accessionNumbers": [
+      "NN3-306-93-002"
+    ],
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "Video recordings",
+        "authorityType": "specificRecordsType",
+        "naId": 10632690
+      },
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "note": "Issued February 6, 1990, this law provides for the domestic release and distribution of USIA motion pictures, films, videotapes, and other materials 12 years after initial dissemination overseas, or, if not disseminated, 12 years from the preparation of the material.",
+      "specificUseRestrictions": [
+        "Public Law 101-246"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "True",
+    "releaseDates": [
+      {
+        "year": 1987,
+        "logicalDate": "1987-01-01"
+      }
+    ],
+    "title": "FOREIGN PRESS CENTER BRIEFING WITH B. MACCABEE, L. KOSS, J. SHANDERA, AND B. HOPKINS",
+    "productionSeriesTitle": "Foreign Press Center Briefings",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Video Cassette"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "broadcastDates": [
+      {
+        "month": 6,
+        "year": 1987,
+        "day": 25,
+        "logicalDate": "1987-06-25"
+      }
+    ],
+    "localIdentifier": "306-FP-17",
+    "productionDates": [
+      {
+        "year": 1987,
+        "logicalDate": "1987-01-01"
+      }
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "AB32310",
+        "type": "Agency-Assigned Identifier"
+      },
+      {
+        "number": "NWDNM(m)-306-FP-17",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "306-fp-17.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/306/FP/306-fp-17.mp4",
+        "objectFileSize": 945584664,
+        "objectId": "301670523",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 306,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of the U.S. Information Agency",
+        "naId": 622
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1983,
+          "logicalDate": "1983-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "U.S. Information Agency. (8/24/1982 - 10/1/1999)",
+            "abolishDate": {
+              "month": 10,
+              "year": 1999,
+              "day": 1,
+              "logicalDate": "1999-10-01"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 8,
+              "year": 1982,
+              "day": 24,
+              "logicalDate": "1982-08-24"
+            },
+            "naId": 10452775
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1988,
+          "logicalDate": "1988-12-31"
+        },
+        "title": "Video Recordings from the \"Foreign Press\" Program Series",
+        "naId": 56087
+      }
+    ],
+    "scopeAndContentNote": "ON THE RECORD BRIEFING WAS GIVEN BY DR. BRUCE S. MACCABEE, NAVY PHYSICIST AND CHAIRMAN OF THE FUND FOR U.F.O. RESEARCH, MR. LAWRENCE KOSS, MR. JAMIE SHANDERA AND MR. BUDD HOPKINS, AUTHOR OF MISSING TIME AND INTRUDERS ON THE TOPIC, \"THE 40 YEAR HISTORY OF UNIDENTIFIED FLYING OBJECTS FROM A WORLDWIDE PERSPECTIVE.\"  GROUP HAD SEVERAL SIGHTINGS IN THEIR RESPECTIVE COUNTRIES. INTEREST IN UFO OBJECTS APPEARED OF GREAT INTEREST TO THE LARGE GATHERING OF CORRESPONDENTS.",
+    "naId": 56103
+  }
+]

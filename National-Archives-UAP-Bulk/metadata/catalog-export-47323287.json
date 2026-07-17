@@ -1,0 +1,767 @@
+[
+  {
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "digitalObjects": [
+      {
+        "objectFilename": "38222946-001-005-0001.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0001.tif",
+        "objectFileSize": 2688487,
+        "objectId": "333338029",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0002.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0002.tif",
+        "objectFileSize": 3436635,
+        "objectId": "333338030",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0003.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0003.tif",
+        "objectFileSize": 3216679,
+        "objectId": "333338031",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0004.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0004.tif",
+        "objectFileSize": 2146323,
+        "objectId": "333338032",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0005.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0005.tif",
+        "objectFileSize": 2470667,
+        "objectId": "333338033",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0006.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0006.tif",
+        "objectFileSize": 2214033,
+        "objectId": "333338034",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0007.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0007.tif",
+        "objectFileSize": 649243,
+        "objectId": "333338035",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0008.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0008.tif",
+        "objectFileSize": 446281,
+        "objectId": "333338036",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0009.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0009.tif",
+        "objectFileSize": 2932655,
+        "objectId": "333338037",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0010.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0010.tif",
+        "objectFileSize": 2741243,
+        "objectId": "333338038",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0011.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0011.tif",
+        "objectFileSize": 3196399,
+        "objectId": "333338039",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0012.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0012.tif",
+        "objectFileSize": 3112465,
+        "objectId": "333338040",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0013.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0013.tif",
+        "objectFileSize": 2932009,
+        "objectId": "333338041",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0014.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0014.tif",
+        "objectFileSize": 3428823,
+        "objectId": "333338042",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0015.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0015.tif",
+        "objectFileSize": 2734689,
+        "objectId": "333338043",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0016.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0016.tif",
+        "objectFileSize": 3031469,
+        "objectId": "333338044",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0017.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0017.tif",
+        "objectFileSize": 3317191,
+        "objectId": "333338045",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0018.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0018.tif",
+        "objectFileSize": 2867079,
+        "objectId": "333338046",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0019.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0019.tif",
+        "objectFileSize": 2972957,
+        "objectId": "333338047",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0020.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0020.tif",
+        "objectFileSize": 3084861,
+        "objectId": "333338048",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0021.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0021.tif",
+        "objectFileSize": 1178537,
+        "objectId": "333338049",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0022.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0022.tif",
+        "objectFileSize": 2395433,
+        "objectId": "333338050",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0023.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0023.tif",
+        "objectFileSize": 2217469,
+        "objectId": "333338051",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0024.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0024.tif",
+        "objectFileSize": 2455203,
+        "objectId": "333338052",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0025.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0025.tif",
+        "objectFileSize": 2045651,
+        "objectId": "333338053",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0026.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0026.tif",
+        "objectFileSize": 2560137,
+        "objectId": "333338054",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0027.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0027.tif",
+        "objectFileSize": 3112517,
+        "objectId": "333338055",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0028.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0028.tif",
+        "objectFileSize": 2343477,
+        "objectId": "333338056",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0029.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0029.tif",
+        "objectFileSize": 2451347,
+        "objectId": "333338057",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0030.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0030.tif",
+        "objectFileSize": 2364295,
+        "objectId": "333338058",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0031.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0031.tif",
+        "objectFileSize": 6699323,
+        "objectId": "333338059",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0032.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0032.tif",
+        "objectFileSize": 6837413,
+        "objectId": "333338060",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0033.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0033.tif",
+        "objectFileSize": 6457965,
+        "objectId": "333338061",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0034.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0034.tif",
+        "objectFileSize": 6691729,
+        "objectId": "333338062",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0035.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0035.tif",
+        "objectFileSize": 6926915,
+        "objectId": "333338063",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0036.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0036.tif",
+        "objectFileSize": 6401001,
+        "objectId": "333338064",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0037.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0037.tif",
+        "objectFileSize": 6664229,
+        "objectId": "333338065",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0038.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0038.tif",
+        "objectFileSize": 6625191,
+        "objectId": "333338066",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0039.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0039.tif",
+        "objectFileSize": 7066507,
+        "objectId": "333338067",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0040.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0040.tif",
+        "objectFileSize": 7079591,
+        "objectId": "333338068",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0041.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0041.tif",
+        "objectFileSize": 6980619,
+        "objectId": "333338069",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0042.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0042.tif",
+        "objectFileSize": 6405915,
+        "objectId": "333338070",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0043.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0043.tif",
+        "objectFileSize": 5626241,
+        "objectId": "333338071",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0044.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0044.tif",
+        "objectFileSize": 5550201,
+        "objectId": "333338072",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0045.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0045.tif",
+        "objectFileSize": 5312043,
+        "objectId": "333338073",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0046.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0046.tif",
+        "objectFileSize": 5270449,
+        "objectId": "333338074",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0047.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0047.tif",
+        "objectFileSize": 6574401,
+        "objectId": "333338075",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0048.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0048.tif",
+        "objectFileSize": 6566755,
+        "objectId": "333338076",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0049.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0049.tif",
+        "objectFileSize": 6534861,
+        "objectId": "333338077",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0050.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0050.tif",
+        "objectFileSize": 6841587,
+        "objectId": "333338078",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0051.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0051.tif",
+        "objectFileSize": 6476989,
+        "objectId": "333338079",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0052.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0052.tif",
+        "objectFileSize": 6780613,
+        "objectId": "333338080",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0053.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0053.tif",
+        "objectFileSize": 6601337,
+        "objectId": "333338081",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0054.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0054.tif",
+        "objectFileSize": 5063859,
+        "objectId": "333338082",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0055.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0055.tif",
+        "objectFileSize": 4153307,
+        "objectId": "333338083",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0056.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0056.tif",
+        "objectFileSize": 2777823,
+        "objectId": "333338084",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0057.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0057.tif",
+        "objectFileSize": 3225161,
+        "objectId": "333338085",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0058.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0058.tif",
+        "objectFileSize": 3332531,
+        "objectId": "333338086",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0059.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0059.tif",
+        "objectFileSize": 3070425,
+        "objectId": "333338087",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0060.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0060.tif",
+        "objectFileSize": 2974995,
+        "objectId": "333338088",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0061.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0061.tif",
+        "objectFileSize": 2652593,
+        "objectId": "333338089",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0062.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0062.tif",
+        "objectFileSize": 3098561,
+        "objectId": "333338090",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0063.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0063.tif",
+        "objectFileSize": 5797125,
+        "objectId": "333338091",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0064.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0064.tif",
+        "objectFileSize": 5680411,
+        "objectId": "333338092",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0065.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0065.tif",
+        "objectFileSize": 6214675,
+        "objectId": "333338093",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0066.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0066.tif",
+        "objectFileSize": 5921515,
+        "objectId": "333338094",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0067.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0067.tif",
+        "objectFileSize": 3740005,
+        "objectId": "333338095",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0068.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0068.tif",
+        "objectFileSize": 4148477,
+        "objectId": "333338096",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0069.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0069.tif",
+        "objectFileSize": 4212345,
+        "objectId": "333338097",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0070.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0070.tif",
+        "objectFileSize": 4265567,
+        "objectId": "333338098",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0071.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0071.tif",
+        "objectFileSize": 4898713,
+        "objectId": "333338099",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0072.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0072.tif",
+        "objectFileSize": 4958641,
+        "objectId": "333338100",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0073.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0073.tif",
+        "objectFileSize": 4893361,
+        "objectId": "333338101",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0074.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0074.tif",
+        "objectFileSize": 3588517,
+        "objectId": "333338102",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0075.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0075.tif",
+        "objectFileSize": 3929735,
+        "objectId": "333338103",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0076.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0076.tif",
+        "objectFileSize": 3083433,
+        "objectId": "333338104",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0077.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0077.tif",
+        "objectFileSize": 3713481,
+        "objectId": "333338105",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0078.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0078.tif",
+        "objectFileSize": 4083255,
+        "objectId": "333338106",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0079.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0079.tif",
+        "objectFileSize": 4150283,
+        "objectId": "333338107",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0080.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0080.tif",
+        "objectFileSize": 3723245,
+        "objectId": "333338108",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0081.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0081.tif",
+        "objectFileSize": 2741707,
+        "objectId": "333338109",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0082.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0082.tif",
+        "objectFileSize": 2988741,
+        "objectId": "333338110",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0083.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0083.tif",
+        "objectFileSize": 2773101,
+        "objectId": "333338111",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0084.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0084.tif",
+        "objectFileSize": 3022469,
+        "objectId": "333338112",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0085.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0085.tif",
+        "objectFileSize": 4190243,
+        "objectId": "333338113",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0086.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0086.tif",
+        "objectFileSize": 4520255,
+        "objectId": "333338114",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0087.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0087.tif",
+        "objectFileSize": 4310509,
+        "objectId": "333338115",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0088.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0088.tif",
+        "objectFileSize": 4620301,
+        "objectId": "333338116",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0089.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0089.tif",
+        "objectFileSize": 5600133,
+        "objectId": "333338117",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0090.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0090.tif",
+        "objectFileSize": 5553229,
+        "objectId": "333338118",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0091.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0091.tif",
+        "objectFileSize": 4200983,
+        "objectId": "333338119",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0092.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0092.tif",
+        "objectFileSize": 255241,
+        "objectId": "333338120",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0093.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0093.tif",
+        "objectFileSize": 4892945,
+        "objectId": "333338121",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0094.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0094.tif",
+        "objectFileSize": 6413583,
+        "objectId": "333338122",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "38222946-001-005-0095.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/38222946/38222946-001-005/38222946-001-005-0095.tif",
+        "objectFileSize": 6997677,
+        "objectId": "333338123",
+        "objectType": "Image (TIFF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "month": 1,
+          "year": 1970,
+          "day": 13,
+          "logicalDate": "1970-01-13"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. Aerospace Defense Command. 21st Air Division. Office of Information. (ca. 1970 - ca. 1975)",
+            "abolishDate": {
+              "year": 1975,
+              "logicalDate": "1975-12-31"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "year": 1970,
+              "logicalDate": "1970-01-01"
+            },
+            "naId": 38995487
+          }
+        ],
+        "inclusiveEndDate": {
+          "month": 12,
+          "year": 1970,
+          "day": 28,
+          "logicalDate": "1970-12-28"
+        },
+        "title": "Correspondence Records Related to Informational Newsletters, Division and Unit Newspapers, and Community and Media Relations",
+        "naId": 38222946
+      }
+    ],
+    "title": "5: 2, Community Relations, 1970",
+    "naId": 47323287,
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "1"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    }
+  }
+]

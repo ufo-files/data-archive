@@ -1,0 +1,150 @@
+[
+  {
+    "accessionNumbers": [
+      "NN3-341-01-001"
+    ],
+    "inclusiveStartDate": {
+      "year": 1991,
+      "logicalDate": "1991-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Secretary. Office of the Administrative Assistant. Office of the Deputy for Security and Special Investigative Programs. Research Declassification Team. 1987-",
+        "authorityType": "organization",
+        "establishDate": {
+          "year": 1987,
+          "logicalDate": "1987-01-01"
+        },
+        "naId": 10529324
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1996,
+      "logicalDate": "1996-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Roswell (N.M.)",
+        "authorityType": "geographicPlaceName",
+        "naId": 10045843
+      },
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "true",
+    "title": "Sound Recordings Relating to \"The Roswell Reports\"",
+    "physicalOccurrences": [
+      {
+        "extent": "22 audio cassettes",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Audio Cassette"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 22,
+            "type": "Audiocassette"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "extent": "22 audio cassettes",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Audio Cassette"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 22,
+            "type": "Audiocassette"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "itemCount": 18,
+    "arrangement": "Arranged numerically by NARA-assigned number.",
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Sound Recordings"
+    ],
+    "localIdentifier": "341-ROSWELLa",
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "scopeAndContentNote": "This series consists of audio recordings of interviews with U.S. Air Force personnel stationed at Roswell Air Force Base (later named Walker Air Force Base) as well as members of the Balloon Recovery Branch at Holloman Air Force Base, who discussed their experiences with high altitude balloon test flights in Roswell, New Mexico. In addition, Donald Schmitt, co-author of \"The Truth About the UFO Crash at Roswell\" is interviewed, as are alleged witnesses to events at Roswell Army Air Force (AAF) Hospital.",
+    "naId": 566843,
+    "functionAndUse": "These sound recordings were created or acquired in the process of investigating and gathering research materials to prepare the U.S. Air Force official publications, \"The Roswell Reports\" in 1994 and 1997. The reports examined alleged incidents of an unidentified flying object (UFO) crash at Roswell, New Mexico in July 1947.",
+    "numberingNote": "Items are numbered from 1 to 18."
+  }
+]

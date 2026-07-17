@@ -1,0 +1,152 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "Conspiracy",
+        "authorityType": "topicalSubject",
+        "naId": 10639409
+      },
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      },
+      {
+        "heading": "Life on other planets",
+        "authorityType": "topicalSubject",
+        "naId": 10646855
+      }
+    ],
+    "useRestriction": {
+      "note": "This film was copyrighted by The Disclosure Project. Duplication or public exhibition is prohibited.",
+      "status": "Restricted - Fully"
+    },
+    "editStatus": "Edited",
+    "audiovisual": "True",
+    "title": "An Executive Summary of the Greatest Secret of the 20th Century",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "reelTapeDiscNumber": 2,
+            "format": "Video: VHS",
+            "specificMediaType": "Video Cassette"
+          },
+          {
+            "reelTapeDiscNumber": 1,
+            "format": "Video: VHS",
+            "specificMediaType": "Video Cassette"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "copyrightDates": [
+      {
+        "month": 4,
+        "year": 2001,
+        "logicalDate": "2001-04-01"
+      }
+    ],
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "subtitle": "Parts I and II",
+    "localIdentifier": "255-GOLDIN-233",
+    "variantControlNumbers": [
+      {
+        "number": "78781 and 78782",
+        "type": "Agency-Assigned Identifier"
+      }
+    ],
+    "contributors": [
+      {
+        "heading": "Shepard, Alan Bartlett, Jr., 1923-1998",
+        "deathDate": {
+          "year": 1998,
+          "logicalDate": "1998-12-31"
+        },
+        "contributorType": "Speaker",
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1923,
+          "logicalDate": "1923-01-01"
+        },
+        "naId": 10679505
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1903,
+          "logicalDate": "1903-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 255,
+        "inclusiveEndDate": {
+          "year": 2006,
+          "logicalDate": "2006-12-31"
+        },
+        "title": "Records of the National Aeronautics and Space Administration",
+        "naId": 582
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1985,
+          "logicalDate": "1985-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "National Aeronautics and Space Administration. Office of Public Affairs. (1990 - 2004)",
+            "abolishDate": {
+              "year": 2004,
+              "logicalDate": "2004-12-31"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "year": 1990,
+              "logicalDate": "1990-01-01"
+            },
+            "naId": 10517100
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 2001,
+          "logicalDate": "2001-12-31"
+        },
+        "title": "Video Recordings Documenting the Administration of Daniel Goldin",
+        "naId": 5730762
+      }
+    ],
+    "scopeAndContentNote": "This video recording uses government, military, and intelligence community witnesses to testify to their personal, first-hand experience with Unidentified Flying Objects (UFOs), extraterrestrials (ETs), ET technology, and the cover-up that kept this information secret. Witnesses explained that advanced energy technology information obtained from the spacecraft and their creators was the reason for the cover-up in order to maintain the global geopolitical power and energy sector financial status quo -- as well as its oil industry's special interests. The film is hosted by Dr. Steven Greer, the founder and director of The Disclosure Project.",
+    "naId": 5833930,
+    "soundType": "Sound"
+  }
+]

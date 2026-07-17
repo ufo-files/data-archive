@@ -1,0 +1,201 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "shotList": "Covers interview with Lt Col Lawrence J. Tacker and Maj Hector Quintanilla, Jr., concerning Project Blue Book, which relates to identification of unidentified flying objects (UFO).",
+    "subjects": [
+      {
+        "heading": "Motion pictures",
+        "authorityType": "specificRecordsType",
+        "naId": 10631732
+      },
+      {
+        "heading": "Interviews",
+        "authorityType": "topicalSubject",
+        "naId": 10637869
+      },
+      {
+        "heading": "Special operations (Military science)",
+        "authorityType": "topicalSubject",
+        "naId": 10641019
+      },
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "editStatus": "Edited",
+    "audiovisual": "True",
+    "title": "UFO Interview",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 170,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: DNC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          },
+          {
+            "elementNumber": 2,
+            "reelTapeDiscNumber": 1,
+            "footage": 170,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: DNT",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 170,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: DNC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          },
+          {
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: MPPC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Reproduction"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "342-USAF-42990",
+    "productionDates": [
+      {
+        "year": 1966,
+        "logicalDate": "1966-01-01"
+      }
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(m)-342-USAF-42990",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "342-usaf-42990.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/342/342-usaf/342-usaf-42990.mp4",
+        "objectFileSize": 74397637,
+        "objectId": "301670531",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1947,
+          "logicalDate": "1947-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. 9/26/1947-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 9,
+              "year": 1947,
+              "day": 26,
+              "logicalDate": "1947-09-26"
+            },
+            "naId": 10461759
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1984,
+          "logicalDate": "1984-12-31"
+        },
+        "title": "Moving Images Relating to Military Aviation Activities",
+        "naId": 64437
+      }
+    ],
+    "naId": 70511,
+    "soundType": "Sound"
+  }
+]

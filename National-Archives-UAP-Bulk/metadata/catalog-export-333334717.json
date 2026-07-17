@@ -1,0 +1,209 @@
+[
+  {
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Published material found in this series may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "digitalObjects": [
+      {
+        "objectFilename": "23129262-0425-004-0001.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0001.tif",
+        "objectFileSize": 14636928,
+        "objectId": "333334718",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0002.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0002.tif",
+        "objectFileSize": 18511084,
+        "objectId": "333334719",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0003.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0003.tif",
+        "objectFileSize": 16300430,
+        "objectId": "333334720",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0004.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0004.tif",
+        "objectFileSize": 17607300,
+        "objectId": "333334721",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0005.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0005.tif",
+        "objectFileSize": 18438450,
+        "objectId": "333334722",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0006.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0006.tif",
+        "objectFileSize": 16457042,
+        "objectId": "333334723",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0007.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0007.tif",
+        "objectFileSize": 17123598,
+        "objectId": "333334724",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0008.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0008.tif",
+        "objectFileSize": 15487842,
+        "objectId": "333334725",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0009.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0009.tif",
+        "objectFileSize": 18156590,
+        "objectId": "333334726",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0010.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0010.tif",
+        "objectFileSize": 16586218,
+        "objectId": "333334727",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0011.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0011.tif",
+        "objectFileSize": 15551810,
+        "objectId": "333334728",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0012.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0012.tif",
+        "objectFileSize": 16661008,
+        "objectId": "333334729",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0013.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0013.tif",
+        "objectFileSize": 14325834,
+        "objectId": "333334730",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004-0014.tif",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004-0014.tif",
+        "objectFileSize": 15762008,
+        "objectId": "333334731",
+        "objectType": "Image (TIFF)"
+      },
+      {
+        "objectFilename": "23129262-0425-004.pdf",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-342/23129262/23129262-0425-004/23129262-0425-004.pdf",
+        "objectFileSize": 191503330,
+        "objectId": "333334732",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1948,
+          "logicalDate": "1948-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. Continental Air Command. Office of the Air Adjutant General. Office of the Director of Administration. (12/1/1948 - 1952)",
+            "abolishDate": {
+              "year": 1952,
+              "logicalDate": "1952-12-31"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 12,
+              "year": 1948,
+              "day": 1,
+              "logicalDate": "1948-12-01"
+            },
+            "naId": 23811199
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1952,
+          "logicalDate": "1952-12-31"
+        },
+        "title": "Decimal Files",
+        "naId": 23129262
+      }
+    ],
+    "title": "471.6 Guided Missiles, 1 July 1952",
+    "naId": 333334717,
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "425"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    }
+  }
+]

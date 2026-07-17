@@ -1,0 +1,196 @@
+[
+  {
+    "accessionNumbers": [
+      "NN-375-209"
+    ],
+    "inclusiveStartDate": {
+      "year": 1948,
+      "logicalDate": "1948-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Air Force Systems Command. Foreign Technology Division. Aerial Phenomena Branch. (7/1/1961 - 12/17/1969)",
+        "abolishDate": {
+          "month": 12,
+          "year": 1969,
+          "day": 17,
+          "logicalDate": "1969-12-17"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 7,
+          "year": 1961,
+          "day": 1,
+          "logicalDate": "1961-07-01"
+        },
+        "naId": 10455222
+      },
+      {
+        "creatorType": "Predecessor",
+        "heading": "Department of Defense. Department of the Air Force. Air Materiel Command. Intelligence Department. Technical Intelligence Division. (1947 - 1951)",
+        "abolishDate": {
+          "year": 1951,
+          "logicalDate": "1951-12-31"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "year": 1947,
+          "logicalDate": "1947-01-01"
+        },
+        "naId": 10462433
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1968,
+      "logicalDate": "1968-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "audiovisual": "false",
+    "fileUnitCount": 57,
+    "title": "Records of Investigations of Unidentified Flying Objects (UFOs) Relating to the Office of Special Investigations",
+    "physicalOccurrences": [
+      {
+        "extent": "3 linear feet, 11 linear inches, 1 artifact",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "containerList": "Box 1: Chronological Files, June 2 - December 21, 1949 THRU Chronological Files, September 9 - December 17, 1948\nBox 2: Location Codes for District Files THRU Chronological Files, July 5 - July 11, 1949\nBox 3: Chronological Files, July 31 - November 3, 1952 THRU Chronological Files, November 21, 1957 - October 23, 1962\nBox 4: District Files, Westover Air Force Base, Massachusetts, 1949 - 1960 THRU District Files, Wright-Patterson Air Force Base, Dayton, Ohio, 1949-1967\nBox 5: District Files, Robins Air Force Base, Robins Field, Georgia, 1950 - 1967 THRU District Files, Scott Air Force Base, Illinois, 1949-1964\nBox 6: District Files, Offutt Air Force Base, Omaha, Nebraska, 1949 - 1967 THRU District Files, Kirtland Air Force Base, New Mexico, 1949-1953\nBox 7: District Files, USAG Specialized Depot, Maywood, California, 1949 - 1960 THRU District Files, Ramey Air Force Base, Puerto Rico, 1957\nBox 8: Overseas Commands, Alaskan Air Command, 1950-1965 THRU Overseas Commands, New Foundland Base Command, 1950-1952\nBox 9: Project Blue Book Artifact (hat) from File 1981 West Palm Beach, Florida, August 19, 1952 THRU Photographs, 1949-1958 [Folder 2 of 2]",
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "Box 1 - Box 8"
+          },
+          {
+            "pieceCount": 1,
+            "generalMediaTypes": [
+              "Artifacts"
+            ],
+            "specificMediaType": "Artifact",
+            "containerId": "Box 9"
+          },
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Photographic Print",
+            "containerId": "Box 9"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 9,
+            "type": "Letter Archives Box, Standard"
+          },
+          {
+            "count": 1,
+            "type": "Artifact"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "note": "The records may be restricted due to privacy concerns.",
+      "specificAccessRestrictions": [
+        {
+          "restriction": "FOIA (b)(6) Personal Information"
+        }
+      ],
+      "status": "Restricted - Fully"
+    },
+    "arrangement": "Arranged in three parts.  The first part is arranged by case file number and thereunder chronologically.  The second part is arranged by district and overseas commands and thereunder chronologically.  The third part consists of photographs pulled from the second part and arranged by case number.",
+    "dataControlGroup": {
+      "groupName": "National Archives at College Park - Textual Reference",
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Artifacts",
+      "Photographs and other Graphic Materials"
+    ],
+    "microformPublications": [
+      {
+        "identifier": "T1206",
+        "note": "This series can be found on microfilm roll numbers 88-94 of T1206.",
+        "title": "T1206 - Project 'Bluebook.', 1947-1969."
+      }
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "111752",
+        "type": "HMS Record Entry ID"
+      },
+      {
+        "number": "NND 923007",
+        "type": "Declassification Project Number"
+      },
+      {
+        "number": "A1 63A",
+        "type": "HMS/MLR Entry Number"
+      }
+    ],
+    "contributors": [
+      {
+        "heading": "Department of Defense. Department of the Air Force. Office of the Inspector General. Air Force Office of Special Investigations. (8/1/1948 - )",
+        "contributorType": "Compiler",
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 8,
+          "year": 1948,
+          "day": 1,
+          "logicalDate": "1948-08-01"
+        },
+        "naId": 10487983
+      }
+    ],
+    "otherTitles": [
+      "Reports Of Investigations Of Unidentified Flying Objects"
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "scopeAndContentNote": "This series consists of investigative reports, correspondence, and photographs relating to sightings of unidentified flying objects (UFOs). The reports include brief information on the particular sighting, such as where and when the sighting occurred and the individual that reported it.  Each report also includes an individual identification number.  The remaining pages of the reports often include correspondence about the investigation and correspondence from the individual that witnessed the sighting. The records were maintained by the Project Blue Book Office and its predecessor, but there are files relating to the Air Force Office of Special Investigations.",
+    "naId": 45484701,
+    "functionAndUse": "Air Force staff compiled these records as part of the Air Force study of UFOs called Project Blue Book.   Investigators from districts and commands sent the records to the Air Technical Intelligence Center at Wright Patterson Air Force Base."
+  }
+]

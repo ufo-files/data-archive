@@ -1,0 +1,216 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "shotList": "Scenes of purported Unidentified Flying Objects (UFOs), including purported Flying Saucers. Reel 1: 24' 1) LS of three unidentified flying objects followed by cluster of UFOs. 64' 2) MS of bird flying, then sudden appearance of white saucer-shaped objects, which might also be birds in distance. 87' 3) LS five UFOs. 99' 4) MS two UFOs flying by apparent oil derrick. 138' 5) CU man in cowboy outfit smoking cigarette with UFO in background across sky. 165' Total footage in reel. Reel 2:  10' 1) MS of repeating glow in upper right frame. 180' 2) CU small saucer-like objects moving on what appears to be television screen or motion picture screen with finger pointing out different objects. 280' Total footage in reel.",
+    "subjects": [
+      {
+        "heading": "Motion pictures",
+        "authorityType": "specificRecordsType",
+        "naId": 10631732
+      },
+      {
+        "heading": "Animals",
+        "authorityType": "topicalSubject",
+        "naId": 10637132
+      },
+      {
+        "heading": "Equipment and supplies",
+        "authorityType": "topicalSubject",
+        "naId": 10637519
+      },
+      {
+        "heading": "Persons",
+        "authorityType": "topicalSubject",
+        "naId": 10640958
+      },
+      {
+        "heading": "Drums (Containers)",
+        "authorityType": "topicalSubject",
+        "naId": 10676017
+      }
+    ],
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "editStatus": "Unedited",
+    "audiovisual": "True",
+    "title": "USAF UFO sightings, California",
+    "coverageEndDate": {
+      "year": 1975,
+      "logicalDate": "1975-12-31"
+    },
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Color",
+            "footage": 200,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: MPPSK",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          },
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 2,
+            "color": "Color",
+            "footage": 200,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: MPPSK",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 16 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "format": "Video: VHS",
+            "specificMediaType": "Video Cassette",
+            "dimension": "1/2 inch"
+          },
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 2,
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "format": "Video: VHS",
+            "specificMediaType": "Video Cassette",
+            "dimension": "1/2 inch"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "coverageStartDate": {
+      "year": 1952,
+      "logicalDate": "1952-01-01"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "342-USAF-49377",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(m)-342-USAF-49377",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "342-usaf-49377-r1.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/342/342-usaf/342-usaf-49377-r1.mp4",
+        "objectFileSize": 85191868,
+        "objectId": "301670532",
+        "objectType": "Audio/Visual File (MP4)"
+      },
+      {
+        "objectFilename": "342-usaf-49377-r2.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/342/342-usaf/342-usaf-49377-r2.mp4",
+        "objectFileSize": 146648927,
+        "objectId": "301670533",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 342,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of U.S. Air Force Commands, Activities, and Organizations",
+        "naId": 654
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1947,
+          "logicalDate": "1947-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Air Force. 9/26/1947-",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 9,
+              "year": 1947,
+              "day": 26,
+              "logicalDate": "1947-09-26"
+            },
+            "naId": 10461759
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1984,
+          "logicalDate": "1984-12-31"
+        },
+        "title": "Moving Images Relating to Military Aviation Activities",
+        "naId": 64437
+      }
+    ],
+    "naId": 72035,
+    "soundType": "Silent"
+  }
+]

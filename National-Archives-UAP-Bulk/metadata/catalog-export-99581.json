@@ -1,0 +1,267 @@
+[
+  {
+    "accessionNumbers": [
+      "3414"
+    ],
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "New York (N.Y.)",
+        "authorityType": "geographicPlaceName",
+        "naId": 10045276
+      },
+      {
+        "heading": "Sarasota (Fla.)",
+        "authorityType": "geographicPlaceName",
+        "naId": 10045774
+      },
+      {
+        "heading": "U.S. Congress. 1789-",
+        "authorityType": "organization",
+        "establishDate": {
+          "year": 1789,
+          "logicalDate": "1789-01-01"
+        },
+        "naId": 10461221
+      },
+      {
+        "heading": "North Atlantic Treaty Organization. (4/4/1949 - )",
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 4,
+          "year": 1949,
+          "day": 4,
+          "logicalDate": "1949-04-04"
+        },
+        "naId": 10490555
+      },
+      {
+        "heading": "DeMille, Cecil B. (Cecil Blount), 1881-1959",
+        "deathDate": {
+          "year": 1959,
+          "logicalDate": "1959-12-31"
+        },
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1881,
+          "logicalDate": "1881-01-01"
+        },
+        "naId": 10569938
+      },
+      {
+        "heading": "Hutton, Betty, 1921-",
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1921,
+          "logicalDate": "1921-01-01"
+        },
+        "naId": 10567863
+      },
+      {
+        "heading": "Marshall, George",
+        "authorityType": "person",
+        "naId": 10573752
+      },
+      {
+        "heading": "Motion pictures",
+        "authorityType": "specificRecordsType",
+        "naId": 10631732
+      },
+      {
+        "heading": "International relations",
+        "authorityType": "topicalSubject",
+        "naId": 10636478
+      },
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      },
+      {
+        "heading": "Track and field",
+        "authorityType": "topicalSubject",
+        "naId": 10647146
+      },
+      {
+        "heading": "Lions",
+        "authorityType": "topicalSubject",
+        "naId": 10665610
+      }
+    ],
+    "useRestriction": {
+      "note": "May not be reproduced without written permission.",
+      "specificUseRestrictions": [
+        "Donor Restrictions"
+      ],
+      "status": "Restricted - Fully"
+    },
+    "audiovisual": "True",
+    "title": "PARAMOUNT NEWS [MAR. 7]",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 680,
+            "format": "Film: DNC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 35 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 680,
+            "format": "Film: FGMC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 35 mm"
+          }
+        ],
+        "copyStatus": "Reproduction"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 680,
+            "format": "Film: PPC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 35 mm"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "copyrightDates": [
+      {
+        "year": 1951,
+        "logicalDate": "1951-01-01"
+      }
+    ],
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "PARA-PN-10.52",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(m)-200-PN-10.52",
+        "type": "NAIL Control Number"
+      },
+      {
+        "number": "NWDNM(m)-PARA-PN-10.52",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "contributors": [
+      {
+        "heading": "Paramount Pictures",
+        "contributorType": "Producer",
+        "authorityType": "organization",
+        "naId": 10445271
+      }
+    ],
+    "otherTitles": [
+      "Paramount News, Vol. 10. No. 52"
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "PARA",
+        "inclusiveStartDate": {
+          "year": 1951,
+          "logicalDate": "1951-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "year": 1951,
+          "logicalDate": "1951-12-31"
+        },
+        "title": "Paramount Pictures, Inc., Collection",
+        "naId": 950
+      },
+      {
+        "inclusiveStartDate": {
+          "month": 10,
+          "year": 1941,
+          "logicalDate": "1941-10-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Paramount News",
+            "authorityType": "organization",
+            "naId": 10468789
+          }
+        ],
+        "inclusiveEndDate": {
+          "month": 3,
+          "year": 1957,
+          "logicalDate": "1957-03-31"
+        },
+        "title": "Motion Picture Newsreel Films",
+        "naId": 98600
+      }
+    ],
+    "scopeAndContentNote": "Part 1 shows shot-putting and mile-run events in Madison Square Garden. Part 2, Cecil B. DeMille presents a Photoplay Magazine award to Betty Hutton in Sarasota, Florida. Part 3, Sec. of Defense Marshall greets soldiers from NATO countries training in the U.S.; Marshall then testifies before the Senate Armed Forces and Foreign Relations Committees. Part 4, Dr. Urner Liddel explains that balloons, used by the U.S. Navy for the study of cosmic rays are responsible for \"flying saucer\" sightings. Shows the balloons. Part 5 shows dogs of many breeds in the Westminster Kennel Club show in N.Y.C. Part 6 shows an Army private sleeping and wrestling with his pet lion.",
+    "naId": 99581,
+    "soundType": "Sound"
+  }
+]
