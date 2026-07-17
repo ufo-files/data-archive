@@ -8,22 +8,22 @@
     "FBI-Vault-UFO": 35,
     "Legacy-Documents": 52,
     "NSA-UFO-FOIA": 161,
-    "Steven-Greer-Document-Library": 13
+    "Steven-Greer-Document-Library": 113
   },
   "by_type": {
     "audio": 4,
-    "documents": 10186,
+    "documents": 10286,
     "images": 860,
     "videos": 40
   },
-  "count": 11090,
+  "count": 11190,
   "excluded": {
     "non_archive_files": 222,
     "zip_files": 6
   },
-  "generated_utc": "2026-07-17T10:49:36.938383Z",
+  "generated_utc": "2026-07-17T12:45:10.843097Z",
   "repository": "ufo-files/data-archive",
-  "revision": "cdd41d8228d82ecfcf00b50f1cc05f268ef9ba1b",
+  "revision": "d1bf589512d3f2da6a30b7765660bb0a0ad7f19a",
   "schema_version": 1,
-  "total_files": 11090
+  "total_files": 11190
 }
