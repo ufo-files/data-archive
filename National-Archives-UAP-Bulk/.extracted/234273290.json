@@ -1,0 +1,10 @@
+{
+  "archived_files": 1,
+  "bytes": 123718237,
+  "count_version": 4,
+  "extracted_at": "2026-07-09T15:08:12Z",
+  "files": 1,
+  "marker_repaired_at": "2026-07-10T16:20:22Z",
+  "sha256": "e3d525027dbc931629d27e70e86ab730c7eeef510c42275849a7f65ad6abce31",
+  "zip": "zips/234273290.zip"
+}

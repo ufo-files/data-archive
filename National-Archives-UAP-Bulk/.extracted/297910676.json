@@ -1,0 +1,13 @@
+{
+  "archived_files": 1,
+  "bytes": 7938442,
+  "count_version": 4,
+  "extracted_at": "2026-07-09T21:12:40Z",
+  "extracted_files": 1,
+  "extraction_errors": 0,
+  "files": 1,
+  "marker_repaired_at": "2026-07-10T16:20:23Z",
+  "mtime_ns": 1783547105526430700,
+  "stopped_after_errors": false,
+  "zip": "zips/297910676.zip"
+}
