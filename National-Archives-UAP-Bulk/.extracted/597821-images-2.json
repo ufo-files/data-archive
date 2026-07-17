@@ -1,0 +1,13 @@
+{
+  "archived_files": 2879,
+  "bytes": 85722959770,
+  "count_version": 4,
+  "extracted_at": "2026-07-10T00:04:26Z",
+  "extracted_files": 2879,
+  "extraction_errors": 3,
+  "files": 2879,
+  "marker_repaired_at": "2026-07-10T16:20:30Z",
+  "mtime_ns": 1783583514165489500,
+  "stopped_after_errors": true,
+  "zip": "zips/597821-images-2.zip"
+}

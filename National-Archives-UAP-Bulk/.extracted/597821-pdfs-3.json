@@ -1,0 +1,13 @@
+{
+  "archived_files": 61,
+  "bytes": 86502711300,
+  "count_version": 4,
+  "extracted_at": "2026-07-10T04:36:16Z",
+  "extracted_files": 61,
+  "extraction_errors": 3,
+  "files": 61,
+  "marker_repaired_at": "2026-07-10T16:20:54Z",
+  "mtime_ns": 1783599820961160400,
+  "stopped_after_errors": true,
+  "zip": "zips/597821-pdfs-3.zip"
+}
