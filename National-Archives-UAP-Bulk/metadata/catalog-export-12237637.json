@@ -1,0 +1,193 @@
+[
+  {
+    "accessionNumbers": [
+      "1970-NLF-001"
+    ],
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "Michigan",
+        "authorityType": "geographicPlaceName",
+        "naId": 10045229
+      },
+      {
+        "heading": "Johnson, Lyndon B. (Lyndon Baines), 1908-1973",
+        "deathDate": {
+          "year": 1973,
+          "logicalDate": "1973-12-31"
+        },
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1908,
+          "logicalDate": "1908-01-01"
+        },
+        "naId": 10677971
+      },
+      {
+        "heading": "Communism",
+        "authorityType": "topicalSubject",
+        "naId": 10639138
+      },
+      {
+        "heading": "Vietnam War, 1961-1975",
+        "authorityType": "topicalSubject",
+        "naId": 10643608
+      },
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      },
+      {
+        "heading": "Great Society",
+        "authorityType": "topicalSubject",
+        "naId": 10639478
+      },
+      {
+        "heading": "Agriculture",
+        "authorityType": "topicalSubject",
+        "naId": 10640158
+      },
+      {
+        "heading": "Inflation (Finance)",
+        "authorityType": "topicalSubject",
+        "naId": 10638421
+      },
+      {
+        "heading": "Crime",
+        "authorityType": "topicalSubject",
+        "naId": 10638047
+      },
+      {
+        "heading": "Taxation",
+        "authorityType": "topicalSubject",
+        "naId": 10642063
+      },
+      {
+        "heading": "Interest rates",
+        "authorityType": "topicalSubject",
+        "naId": 10638139
+      }
+    ],
+    "useRestriction": {
+      "note": "Some of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "false",
+    "title": "Ford Broadcasts, 1965-1966",
+    "coverageEndDate": {
+      "month": 11,
+      "year": 1968,
+      "logicalDate": "1968-11-30"
+    },
+    "physicalOccurrences": [
+      {
+        "extent": "75 pages",
+        "referenceUnits": [
+          {
+            "city": "Ann Arbor",
+            "phone": "734-205-0555",
+            "address1": "1000 Beal Avenue",
+            "postalCode": "48109-2114",
+            "name": "Gerald R. Ford Library",
+            "state": "MI",
+            "fax": "734-205-0571",
+            "email": "ford.library@nara.gov",
+            "mailCode": "LP-GRF"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "D37",
+            "reproductionCount": 75
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "coverageStartDate": {
+      "month": 2,
+      "year": 1961,
+      "logicalDate": "1961-02-01"
+    },
+    "dataControlGroup": {
+      "groupName": "Gerald R. Ford Library",
+      "groupId": "ou=NLGRF,ou=groups",
+      "groupCd": "LPGRF"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "005401759",
+        "type": "PRESNET Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "12237637.pdf",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0054/642085/12237637.pdf",
+        "objectFileSize": 1234,
+        "objectId": "172081803",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "GRF-0054",
+        "inclusiveStartDate": {
+          "year": 1948,
+          "logicalDate": "1948-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "year": 1973,
+          "logicalDate": "1973-12-31"
+        },
+        "title": "Gerald R. Ford Congressional Papers",
+        "naId": 642038
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1949,
+          "logicalDate": "1949-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Ford, Gerald R., 1913-2006",
+            "deathDate": {
+              "year": 2006,
+              "logicalDate": "2006-12-31"
+            },
+            "authorityType": "person",
+            "birthDate": {
+              "year": 1913,
+              "logicalDate": "1913-01-01"
+            },
+            "naId": 10678025
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1972,
+          "logicalDate": "1972-12-31"
+        },
+        "title": "Broadcasts Files",
+        "naId": 642085
+      }
+    ],
+    "naId": 12237637
+  }
+]

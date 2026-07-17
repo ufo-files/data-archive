@@ -1,0 +1,142 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions.",
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "True",
+    "title": "The Case of the Flying Saucer",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Audio Disk"
+          },
+          {
+            "specificMediaType": "Audio Disk"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Sound Recordings"
+    ],
+    "localIdentifier": "330.85",
+    "productionDates": [
+      {
+        "dateQualifier": "ca.",
+        "year": 1950,
+        "logicalDate": "1950-01-01"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1921,
+          "logicalDate": "1921-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 330,
+        "inclusiveEndDate": {
+          "year": 2008,
+          "logicalDate": "2008-12-31"
+        },
+        "title": "Records of the Office of the Secretary of Defense",
+        "naId": 643
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1945,
+          "logicalDate": "1945-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Armed Forces Radio and Television Service.  ?-",
+            "authorityType": "organization",
+            "naId": 10467394
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1965,
+          "logicalDate": "1965-12-31"
+        },
+        "title": "Audio Recordings",
+        "naId": 109386
+      }
+    ],
+    "scopeAndContentNote": "This sound recording captures a Columbia Broadcasting System special news report featuring correspondent Edward R. Murrow. In it, Murrow provided the unifying narrative to transcribed interviews, news features, and commentary in an attempt to analyze and explain the sightings of unidentified flying objects (UFOs) and to offer possible hypotheses for the phenomenon.",
+    "naId": 2386432
+  }
+]

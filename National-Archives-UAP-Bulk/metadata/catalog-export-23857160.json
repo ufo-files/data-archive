@@ -1,0 +1,166 @@
+[
+  {
+    "inclusiveStartDate": {
+      "year": 1952,
+      "logicalDate": "1952-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Air Force Systems Command. Foreign Technology Division. Aerial Phenomena Branch. (7/1/1961 - 12/17/1969)",
+        "abolishDate": {
+          "month": 12,
+          "year": 1969,
+          "day": 17,
+          "logicalDate": "1969-12-17"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 7,
+          "year": 1961,
+          "day": 1,
+          "logicalDate": "1961-07-01"
+        },
+        "naId": 10455222
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1969,
+      "logicalDate": "1969-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "audiovisual": "false",
+    "fileUnitCount": 6,
+    "title": "Project Bluebook Artifacts",
+    "coverageEndDate": {
+      "year": 1969,
+      "logicalDate": "1969-12-31"
+    },
+    "physicalOccurrences": [
+      {
+        "extent": "31 artifacts",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Artifacts"
+            ],
+            "specificMediaType": "Artifact"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 31,
+            "type": "Artifact"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      },
+      {
+        "extent": "4 Stereo Slides",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Slide"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 4,
+            "type": "Artifact"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "arrangement": "Arranged numerically by artifact file number.",
+    "coverageStartDate": {
+      "year": 1947,
+      "logicalDate": "1947-01-01"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Artifacts",
+      "Photographs and other Graphic Materials"
+    ],
+    "dateNote": "Although this series was created in 1952, it contains some records dating back to 1947.",
+    "variantControlNumbers": [
+      {
+        "number": "111778",
+        "type": "HMS Record Entry ID"
+      },
+      {
+        "number": "A1 294M",
+        "type": "HMS/MLR Entry Number"
+      }
+    ],
+    "otherTitles": [
+      "\"Project Bluebook\" Artifacts Case Files On Sightings Of Unidentified Flying Objects, June 1947-Dec. 1969"
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "scopeAndContentNote": "This series consists of submitted artifacts related to case files on sightings of unidentified flying objects (UFOs) of Project Blue Book, the U.S. Air Force (USAF) investigation into UFOs between June 1947 and December 1969. From 1947 through 1951, the USAF Air Material Command Intelligence Department Technical Intelligence Division maintained the series. From 1951 through March 1952, the USAF Office of the Deputy Chief of Staff Operations Office of the Director of Intelligence Air Technical Intelligence Center maintained the series. From March 1952 through 1969, the USAF Air Force Systems Command Foreign Technology Division Project Blue Book Office and its predecessors maintained the series.\n\nThe artifacts have related case files that contain reports from individuals who submitted the items, their correspondence with the Air Force, and reports of analyses of the objects themselves. Each artifact was provided a unique identifying Physical Specimen number and Artifact number by the USAF Technical Intelligence Division and its successors. There are citations within each of the relevant case files that correspond with these numbers.\n\nThe reports containing further information regarding the artifacts can be found in the series “Project Blue Book Case Files on Sightings of Unidentified Flying Objects (UFOs), June 1947–December 1969” (National Archives Identifier 595466), “Sanitized Version of Project Blue Book Case Files on Sightings of Unidentified Flying Objects, 1947–1969” (National Archives Identifier 597821), and “Project \"BLUE BOOK\", 1954–1966” (NAID 542184).",
+    "naId": 23857160
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "inclusiveStartDate": {
+      "year": 1948,
+      "logicalDate": "1948-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Deputy Chief of Staff, Operations. Office of the Director of Intelligence. Office of the Deputy Director for Intelligence and Collection and Dissemination. Dissemination Control Division. Documents Branch. (1953 - 1954)",
+        "abolishDate": {
+          "year": 1954,
+          "logicalDate": "1954-12-31"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "year": 1953,
+          "logicalDate": "1953-01-01"
+        },
+        "naId": 17343526
+      },
+      {
+        "creatorType": "Predecessor",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Deputy Chief of Staff, Operations. Office of the Director of Intelligence. Collection Division. Documents and Dissemination Branch. (1950 - 1952)",
+        "abolishDate": {
+          "year": 1952,
+          "logicalDate": "1952-12-31"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "year": 1950,
+          "logicalDate": "1950-01-01"
+        },
+        "naId": 17333227
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1953,
+      "logicalDate": "1953-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Soviet Union",
+        "authorityType": "geographicPlaceName",
+        "naId": 10046553
+      }
+    ],
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "findingAids": [
+      {
+        "note": "A container list is available in the custodial unit.",
+        "source": "NARA",
+        "findingAidType": "Container List"
+      }
+    ],
+    "audiovisual": "false",
+    "fileUnitCount": 134,
+    "title": "Air Intelligence Reports",
+    "coverageEndDate": {
+      "year": 1953,
+      "logicalDate": "1953-12-31"
+    },
+    "physicalOccurrences": [
+      {
+        "extent": "787 linear feet, 1 linear inch",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "mediaOccurrenceNote": "Photographs are scattered among the paper records of this series.",
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Photographic Print"
+          },
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 4,
+            "type": "Letter Archives Box, Standard"
+          },
+          {
+            "count": 1724,
+            "type": "Legal Archives Box, Standard"
+          },
+          {
+            "count": 34,
+            "type": "Suit Box, Large"
+          },
+          {
+            "count": 51,
+            "type": "Suit Box, Small ('Pizza Box')"
+          },
+          {
+            "count": 1,
+            "type": "Legal Archives Box, Narrow"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "note": "This series has undergone a comprehensive declassification review and most documents have been declassified.  A few individual documents within the series remain classified and unavailable for research.  Withdrawal sheets giving information necessary for mandatory declassification review requests have replaced the few documents that could not be declassified at the time of the comprehensive review.  These records are subject to screening on demand and must be screened by NARA staff for Controlled Unclassified Information (CUI) prior to being served to researchers.",
+      "specificAccessRestrictions": [
+        {
+          "securityClassification": "Secret",
+          "restriction": "FOIA (b)(1) National Security"
+        }
+      ],
+      "status": "Restricted - Partly"
+    },
+    "arrangement": "Arranged numerically by report number and thereunder numerically by file number.",
+    "coverageStartDate": {
+      "year": 1942,
+      "logicalDate": "1942-01-01"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records",
+      "Photographs and other Graphic Materials",
+      "Maps and Charts"
+    ],
+    "dateNote": "Although this series was established in 1948, it contains documents that date back to 1942.",
+    "variantControlNumbers": [
+      {
+        "number": "120104",
+        "type": "HMS Record Entry ID"
+      },
+      {
+        "number": "NM-15 268",
+        "type": "HMS/MLR Entry Number"
+      },
+      {
+        "number": "NND 57565",
+        "type": "Declassification Project Number"
+      },
+      {
+        "number": "678009",
+        "type": "Former HMS Record Entry ID"
+      },
+      {
+        "number": "NM-15 268-B",
+        "type": "Former HMS/MLR Entry Number"
+      },
+      {
+        "number": "NM-15 268-A",
+        "type": "HMS/MLR Entry Number"
+      },
+      {
+        "number": "HS1-101258371",
+        "type": "HMS Record Entry ID"
+      },
+      {
+        "number": "NND 901558",
+        "type": "Declassification Project Number"
+      },
+      {
+        "number": "NND 971522",
+        "type": "Declassification Project Number"
+      },
+      {
+        "number": "NND 57565",
+        "type": "Declassification Project Number"
+      },
+      {
+        "number": "NND 001721A",
+        "type": "Declassification Project Number"
+      },
+      {
+        "number": "NND 001721B",
+        "type": "Declassification Project Number"
+      },
+      {
+        "number": "NND 70432",
+        "type": "Declassification Project Number"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "scopeAndContentNote": "This series consists of intelligence reports received from various sources relating to a wide variety of geographic, economic, political, and military subjects, with an emphasis on aeronautical matters and the Union of Soviet Socialist Republics (USSR).  Some of the reports are supplemented by photographs, maps, or charts.",
+    "naId": 23857122
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "productionSeriesNumber": "2506",
+    "useRestriction": {
+      "note": "Note: Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "True",
+    "title": "UFO Sighting Over Alaska",
+    "productionSeriesTitle": "Science Notebook",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "pieceCount": 1,
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Audio Tape/Reel",
+            "dimension": "Sound: 1/4 inch on 10 inch reel"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Sound Recordings"
+    ],
+    "localIdentifier": "517-VOAa-87-306",
+    "productionDates": [
+      {
+        "month": 1,
+        "year": 1987,
+        "day": 13,
+        "logicalDate": "1987-01-13"
+      }
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "siVoice of America 1987",
+        "type": "Search Identifier"
+      },
+      {
+        "note": "This is a VOA-assigned script number.",
+        "number": "3-1566",
+        "type": "Agency-Assigned Identifier"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "517-voa-87-306.mp3",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/517a/517-voa-87-306.mp3",
+        "objectFileSize": 3204212,
+        "objectId": "301670536",
+        "objectType": "Sound File (MP3)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1973,
+          "logicalDate": "1973-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 517,
+        "inclusiveEndDate": {
+          "year": 9999,
+          "logicalDate": "9999-12-31"
+        },
+        "title": "Records of the U.S. Agency for Global Media",
+        "naId": 3074318
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1984,
+          "logicalDate": "1984-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Broadcasting Board of Governors. International Broadcasting Bureau. Voice of America. (10/1/1999 - )",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 10,
+              "year": 1999,
+              "day": 1,
+              "logicalDate": "1999-10-01"
+            },
+            "naId": 10505403
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 2000,
+          "logicalDate": "2000-12-31"
+        },
+        "title": "Sound Recordings of Radio Programs, Speeches, and Special Events",
+        "naId": 40432506
+      }
+    ],
+    "scopeAndContentNote": "This edit of the sound recording contains Voiced Version Only.",
+    "naId": 262327376
+  }
+]

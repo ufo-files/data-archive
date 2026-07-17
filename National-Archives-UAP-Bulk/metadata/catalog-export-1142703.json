@@ -1,0 +1,124 @@
+[
+  {
+    "inclusiveStartDate": {
+      "year": 1953,
+      "logicalDate": "1953-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Chief of Staff. Office of the Assistant Chief of Staff, Intelligence. Aerospace Technical Intelligence Center. (9/21/1959 - 7/1/1961)",
+        "abolishDate": {
+          "month": 7,
+          "year": 1961,
+          "day": 1,
+          "logicalDate": "1961-07-01"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 9,
+          "year": 1959,
+          "day": 21,
+          "logicalDate": "1959-09-21"
+        },
+        "naId": 10468957
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1967,
+      "logicalDate": "1967-12-31"
+    },
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "false",
+    "title": "Sound Recordings Relating to Project Blue Book Unidentified Flying Object (UFO) Investigations",
+    "physicalOccurrences": [
+      {
+        "extent": "approximately 51 audio reels",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Audio Tape/Reel"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 34,
+            "type": "7 inch single open reel tape"
+          },
+          {
+            "count": 9,
+            "type": "5 inch single open reel tape"
+          },
+          {
+            "count": 3,
+            "type": "3 inch single open reel tape"
+          },
+          {
+            "count": 4,
+            "type": "16mm x 400' capacity (round)"
+          },
+          {
+            "count": 1,
+            "type": "Other Container"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "itemCount": 24,
+    "arrangement": "Arranged by NARA-assigned numbers from 3 to 26.",
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Sound Recordings"
+    ],
+    "localIdentifier": "341-PBB",
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "naId": 1142703
+  }
+]

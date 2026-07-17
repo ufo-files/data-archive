@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-07-17T13:17:47Z",
+  "items": [
+    {
+      "deferred_reason": "remote metadata JSON is malformed; archived copy preserved and rechecked by remote size/hash",
+      "error": "remote metadata JSON is malformed; archived copy preserved and rechecked by remote size/hash",
+      "failed_at": "2026-07-17T13:17:47Z",
+      "failure_count": 1,
+      "kind": "metadata",
+      "next_retry_after": "",
+      "relative_path": "metadata/catalog-export-597821.json",
+      "retry_stage": "monthly",
+      "status": "deferred",
+      "url": "https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-597821.json"
+    }
+  ],
+  "schema": "ufo-files-failed-downloads/v1",
+  "source_schema": "nara-uap-bulk-archive/v1"
+}

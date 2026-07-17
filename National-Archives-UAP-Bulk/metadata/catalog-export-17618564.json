@@ -1,0 +1,200 @@
+[
+  {
+    "accessionNumbers": [
+      "NN3-341-01-001"
+    ],
+    "inclusiveStartDate": {
+      "year": 1987,
+      "logicalDate": "1987-01-01"
+    },
+    "onlineResources": [
+      {
+        "note": "This report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James McAndrew to address the request made by Representative Steven H. Schiff (R-NM) for information regarding an alleged crash of an unidentified flying object (UFO) that occurred in the state in 1947. This publication duplicates the information provided to the Secretary of the Air Force and to the General Accounting Office (GAO). It was written as a result of Colonel Weaver’s and Lieutenant McAndrew’s efforts to locate the records that explain the events of July 1947 leading to what is popularly known as the Roswell Incident. The only information presented here that was not in the report delivered to the Secretary of the Air Force and the GAO is the photograph section. It appears after Colonel Weaver’s final attachment, at the very end of this book. The importance of attachment 32, Lieutenant McAndrew’s synopsis, derives from his description of Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interest abounds surrounding the UFO wave of 1947 which began in the spring and did not dissipate until fall. Interest in UFOs climaxed during the summer, when multiple sightings of such objects occurred.",
+        "description": "The Roswell Report – Fact versus Fiction in the New Mexico Desert",
+        "url": "http://www.afhso.af.mil/shared/media/document/AFD-101201-038.pdf"
+      }
+    ],
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Secretary. Office of the Administrative Assistant. Office of the Deputy for Security and Special Investigative Programs. Research Declassification Team. 1987-",
+        "authorityType": "organization",
+        "establishDate": {
+          "year": 1987,
+          "logicalDate": "1987-01-01"
+        },
+        "naId": 10529324
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1996,
+      "logicalDate": "1996-12-31"
+    },
+    "useRestriction": {
+      "note": "Some or all of the records may be subject to copyright restrictions.  Researchers should contact the publisher for further information.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "false",
+    "fileUnitCount": 135,
+    "title": "Roswell Report Source Files",
+    "coverageEndDate": {
+      "year": 1996,
+      "logicalDate": "1996-12-31"
+    },
+    "physicalOccurrences": [
+      {
+        "extent": "4 linear feet, 10 linear inches",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "Boxes 1-11"
+          },
+          {
+            "generalMediaTypes": [
+              "Bound Volumes"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "Box 4"
+          },
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Photographic Print",
+            "containerId": "Boxes 1-2"
+          },
+          {
+            "generalMediaTypes": [
+              "Artifacts"
+            ],
+            "specificMediaType": "Artifact",
+            "containerId": "Box 12"
+          },
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Negative",
+            "containerId": "Box 1"
+          },
+          {
+            "generalMediaTypes": [
+              "Photographic Materials"
+            ],
+            "specificMediaType": "Slide",
+            "containerId": "Box 6"
+          },
+          {
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Magnetic Disk: Floppy Disk",
+            "containerId": "Box 5"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 2,
+            "type": "Legal Archives Box, Standard"
+          },
+          {
+            "count": 8,
+            "type": "Letter Archives Box, Standard"
+          },
+          {
+            "count": 1,
+            "type": "Custom Designed Box"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "note": "Some of these records must be screened for personal privacy information under 5 U.S.C. 552 (b) (6) prior to public release.",
+      "specificAccessRestrictions": [
+        {
+          "restriction": "FOIA (b)(6) Personal Information"
+        }
+      ],
+      "status": "Restricted - Partly"
+    },
+    "arrangement": "Arranged by subject.",
+    "coverageStartDate": {
+      "year": 1946,
+      "logicalDate": "1946-01-01"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records",
+      "Photographs and other Graphic Materials",
+      "Data Files",
+      "Artifacts"
+    ],
+    "dateNote": "Although this series was created in 1987, it contains records that date back to 1946.",
+    "variantControlNumbers": [
+      {
+        "number": "346810",
+        "type": "Former HMS Record Entry ID"
+      },
+      {
+        "number": "UD-UP 2",
+        "type": "Former HMS/MLR Entry Number"
+      },
+      {
+        "number": "HS1-301146231",
+        "type": "HMS Record Entry ID"
+      },
+      {
+        "number": "P 8",
+        "type": "HMS/MLR Entry Number"
+      }
+    ],
+    "otherTitles": [
+      "USAF Roswell Report Source Documents, 1946-96 [SAF AA]",
+      "Source Files Concerning the Roswell Report"
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "naId": 17618564
+  }
+]

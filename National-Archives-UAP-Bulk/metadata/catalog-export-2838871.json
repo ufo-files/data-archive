@@ -1,0 +1,176 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "True",
+    "title": "Unidentified Flying Objects (UFOs)",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          }
+        ],
+        "copyStatus": "Reference"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          },
+          {
+            "specificMediaType": "Audio Tape/Reel"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Sound Recordings"
+    ],
+    "subtitle": "Fact or Fiction",
+    "localIdentifier": "200.1572",
+    "productionDates": [
+      {
+        "month": 11,
+        "year": 1974,
+        "logicalDate": "1974-11-01"
+      }
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "WWDC",
+        "inclusiveStartDate": {
+          "year": 1973,
+          "logicalDate": "1973-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "year": 1975,
+          "logicalDate": "1975-12-31"
+        },
+        "title": "WWDC Radio Documentaries",
+        "naId": 2843058
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1973,
+          "logicalDate": "1973-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "WWDC (Radio station : Washington, D.C.)",
+            "authorityType": "organization",
+            "naId": 10444163
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1975,
+          "logicalDate": "1975-12-31"
+        },
+        "title": "Radio Documentaries",
+        "naId": 2843063
+      }
+    ],
+    "scopeAndContentNote": "This sound recording captures a WWDC broadcast that provides an extensive examination of the Federal Government's role in Project Bluebook, and interviews with military personnel, scientists, aviators, critics, government spokespeople, and private individuals who debated and discussed the evidence for the existence or myth of UFOs.",
+    "naId": 2838871
+  }
+]

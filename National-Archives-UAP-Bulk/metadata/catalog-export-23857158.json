@@ -1,0 +1,131 @@
+[
+  {
+    "accessionNumbers": [
+      "NC3-341-77-1"
+    ],
+    "inclusiveStartDate": {
+      "year": 1954,
+      "logicalDate": "1954-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Deputy Chief of Staff, Operations. Office of the Director of Intelligence. Air Technical Intelligence Center. Office of the Deputy for Science and Components. Air Sciences Division. Aerial Phenomena Group. (8/1/1955 - 7/1/1957)",
+        "abolishDate": {
+          "month": 7,
+          "year": 1957,
+          "day": 1,
+          "logicalDate": "1957-07-01"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 8,
+          "year": 1955,
+          "day": 1,
+          "logicalDate": "1955-08-01"
+        },
+        "naId": 17368205
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1956,
+      "logicalDate": "1956-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "audiovisual": "false",
+    "fileUnitCount": 1014,
+    "title": "Copies of the Case Files of the 4602D Air Intelligence Service Squadron on Sightings of Unidentified Flying Objects (UFOs)",
+    "physicalOccurrences": [
+      {
+        "extent": "6 linear feet, 7 linear inches",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 15,
+            "type": "Letter Archives Box, Standard"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "arrangement": "Arranged chronologically by year and thereunder alphabetically by state.",
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "111784",
+        "type": "HMS Record Entry ID"
+      },
+      {
+        "number": "A1 294J",
+        "type": "HMS/MLR Entry Number"
+      },
+      {
+        "number": "NND 923007",
+        "type": "Declassification Project Number"
+      }
+    ],
+    "otherTitles": [
+      "Photocopy Of The Case Files Of The 4602 D Air Intelligence Service Squadron On Sightings Of Unidentified Flying Objects"
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "naId": 23857158,
+    "functionAndUse": "Air Force staff compiled these records as part of the Air Force study of UFOs called Project Blue Book.   Investigators from districts and commands sent the records to the Air Technical Intelligence Center at Wright Patterson Air Force Base."
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "Newsreels",
+        "authorityType": "specificRecordsType",
+        "naId": 10656972
+      }
+    ],
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "True",
+    "releaseDates": [
+      {
+        "month": 8,
+        "year": 1952,
+        "day": 11,
+        "logicalDate": "1952-08-11"
+      }
+    ],
+    "title": "Universal Newsreel Volume 25, Release 586",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "color": "Black-and-White",
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "specificMediaType": "Film Reel"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "generalNotes": [
+      "Contact reference staff for information on availability of individual stories."
+    ],
+    "localIdentifier": "UN-UN-25-586",
+    "variantControlNumbers": [
+      {
+        "number": "200-UN-25-586",
+        "type": "Former Local Identifier"
+      },
+      {
+        "number": "2662700",
+        "type": "Former ARC Identifier"
+      },
+      {
+        "number": "2662700",
+        "type": "Former National Archives Identifier"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "un-un-25-586-1-5.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/un/UN/un-un-25-586-1-5.mp4",
+        "objectFileSize": 131321866,
+        "objectId": "301670538",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "UN",
+        "inclusiveStartDate": {
+          "year": 1929,
+          "logicalDate": "1929-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "year": 1967,
+          "logicalDate": "1967-12-31"
+        },
+        "title": "MCA/Universal Pictures Collection",
+        "naId": 1013
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1929,
+          "logicalDate": "1929-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "MCA/Universal Pictures.",
+            "authorityType": "organization",
+            "naId": 10468004
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1967,
+          "logicalDate": "1967-12-31"
+        },
+        "title": "Motion Picture Releases of the Universal Newsreel Library",
+        "naId": 100520
+      }
+    ],
+    "scopeAndContentNote": "The original release sheet reads: \n 1. SOAP BOX DERBY: AKRON, OH - Eleven-year-old Joe Lunn of Columbus, Georgia races to victory in the final heat of the junior speed classic, as a crowd of thousands cheers him on. 2. KOREAN ELECTIONS: KOREA - President Syngman Rhee wins decisively with five million votes out of seven million cast in Korea's first popular election held for president. 3A/B/C. KOREAN MUD: KOREA - Korean mud slows up the war as torrential rains transforms the fighting terrain into quagmire. Engineers fight to keep the roads open. / MORE SAUCERS: VIRGINIA - In an army laboratory at Fort Belvoir you can get a flying saucer made to order or at least a reasonable facsimile, created by physicist Noel Scott. Watch the screen. / ARMY REDUCES: VIRGINIA - It's tough on the sarge as he munches on celery at the diet table in the army, while the slender guys feed their faces. It's tough on the sarge who is hefty and it's all an experiment. 4. NEW CHAPEAUX: FRANCE - France unveils—with veils some of the most winsome millinery they have created. The models are lovely, too. 5. GOLD CUP RACE: SEATTLE - \"Slo-Mo-Shun-IV,\" which recently set a record of 170 miles an hour, retained its title on a close course race and raced to the finish mark, unchallenged and unbeaten.",
+    "naId": 234273597
+  }
+]

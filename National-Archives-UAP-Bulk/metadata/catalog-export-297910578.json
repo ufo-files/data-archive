@@ -1,0 +1,146 @@
+[
+  {
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "title": "[09/27/1995 - 11/25/1998]",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "city": "Little Rock",
+            "phone": "501-244-2877",
+            "address1": "1200 President Clinton Avenue",
+            "postalCode": "72201",
+            "name": "William J. Clinton Library",
+            "state": "AR",
+            "fax": "501-244-2881",
+            "email": "clinton.library@nara.gov",
+            "mailCode": "LP-WJC"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "1"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "note": "Some records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+      "specificAccessRestrictions": [
+        {
+          "securityClassification": "Top Secret",
+          "restriction": "FOIA (b)(1) National Security"
+        },
+        {
+          "restriction": "FOIA (b)(3) Statute"
+        },
+        {
+          "restriction": "FOIA (b)(6) Personal Information"
+        },
+        {
+          "restriction": "FOIA (b)(7c) Law Enforcement"
+        }
+      ],
+      "status": "Restricted - Partly"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NLWJC,ou=groups",
+      "groupCd": "LPWJC"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "LPWJC 2006-0474-F",
+        "type": "FOIA Tracking Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "26444785-20060474F-001-012-2023.pdf",
+        "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/26444785/Batch0001/26444785-20060474F-001-012-2023.pdf",
+        "objectFileSize": 1234,
+        "objectId": "297910579",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "otherTitles": [
+      "26444785-20060474F-001-012-2023",
+      "[UFO, Flying Saucer, Flying Object]"
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "WJC-ARMS",
+        "inclusiveStartDate": {
+          "month": 1,
+          "year": 1993,
+          "day": 20,
+          "logicalDate": "1993-01-20"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "month": 1,
+          "year": 2001,
+          "day": 20,
+          "logicalDate": "2001-01-20"
+        },
+        "title": "Presidential Electronic Mail from the Automated Records Management System (ARMS)",
+        "naId": 26437345
+      },
+      {
+        "inclusiveStartDate": {
+          "month": 1,
+          "year": 1993,
+          "day": 20,
+          "logicalDate": "1993-01-20"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "President (1993-2001 : Clinton). (1/20/1993 - 1/20/2001)",
+            "abolishDate": {
+              "month": 1,
+              "year": 2001,
+              "day": 20,
+              "logicalDate": "2001-01-20"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 1,
+              "year": 1993,
+              "day": 20,
+              "logicalDate": "1993-01-20"
+            },
+            "naId": 10465039
+          }
+        ],
+        "inclusiveEndDate": {
+          "month": 1,
+          "year": 1993,
+          "day": 20,
+          "logicalDate": "1993-01-20"
+        },
+        "title": "Automated Records Management System (ARMS) Email from the White House Office (WHO) Bucket",
+        "naId": 26444785
+      }
+    ],
+    "naId": 297910578
+  }
+]

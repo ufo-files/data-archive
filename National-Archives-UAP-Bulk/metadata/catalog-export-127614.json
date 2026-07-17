@@ -1,0 +1,138 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property right restrictions",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "True",
+    "title": "Doctor Edward Condon, University of Colorado Physicist Studying Unidentified Flying Objects",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "pieceCount": 1,
+            "reelTapeDiscNumber": 1,
+            "generalMediaTypes": [
+              "Magnetic Media"
+            ],
+            "specificMediaType": "Audio Tape/Reel",
+            "dimension": "Sound: 1/4 inch on 10 inch reel"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Sound Recordings"
+    ],
+    "broadcastDates": [
+      {
+        "month": 11,
+        "year": 1966,
+        "day": 3,
+        "logicalDate": "1966-11-03"
+      }
+    ],
+    "generalNotes": [
+      "HEAVY HISS",
+      "Title is taken from container."
+    ],
+    "localIdentifier": "306-ENS-T-2808",
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(s)-306-EN-S-T-2808",
+        "type": "NAIL Control Number"
+      },
+      {
+        "number": "NWDNM(s)-306-ENS-T-2808",
+        "type": "NAIL Control Number"
+      },
+      {
+        "number": "306-EN-S-T-2808",
+        "type": "Former Local Identifier"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "306-voa-ens-t-2808.mp3",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/306a/VOAa/306-voa-ens-t-2808.mp3",
+        "objectFileSize": 14040230,
+        "objectId": "301670524",
+        "objectType": "Sound File (MP3)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1900,
+          "logicalDate": "1900-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 306,
+        "inclusiveEndDate": {
+          "year": 2003,
+          "logicalDate": "2003-12-31"
+        },
+        "title": "Records of the U.S. Information Agency",
+        "naId": 622
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1999,
+          "logicalDate": "1999-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Broadcasting Board of Governors. International Broadcasting Bureau. Voice of America. (10/1/1999 - )",
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 10,
+              "year": 1999,
+              "day": 1,
+              "logicalDate": "1999-10-01"
+            },
+            "naId": 10505403
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 2005,
+          "logicalDate": "2005-12-31"
+        },
+        "title": "Production Library Audio Recordings",
+        "naId": 118159
+      }
+    ],
+    "naId": 127614
+  }
+]

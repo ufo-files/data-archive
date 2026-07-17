@@ -1,0 +1,121 @@
+[
+  {
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "title": "[08/07/1996-08/09/1996]",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "city": "Little Rock",
+            "phone": "501-244-2877",
+            "address1": "1200 President Clinton Avenue",
+            "postalCode": "72201",
+            "name": "William J. Clinton Library",
+            "state": "AR",
+            "fax": "501-244-2881",
+            "email": "clinton.library@nara.gov",
+            "mailCode": "LP-WJC"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NLWJC,ou=groups",
+      "groupCd": "LPWJC"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "LPWJC 2006-0533-F",
+        "type": "FOIA Tracking Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "42-t-7585721-20060533F-001-001-2013.pdf",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/foia/2006/2006-0533-F/42-t-7585721-20060533F-001-001-2013.pdf",
+        "objectFileSize": 12345678,
+        "objectId": "147873192",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "otherTitles": [
+      "42-t-7585721-20060533F-001-001-2013"
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "WJC-NSCRM",
+        "inclusiveStartDate": {
+          "dateQualifier": "ca.",
+          "year": 1993,
+          "logicalDate": "1993-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "dateQualifier": "ca.",
+          "year": 2001,
+          "logicalDate": "2001-12-31"
+        },
+        "title": "Records of the National Security Council Records Management Office (Clinton Administration)",
+        "naId": 7388808
+      },
+      {
+        "inclusiveStartDate": {
+          "dateQualifier": "ca.",
+          "year": 1993,
+          "logicalDate": "1993-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "President (1993-2001 : Clinton). National Security Council. (1993 - 2001)",
+            "abolishDate": {
+              "year": 2001,
+              "logicalDate": "2001-12-31"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "year": 1993,
+              "logicalDate": "1993-01-01"
+            },
+            "naId": 10500730
+          }
+        ],
+        "inclusiveEndDate": {
+          "dateQualifier": "ca.",
+          "year": 2001,
+          "logicalDate": "2001-12-31"
+        },
+        "title": "Presidential Records Series (PRS) Files",
+        "naId": 7585721
+      }
+    ],
+    "naId": 147873191
+  }
+]

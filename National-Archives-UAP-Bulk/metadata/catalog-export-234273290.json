@@ -1,0 +1,122 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "Newsreels",
+        "authorityType": "specificRecordsType",
+        "naId": 10656972
+      }
+    ],
+    "useRestriction": {
+      "note": "Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "True",
+    "releaseDates": [
+      {
+        "month": 8,
+        "year": 1949,
+        "day": 22,
+        "logicalDate": "1949-08-22"
+      }
+    ],
+    "title": "Universal Newsreel Volume 22, Release 276",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "color": "Black-and-White",
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "specificMediaType": "Film Reel"
+          }
+        ],
+        "copyStatus": "Preservation"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "generalNotes": [
+      "Contact reference staff for information on availability of individual stories."
+    ],
+    "localIdentifier": "UN-UN-22-276",
+    "digitalObjects": [
+      {
+        "objectFilename": "un-un-22-276.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/un/UN/un-un-22-276.mp4",
+        "objectFileSize": 148910383,
+        "objectId": "301670537",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "UN",
+        "inclusiveStartDate": {
+          "year": 1929,
+          "logicalDate": "1929-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "year": 1967,
+          "logicalDate": "1967-12-31"
+        },
+        "title": "MCA/Universal Pictures Collection",
+        "naId": 1013
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1929,
+          "logicalDate": "1929-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "MCA/Universal Pictures.",
+            "authorityType": "organization",
+            "naId": 10468004
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1967,
+          "logicalDate": "1967-12-31"
+        },
+        "title": "Motion Picture Releases of the Universal Newsreel Library",
+        "naId": 100520
+      }
+    ],
+    "scopeAndContentNote": "The original release sheet reads: \n 1. \"FLYING SAUCER\" FOUND: GLEN BURNIE, MD - In an old tobacco shed, the Air Force turns up what might well be a link with the \"Flying Saucers\" that have caused such a stir in aviation circles. The wreck of a novel craft with a round wing! 2A/B/C. SWISS ALPINE FORTRESS: SWITZERLAND - Celebrating 658 years of independence, the tiny Alpine republic shows these first films of the mountainous \"Maginot\" forts with which it intends to preserve its age-old freedom. / GAR WOOD'S NEW BOAT: MIAMI BEACH - The famed motorboat pioneer and racing pilot takes the wheel of his amazing new \"Venturi\"—a twin-hulled craft he claims won't roll in heavy seas. / INDIANS ADOPT SOPHIE TUCKER: CANADA - Sophie Tucker, the last of the \"Red Hot Mamas,\" dresses up in tribal regalia and dances a tribal war dance, after being inducted into the Mohawk Tribe. She's still a scene-stealer. 3A/B. CONNIE MACK HONORED: NEW YORK - The \"Grand Old Man\" of baseball, Connie Mack, is cheered by thousands as he rides in triumph up Broadway. He also has a \"Day\" at Yankee Stadium, where he is honored for his 50 years as a manager. / JAP SWIMMERS STAR IN MEET: LOS ANGELES - Hironoshin Furuhashi of Tokyo breaks four records as he leads team to victory in the A.A.U. swim meet. Also—spectacular diving in slow motion from the high platform by crack U.S. divers. (LOCAL – KANSAS CITY) NATIONAL BASEBALL CONGRESS. (LOCAL – CANADA) MISS CANADA. (LOCAL – CANADA) FABULOUS YUKON PAYS OFF AGAIN. (LOCAL – CANADA) HAROLD LLOYD IN NEW ROLE.",
+    "naId": 234273290
+  }
+]

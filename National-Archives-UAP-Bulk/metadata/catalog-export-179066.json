@@ -1,0 +1,177 @@
+[
+  {
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "title": "Frank Moore - Receives 9000 letters concerning UFO incidents in conjunction with National Enquirer article",
+    "coverageEndDate": {
+      "month": 4,
+      "year": 1978,
+      "day": 26,
+      "logicalDate": "1978-04-26"
+    },
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "city": "Atlanta",
+            "phone": "404-865-7100",
+            "address1": "441 Freedom Parkway",
+            "postalCode": "30307-1498",
+            "name": "Jimmy Carter Library",
+            "state": "GA",
+            "fax": "404-865-7102",
+            "email": "carter.library@nara.gov",
+            "mailCode": "LP-JC"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Photographic Print"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      },
+      {
+        "referenceUnits": [
+          {
+            "city": "Atlanta",
+            "phone": "404-865-7100",
+            "address1": "441 Freedom Parkway",
+            "postalCode": "30307-1498",
+            "name": "Jimmy Carter Library",
+            "state": "GA",
+            "fax": "404-865-7102",
+            "email": "carter.library@nara.gov",
+            "mailCode": "LP-JC"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "specificMediaType": "Negative"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "coverageStartDate": {
+      "month": 4,
+      "year": 1978,
+      "day": 26,
+      "logicalDate": "1978-04-26"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NLJC,ou=groups",
+      "groupCd": "LPJC"
+    },
+    "generalRecordsTypes": [
+      "Photographs and other Graphic Materials"
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "NLC-WHSP-C-05376",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "contributors": [
+      {
+        "heading": "Shaddix, Billie B. (Billie Bert), 1931-",
+        "contributorType": "Photographer",
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1931,
+          "logicalDate": "1931-01-01"
+        },
+        "naId": 10611303
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "nlc05376cs.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/66/1790/179066/content/arcmedia/presidential-libraries/carter/173341/05000/nlc05376cs.jpg",
+        "objectFileSize": 434070,
+        "objectId": "14901131",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "nlc05376cs.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/66/1790/179066/content/presidential-libraries/carter/173341/batch-003/05300-05399/nlc05376cs.jpg",
+        "objectFileSize": 434070,
+        "objectId": "26051547",
+        "objectType": "Image (JPG)"
+      }
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "JC-WHSP",
+        "inclusiveStartDate": {
+          "month": 1,
+          "year": 1977,
+          "day": 20,
+          "logicalDate": "1977-01-20"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "month": 1,
+          "year": 1981,
+          "day": 20,
+          "logicalDate": "1981-01-20"
+        },
+        "title": "White House Staff Photographers Collection",
+        "naId": 1120
+      },
+      {
+        "inclusiveStartDate": {
+          "month": 1,
+          "year": 1977,
+          "day": 20,
+          "logicalDate": "1977-01-20"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "President (1977-1981 : Carter). White House Staff Photographers. 1/20/1977-1/20/1981",
+            "abolishDate": {
+              "month": 1,
+              "year": 1981,
+              "day": 20,
+              "logicalDate": "1981-01-20"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 1,
+              "year": 1977,
+              "day": 20,
+              "logicalDate": "1977-01-20"
+            },
+            "naId": 10468184
+          }
+        ],
+        "inclusiveEndDate": {
+          "month": 1,
+          "year": 1981,
+          "day": 20,
+          "logicalDate": "1981-01-20"
+        },
+        "title": "Jimmy Carter's Presidential Photographs",
+        "naId": 173341
+      }
+    ],
+    "naId": 179066
+  }
+]

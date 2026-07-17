@@ -1,0 +1,228 @@
+[
+  {
+    "levelOfDescription": "item",
+    "recordType": "description",
+    "shotList": "MS, doughnut shaped piece of cloth suspended by a wire. MSs, CU, Gen Samford, USAF Intelligence Chief, discusses the \"flying saucer\" because he says it is an obligation of the Air Force to investigate anything in the air that might prove a threat to the nation. His findings are that the bulk of the 12,000 reports received are hoaxes. He credits others as being the result of aircraft or meteorological and astronomical phenomena. He reveals that there is a certain percentage of credible observations but there is not pattern or measurement for analysis. His conclusions are that they represent no threat to us. He adds that flying saucers are not the result of a secret development by any US agency. A civilian seated at the desk is addressed by off-screen interrogator as Maj Kehoe (?) and queried on the origin of his book, \"Flying Saucers Are Real\". Kehoe states his belief that \"flying saucers are of inter-planetary origin and cites a report of pilots who encountered the objects.",
+    "subjects": [
+      {
+        "heading": "Washington (D.C.)",
+        "authorityType": "geographicPlaceName",
+        "naId": 10046466
+      },
+      {
+        "heading": "Pentagon (Va.)",
+        "authorityType": "organization",
+        "naId": 10489096
+      },
+      {
+        "heading": "Samford, John A. (John Alexander), 1905-1968",
+        "deathDate": {
+          "year": 1968,
+          "logicalDate": "1968-12-31"
+        },
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1905,
+          "logicalDate": "1905-01-01"
+        },
+        "naId": 10598732
+      },
+      {
+        "heading": "Motion pictures",
+        "authorityType": "specificRecordsType",
+        "naId": 10631732
+      },
+      {
+        "heading": "Wire",
+        "authorityType": "topicalSubject",
+        "naId": 10666035
+      }
+    ],
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "editStatus": "Unedited",
+    "audiovisual": "True",
+    "title": "MAJ. GEN. JOHN A. SAMFORD'S STATEMENT ON \"FLYING SAUCERS\", PENTAGON, WASHINGTON, D.C",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 436,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: DNC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 35 mm"
+          }
+        ],
+        "copyStatus": "Preservation"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 465,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: FGMC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 35 mm"
+          }
+        ],
+        "copyStatus": "Reproduction"
+      },
+      {
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3540",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Motion Pictures",
+            "state": "MD",
+            "fax": "301-837-3620",
+            "email": "mopix@nara.gov",
+            "mailCode": "RDSM"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "elementNumber": 1,
+            "reelTapeDiscNumber": 1,
+            "color": "Black-and-White",
+            "footage": 436,
+            "generalMediaTypes": [
+              "Motion Picture Film"
+            ],
+            "format": "Film: PPC",
+            "specificMediaType": "Film Reel",
+            "dimension": "Film: 35 mm"
+          }
+        ],
+        "copyStatus": "Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupId": "ou=NWCS-M,ou=groups",
+      "groupCd": "RDSM"
+    },
+    "generalRecordsTypes": [
+      "Moving Images"
+    ],
+    "localIdentifier": "111-LC-30875",
+    "productionDates": [
+      {
+        "month": 7,
+        "year": 1952,
+        "day": 31,
+        "logicalDate": "1952-07-31"
+      }
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "NWDNM(m)-111-LC-30875",
+        "type": "NAIL Control Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "111-LC-30875.mp4",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/38/257/25738/content/arcmedia/mopix/111/lc/111-LC-30875.mp4",
+        "objectFileSize": 13865595,
+        "objectId": "15037475",
+        "objectType": "Audio/Visual File (MP4)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1860,
+          "logicalDate": "1860-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 111,
+        "inclusiveEndDate": {
+          "year": 1985,
+          "logicalDate": "1985-12-31"
+        },
+        "title": "Records of the Office of the Chief Signal Officer",
+        "naId": 440
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1964,
+          "logicalDate": "1964-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. ca. 1974-5/15/1984",
+            "abolishDate": {
+              "month": 5,
+              "year": 1984,
+              "day": 15,
+              "logicalDate": "1984-05-15"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "year": 1974,
+              "logicalDate": "1974-01-01"
+            },
+            "naId": 10459659
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1980,
+          "logicalDate": "1980-12-31"
+        },
+        "title": "Motion Picture Films from the Army Library Copy Collection",
+        "naId": 25061
+      }
+    ],
+    "naId": 25738,
+    "soundType": "Sound"
+  }
+]

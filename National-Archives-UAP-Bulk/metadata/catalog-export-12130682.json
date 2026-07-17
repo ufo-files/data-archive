@@ -1,0 +1,164 @@
+[
+  {
+    "accessionNumbers": [
+      "1970-NLF-001"
+    ],
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "subjects": [
+      {
+        "heading": "U.S. House of Representatives. 3/4/1789-",
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 3,
+          "year": 1789,
+          "day": 4,
+          "logicalDate": "1789-03-04"
+        },
+        "naId": 10460330
+      },
+      {
+        "heading": "Republican Party (U.S. : 1854- )",
+        "authorityType": "organization",
+        "naId": 10441008
+      },
+      {
+        "heading": "Johnson, Lyndon B. (Lyndon Baines), 1908-1973",
+        "deathDate": {
+          "year": 1973,
+          "logicalDate": "1973-12-31"
+        },
+        "authorityType": "person",
+        "birthDate": {
+          "year": 1908,
+          "logicalDate": "1908-01-01"
+        },
+        "naId": 10677971
+      },
+      {
+        "heading": "Vietnam War, 1961-1975",
+        "authorityType": "topicalSubject",
+        "naId": 10643608
+      }
+    ],
+    "useRestriction": {
+      "note": "Some of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "false",
+    "title": "Ford Press Releases, January - April 1966",
+    "coverageEndDate": {
+      "month": 4,
+      "year": 1966,
+      "logicalDate": "1966-04-30"
+    },
+    "physicalOccurrences": [
+      {
+        "extent": "75 pages",
+        "referenceUnits": [
+          {
+            "city": "Ann Arbor",
+            "phone": "734-205-0555",
+            "address1": "1000 Beal Avenue",
+            "postalCode": "48109-2114",
+            "name": "Gerald R. Ford Library",
+            "state": "MI",
+            "fax": "734-205-0571",
+            "email": "ford.library@nara.gov",
+            "mailCode": "LP-GRF"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "D4",
+            "reproductionCount": 75
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "coverageStartDate": {
+      "month": 1,
+      "year": 1966,
+      "logicalDate": "1966-01-01"
+    },
+    "dataControlGroup": {
+      "groupName": "Gerald R. Ford Library",
+      "groupId": "ou=NLGRF,ou=groups",
+      "groupCd": "LPGRF"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "005400715",
+        "type": "PRESNET Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "12130682.pdf",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0054/642075/12130682.pdf",
+        "objectFileSize": 1234,
+        "objectId": "172081726",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "GRF-0054",
+        "inclusiveStartDate": {
+          "year": 1948,
+          "logicalDate": "1948-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "year": 1973,
+          "logicalDate": "1973-12-31"
+        },
+        "title": "Gerald R. Ford Congressional Papers",
+        "naId": 642038
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1964,
+          "logicalDate": "1964-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Ford, Gerald R., 1913-2006",
+            "deathDate": {
+              "year": 2006,
+              "logicalDate": "2006-12-31"
+            },
+            "authorityType": "person",
+            "birthDate": {
+              "year": 1913,
+              "logicalDate": "1913-01-01"
+            },
+            "naId": 10678025
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1973,
+          "logicalDate": "1973-12-31"
+        },
+        "title": "Press Releases Chronological Files",
+        "naId": 642075
+      }
+    ],
+    "naId": 12130682
+  }
+]

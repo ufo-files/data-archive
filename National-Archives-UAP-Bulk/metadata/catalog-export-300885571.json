@@ -1,0 +1,120 @@
+[
+  {
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+      "specificUseRestrictions": [
+        "Copyright"
+      ],
+      "status": "Restricted - Possibly"
+    },
+    "audiovisual": "false",
+    "title": "Scanned: Case Number 118479cu",
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "city": "Little Rock",
+            "phone": "501-244-2877",
+            "address1": "1200 President Clinton Avenue",
+            "postalCode": "72201",
+            "name": "William J. Clinton Library",
+            "state": "AR",
+            "fax": "501-244-2881",
+            "email": "clinton.library@nara.gov",
+            "mailCode": "LP-WJC"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "1"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "dataControlGroup": {
+      "groupName": "William J. Clinton Library",
+      "groupId": "ou=NLWJC,ou=groups",
+      "groupCd": "LPWJC"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "LPWJC 2006-0483-F",
+        "type": "FOIA Tracking Number"
+      }
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "1127609-20060483F-001-002-2023.pdf",
+        "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/1127609/1127609-20060483F-001-002-2023.pdf",
+        "objectFileSize": 103761,
+        "objectId": "300885601",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "otherTitles": [
+      "1127609-20060483F-001-002-2023",
+      "[FE010-01] [Subject Files on the Federal Government]"
+    ],
+    "ancestors": [
+      {
+        "collectionIdentifier": "WJC-WHORM",
+        "inclusiveStartDate": {
+          "year": 1993,
+          "logicalDate": "1993-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "collection",
+        "inclusiveEndDate": {
+          "year": 2001,
+          "logicalDate": "2001-12-31"
+        },
+        "title": "Records of the White House Office of Records Management (Clinton Administration)",
+        "naId": 594462
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1993,
+          "logicalDate": "1993-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "President (1993-2001 : Clinton). White House Office of Records Management. 1993-2001",
+            "abolishDate": {
+              "year": 2001,
+              "logicalDate": "2001-12-31"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "year": 1993,
+              "logicalDate": "1993-01-01"
+            },
+            "naId": 10462067
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 2001,
+          "logicalDate": "2001-12-31"
+        },
+        "title": "Subject Files on the Federal Government",
+        "naId": 1127609
+      }
+    ],
+    "naId": 300885571
+  }
+]

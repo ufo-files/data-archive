@@ -1,0 +1,160 @@
+[
+  {
+    "levelOfDescription": "fileUnit",
+    "recordType": "description",
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "audiovisual": "false",
+    "title": "A8-2 Information, Collection of, 1959",
+    "coverageEndDate": {
+      "year": 1959,
+      "logicalDate": "1959-12-31"
+    },
+    "physicalOccurrences": [
+      {
+        "referenceUnits": [
+          {
+            "city": "Perris",
+            "phone": "951-956-2000",
+            "address1": "23123 Cajalco Rd",
+            "postalCode": "92570",
+            "name": "National Archives at Riverside",
+            "state": "CA",
+            "fax": "951-956-2049",
+            "email": "riverside.archives@nara.gov",
+            "mailCode": "RW-RS"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper",
+            "containerId": "Box 24"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "coverageStartDate": {
+      "year": 1959,
+      "logicalDate": "1959-01-01"
+    },
+    "dataControlGroup": {
+      "groupName": "National Archives at Riverside",
+      "groupId": "ou=NRHAR,ou=groups",
+      "groupCd": "RWRS"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "digitalObjects": [
+      {
+        "objectFilename": "291645977-001.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-181/7450434/291645977/291645977-001.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700668",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "291645977-002.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-181/7450434/291645977/291645977-002.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700669",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "291645977-003.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-181/7450434/291645977/291645977-003.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700670",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "291645977-004.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-181/7450434/291645977/291645977-004.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700671",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "291645977-005.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-181/7450434/291645977/291645977-005.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700672",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "291645977-006.jpg",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-181/7450434/291645977/291645977-006.jpg",
+        "objectFileSize": 1234,
+        "objectId": "291700673",
+        "objectType": "Image (JPG)"
+      },
+      {
+        "objectFilename": "291645977.pdf",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-181/7450434/291645977/291645977.pdf",
+        "objectFileSize": 1234,
+        "objectId": "291700667",
+        "objectType": "Portable Document File (PDF)"
+      }
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1784,
+          "logicalDate": "1784-01-01"
+        },
+        "distance": 2,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 181,
+        "inclusiveEndDate": {
+          "year": 2000,
+          "logicalDate": "2000-12-31"
+        },
+        "title": "Records of Navy Installations Command, Navy Regions, Naval Districts, and Shore Establishments",
+        "naId": 510
+      },
+      {
+        "inclusiveStartDate": {
+          "year": 1957,
+          "logicalDate": "1957-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "series",
+        "creators": [
+          {
+            "creatorType": "Most Recent",
+            "heading": "Department of Defense. Department of the Navy. Naval Air Station, Point Mugu, California. 8/1/1949-1/22/1992",
+            "abolishDate": {
+              "month": 1,
+              "year": 1992,
+              "day": 22,
+              "logicalDate": "1992-01-22"
+            },
+            "authorityType": "organization",
+            "establishDate": {
+              "month": 8,
+              "year": 1949,
+              "day": 1,
+              "logicalDate": "1949-08-01"
+            },
+            "naId": 10515920
+          }
+        ],
+        "inclusiveEndDate": {
+          "year": 1959,
+          "logicalDate": "1959-12-31"
+        },
+        "title": "Central Subject Files",
+        "naId": 7450434
+      }
+    ],
+    "naId": 291645977
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "accessionNumbers": [
+      "NN3-341-79-1",
+      "NC3-341-78-2"
+    ],
+    "inclusiveStartDate": {
+      "year": 1953,
+      "logicalDate": "1953-01-01"
+    },
+    "levelOfDescription": "series",
+    "creators": [
+      {
+        "creatorType": "Most Recent",
+        "heading": "Department of Defense. Department of the Air Force. Office of the Chief of Staff. Office of the Assistant Chief of Staff, Intelligence. Aerospace Technical Intelligence Center. Office of the Deputy for Science and Components. Air Sciences Division. Aerial Phenomena Group. (9/21/1959 - 1/1/1960)",
+        "abolishDate": {
+          "month": 1,
+          "year": 1960,
+          "day": 1,
+          "logicalDate": "1960-01-01"
+        },
+        "authorityType": "organization",
+        "establishDate": {
+          "month": 9,
+          "year": 1959,
+          "day": 21,
+          "logicalDate": "1959-09-21"
+        },
+        "naId": 17368206
+      }
+    ],
+    "recordType": "description",
+    "inclusiveEndDate": {
+      "year": 1960,
+      "logicalDate": "1960-12-31"
+    },
+    "subjects": [
+      {
+        "heading": "Unidentified flying objects",
+        "authorityType": "topicalSubject",
+        "naId": 10643350
+      }
+    ],
+    "useRestriction": {
+      "status": "Unrestricted"
+    },
+    "audiovisual": "false",
+    "fileUnitCount": 5,
+    "title": "Case Files on Sightings of Unidentified Flying Objects (UFOs)",
+    "physicalOccurrences": [
+      {
+        "extent": "5 linear inches",
+        "referenceUnits": [
+          {
+            "address2": "8601 Adelphi Road",
+            "city": "College Park",
+            "phone": "301-837-3510",
+            "address1": "National Archives at College Park",
+            "postalCode": "20740-6001",
+            "name": "National Archives at College Park - Textual Reference",
+            "state": "MD",
+            "fax": "301-837-1752",
+            "email": "Archives2reference@nara.gov",
+            "mailCode": "RDT2"
+          }
+        ],
+        "mediaOccurrences": [
+          {
+            "generalMediaTypes": [
+              "Loose Sheets"
+            ],
+            "specificMediaType": "Paper"
+          }
+        ],
+        "holdingsMeasurements": [
+          {
+            "count": 1,
+            "type": "Legal Archives Box, Standard"
+          }
+        ],
+        "copyStatus": "Preservation-Reproduction-Reference"
+      }
+    ],
+    "accessRestriction": {
+      "status": "Unrestricted"
+    },
+    "arrangement": "Unarranged.",
+    "dataControlGroup": {
+      "groupId": "ou=RDTP2,ou=groups",
+      "groupCd": "RDTP2"
+    },
+    "generalRecordsTypes": [
+      "Textual Records"
+    ],
+    "variantControlNumbers": [
+      {
+        "number": "111786",
+        "type": "HMS Record Entry ID"
+      },
+      {
+        "number": "A1 294K",
+        "type": "HMS/MLR Entry Number"
+      },
+      {
+        "number": "NND 9237007",
+        "type": "Declassification Project Number"
+      }
+    ],
+    "otherTitles": [
+      "Department Chief of Staff; Operations; Director of Intelligence; Air Technical Intelligence Center; Wright Patterson Air Force Base, Ohio; Technical Analysis Division; Aerial Phenomenom Branch; Miscellaneous Case Files On Sightings Of Unidentified Flying Objects, 1953-60"
+    ],
+    "ancestors": [
+      {
+        "inclusiveStartDate": {
+          "year": 1934,
+          "logicalDate": "1934-01-01"
+        },
+        "distance": 1,
+        "levelOfDescription": "recordGroup",
+        "recordGroupNumber": 341,
+        "inclusiveEndDate": {
+          "year": 2004,
+          "logicalDate": "2004-12-31"
+        },
+        "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+        "naId": 653
+      }
+    ],
+    "naId": 23857159,
+    "functionAndUse": "Air Force staff compiled these records as part of the Air Force study of UFOs called Project Blue Book.   Investigators from districts and commands sent the records to the Air Technical Intelligence Center at Wright Patterson Air Force Base."
+  }
+]
