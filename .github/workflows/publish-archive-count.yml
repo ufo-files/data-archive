@@ -20,6 +20,12 @@ jobs:
     steps:
       - name: Checkout archive
         uses: actions/checkout@v5
+        with:
+          # The counter needs the complete Git index, not 13,000+ PDF blobs.
+          # Sparse checkout preserves every tracked path in `git ls-files`
+          # while materializing only the script required by this job.
+          filter: blob:none
+          sparse-checkout: .github/scripts
 
       - name: Build live count
         run: python3 .github/scripts/build_archive_count.py --output archive-count.json
