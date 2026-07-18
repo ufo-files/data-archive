@@ -8,25 +8,25 @@
     "FBI-Vault-UFO": 35,
     "Legacy-Documents": 52,
     "NSA-UFO-FOIA": 161,
-    "National-Archives-UAP-Bulk": 4446,
+    "National-Archives-UAP-Bulk": 4462,
     "Steven-Greer-Document-Library": 144,
     "War-Gov-PURSUE": 268,
     "wikileaks": 8
   },
   "by_type": {
     "audio": 42,
-    "documents": 14918,
+    "documents": 14934,
     "images": 860,
     "videos": 123
   },
-  "count": 15943,
+  "count": 15959,
   "excluded": {
     "non_archive_files": 482,
     "zip_files": 7
   },
-  "generated_utc": "2026-07-18T08:55:23.944301Z",
+  "generated_utc": "2026-07-18T08:59:00.730310Z",
   "repository": "ufo-files/data-archive",
-  "revision": "10de269e62618e7c5eb07a023b0402c8e5be1386",
+  "revision": "c5167be48014e90bd3a6945e135840fd4450107e",
   "schema_version": 1,
-  "total_files": 15943
+  "total_files": 15959
 }
