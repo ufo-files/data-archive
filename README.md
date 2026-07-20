@@ -13,22 +13,11 @@ contain different portions of the same collection.
 
 ## Archive Directory
 
-| Repository | Folder | Link |
+| Repository | Purpose | Folders |
 | --- | --- | --- |
-| `data-archive` | `AARO-UAP-Records` | [Browse](https://github.com/ufo-files/data-archive/tree/main/AARO-UAP-Records) |
-| `data-archive` | `American-Alchemy` | [Browse](https://github.com/ufo-files/data-archive/tree/main/American-Alchemy) |
-| `data-archive` | `Black-Vault-UFO` | [Browse](https://github.com/ufo-files/data-archive/tree/main/Black-Vault-UFO) |
-| `data-archive` | `DOE-NNSA-UAP-UFO` | [Browse](https://github.com/ufo-files/data-archive/tree/main/DOE-NNSA-UAP-UFO) |
-| `data-archive` | `DPIArchive` | [Browse](https://github.com/ufo-files/data-archive/tree/main/DPIArchive) |
-| `data-archive` | `FBI-Vault-UFO` | [Browse](https://github.com/ufo-files/data-archive/tree/main/FBI-Vault-UFO) |
-| `data-archive` | `Legacy-Documents` | [Browse](https://github.com/ufo-files/data-archive/tree/main/Legacy-Documents) |
-| `data-archive` | `NSA-UFO-FOIA` | [Browse](https://github.com/ufo-files/data-archive/tree/main/NSA-UFO-FOIA) |
-| `data-archive` | `National-Archives-UAP-Bulk` | [Browse](https://github.com/ufo-files/data-archive/tree/main/National-Archives-UAP-Bulk) |
-| `data-archive` | `Steven-Greer-Document-Library` | [Browse](https://github.com/ufo-files/data-archive/tree/main/Steven-Greer-Document-Library) |
-| `data-archive` | `War-Gov-PURSUE` | [Browse](https://github.com/ufo-files/data-archive/tree/main/War-Gov-PURSUE) |
-| `data-archive` | `wikileaks` | [Browse](https://github.com/ufo-files/data-archive/tree/main/wikileaks) |
-| `data-archive-1` | `National-Archives-UAP-Bulk` | [Browse](https://github.com/ufo-files/data-archive-1/tree/main/National-Archives-UAP-Bulk) |
-| `data-archive-2` | `National-Archives-UAP-Bulk` | [Browse](https://github.com/ufo-files/data-archive-2/tree/main/National-Archives-UAP-Bulk) |
+| [`data-archive`](https://github.com/ufo-files/data-archive) | Base archive shard and broad source index | [`AARO-UAP-Records`](https://github.com/ufo-files/data-archive/tree/main/AARO-UAP-Records)<br>[`American-Alchemy`](https://github.com/ufo-files/data-archive/tree/main/American-Alchemy)<br>[`Black-Vault-UFO`](https://github.com/ufo-files/data-archive/tree/main/Black-Vault-UFO)<br>[`DOE-NNSA-UAP-UFO`](https://github.com/ufo-files/data-archive/tree/main/DOE-NNSA-UAP-UFO)<br>[`DPIArchive`](https://github.com/ufo-files/data-archive/tree/main/DPIArchive)<br>[`FBI-Vault-UFO`](https://github.com/ufo-files/data-archive/tree/main/FBI-Vault-UFO)<br>[`Legacy-Documents`](https://github.com/ufo-files/data-archive/tree/main/Legacy-Documents)<br>[`NSA-UFO-FOIA`](https://github.com/ufo-files/data-archive/tree/main/NSA-UFO-FOIA)<br>[`National-Archives-UAP-Bulk`](https://github.com/ufo-files/data-archive/tree/main/National-Archives-UAP-Bulk)<br>[`Steven-Greer-Document-Library`](https://github.com/ufo-files/data-archive/tree/main/Steven-Greer-Document-Library)<br>[`War-Gov-PURSUE`](https://github.com/ufo-files/data-archive/tree/main/War-Gov-PURSUE)<br>[`wikileaks`](https://github.com/ufo-files/data-archive/tree/main/wikileaks) |
+| [`data-archive-1`](https://github.com/ufo-files/data-archive-1) | Archive shard 1 and canonical live-count publisher | [`National-Archives-UAP-Bulk`](https://github.com/ufo-files/data-archive-1/tree/main/National-Archives-UAP-Bulk) |
+| [`data-archive-2`](https://github.com/ufo-files/data-archive-2) | Archive shard 2 | [`National-Archives-UAP-Bulk`](https://github.com/ufo-files/data-archive-2/tree/main/National-Archives-UAP-Bulk) |
 
 ## Live Count
 
